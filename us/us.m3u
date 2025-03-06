@@ -31,12 +31,12 @@ https://d21niorw6ywvgl.cloudfront.net/out/v1/58680ea755d94e089fd8a13e0ce2c174/in
 https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44895_dark_360w_270h.png",AWE
 https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live1/awe/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
-https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",Create
 https://urs.pbs.org/redirect/68752c093354467eba8a6f937a8b3010/
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World
 https://urs.pbs.org/redirect/8868bd5f66254c18b448fada8fd74ce1/
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
+https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82462_dark_360w_270h.png",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA TV
@@ -74,7 +74,7 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49266_dark_360w_270h.png",Hope Channel
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14355_dark_360w_270h.png",Cornerstone Television
-https://2-fss-1.themediacdn.com/pl_122/amlst:206280-3059514-1/playlist.m3u8
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18999_dark_360w_270h.png",GEB
 https://5abbf4687b6ea.streamlock.net/live/gebtest/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71798_dark_360w_270h.png",Impact Network
@@ -122,7 +122,9 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29114_dark_360w_270h.png",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24248_dark_360w_270h.png",CCTV4-China Central TV
-https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-2100
+#EXTVLCOPT:http-referrer=https://tv.cctv.com/live/cctvamerica/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47481_dark_360w_270h.png",NTD
 https://live.ntdtv.com/live900/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png",Arirang
