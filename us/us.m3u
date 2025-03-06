@@ -53,10 +53,14 @@ https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/aspen.m3u8
 https://2-fss-1.streamhoster.com/pl_154/amlst:206040-2698292/funroads.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55916_dark_360w_270h.png",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201660-1270634/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121297_dark_360w_270h.png",Nostalgia Network
+https://classicreruns2-pull-secure.akamaized.net/crr2/stream.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69639_dark_360w_270h.png",The Country Network
 https://tcn-live.cdn.vustreams.com/live/feddb25b-7367-49e4-bbb6-48af01ca7407/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60165_dark_360w_270h.png",JLTV
 https://jlt-jltv-roku.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11514_dark_360w_270h.png",World Harvest Television
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png",BYU TV
 https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
