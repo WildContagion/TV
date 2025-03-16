@@ -13,8 +13,6 @@ https://aegis-cloudfront-1.tubi.video/30ce17f7-c7e4-4721-93cb-551054593b69/index
 https://d1pii8jaj0kqjy.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96827_dark_360w_270h.png",Scripps News
 https://d3bm57axgo0g6i.cloudfront.net/out/v1/fa7cbb1e545142a18026aef154871f42/index.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114934_dark_360w_270h.png",The First
-https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117261_dark_360w_270h.png",OAN Plus
 https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live1/oane/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140284_dark_360w_270h.png",Salem News Channel
@@ -41,6 +39,8 @@ https://pubads.g.doubleclick.net/ssai/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112732_dark_360w_270h.png",SportsGrid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106100_dark_360w_270h.png",Fubo Sports Network
+https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s137752_dark_360w_270h.png",The Tennis Channel
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114313_dark_360w_270h.png",Outside
