@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTINF:-1 tvg-chno="" tvg-id="USBB52000022Q" tvg-logo="http://example.com/example.png",Sky News
+https://diqcndgguze12.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="US4000033L" tvg-logo="http://example.com/example.png",BBC News
+https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
