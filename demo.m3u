@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Apple HLS BipBop
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1,Art of Motion (DASH)
+https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd
+#EXTINF:-1,Art of Motion (HLS)
+https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+#EXTINF:-1,Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,DASH-IF Live sample
+https://livesim2.dashif.org/livesim2/testpic_2s/Manifest.mpd
+#EXTINF:-1,Unified Streaming Live reference stream (HLS TS)
+https://demo.unified-streaming.com/k8s/live/scte35.isml/.m3u8
+#EXTINF:-1,Unified Streaming Live reference stream (DASH)
+https://demo.unified-streaming.com/k8s/live/scte35.isml/.mpd
