@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml;https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/all.xml"
 #EXTINF:-1 tvg-chno="120" group-title="" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-logo="http://example.com/example.png",LiveNOW from FOX
-https://aka-live-001-0002.delivery.roku.com/b2073d8d-954c-433e-986c-c510a165b05c/t2-origin/out/v1/live.m3u8
+https://aka-live-002-0884.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="161" group-title="" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-logo="http://example.com/example.png",AccuWeather NOW
 https://aka-live1367.delivery.roku.com/10ddd1d8-271e-48bc-9290-80315b6400dc/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="297" group-title="" tvg-id="52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-logo="http://example.com/example.png",LOL Network
-https://aka-live872.delivery.roku.com/39158904-c892-4038-957f-c95450e8425f/t2-origin/out/v1/live.m3u8
+https://aka-live790.delivery.roku.com/9f08863f-60d1-49e5-b935-871f694ba446/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="298" group-title="" tvg-id="d6f71998860459eca1bed73db5988330" tvg-logo="http://example.com/example.png",FilmRise Free Movies
 https://aka-live1770.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="335" group-title="" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-logo="http://example.com/example.png",FilmRise British TV
