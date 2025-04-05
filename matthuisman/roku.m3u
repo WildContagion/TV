@@ -29,6 +29,10 @@ https://jmp2.uk/rok-7b3b6c3d670c5008be3b100fd622fa0d.m3u8
 https://aka-live1780.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="702" group-title="" tvg-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-logo="http://example.com/example.png",FilmRise Food
 https://live1769.delivery.roku.com/f6f9008a-207c-4f52-bbb3-92d6cf5df0f9/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-chno="804" group-title="" tvg-id="bcd2f34b280f5bae874ed3b487a96e96" tvg-logo="http://example.com/example.png",MrBeast
+https://aka-live-000-0076.delivery.roku.com/f241c89a-f370-4f51-917c-ec692c6b4af7/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-chno="805" group-title="" tvg-id="51cc9cb7f052534cb6e6f55ac4980b06" tvg-logo="http://example.com/example.png",Mythical 24/7
+https://aka-live1096.delivery.roku.com/305cbc9b-6c11-40b9-83ec-694da4a6b0e1/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="810" group-title="" tvg-id="aeef4f63419a5d5fabcf0055585f9ccc" tvg-logo="http://example.com/example.png",FailArmy
 https://aka-live1648.delivery.roku.com/e256f080-f16c-4159-a990-96c21185cc20/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="811" group-title="" tvg-id="69791edb54d953268aa8933e2cb29a32" tvg-logo="http://example.com/example.png",Pet Collective
