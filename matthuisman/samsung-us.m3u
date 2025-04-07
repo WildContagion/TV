@@ -5,15 +5,17 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us
 https://diqcndgguze12.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-chno="1150" tvg-id="USBC4400003OU" tvg-logo="http://example.com/example.png",CBC News
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
-#EXTINF:-1 tvg-chno="3724" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
-https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="4323" tvg-id="USBD3300004RH" tvg-logo="http://example.com/example.png",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-chno="1812" tvg-id="US3700007E4" tvg-logo="http://example.com/example.png",BritBox Mysteries
 https://d2qpz74no6vvjt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
 #EXTINF:-1 tvg-chno="3532" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
 https://d2qmwprplnkhvr.cloudfront.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-chno="3656" tvg-id="US2200006FS" tvg-logo="http://example.com/example.png",Shaun the Sheep
+https://d2r2is7i9uumbe.cloudfront.net/shaun.m3u8
+#EXTINF:-1 tvg-chno="3724" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="4323" tvg-id="USBD3300004RH" tvg-logo="http://example.com/example.png",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-chno="4575" tvg-id="USBB1000002TK" tvg-logo="http://example.com/example.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
