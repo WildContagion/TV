@@ -1,12 +1,20 @@
 #EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTINF:-1 tvg-chno="1002" tvg-id="US4500009VV" tvg-logo="http://example.com/example.png",BBC Comedy
+https://d3gzht3ug1blcq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="1140" tvg-id="US4000033L" tvg-logo="http://example.com/example.png",BBC News
 https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="1145" tvg-id="USBB52000022Q" tvg-logo="http://example.com/example.png",Sky News
 https://diqcndgguze12.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-chno="1150" tvg-id="USBC4400003OU" tvg-logo="http://example.com/example.png",CBC News
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-chno="1524" tvg-id="US3700005GP" tvg-logo="http://example.com/example.png",BBC Drama
+https://du07sa58x32ex.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="1812" tvg-id="US3700007E4" tvg-logo="http://example.com/example.png",BritBox Mysteries
 https://d2qpz74no6vvjt.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2099" tvg-id="USBC600017FG" tvg-logo="http://example.com/example.png",BBC Home & Garden
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2100" tvg-id="USBC6000108Z" tvg-logo="http://example.com/example.png",BBC Food
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
 #EXTINF:-1 tvg-chno="3532" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
