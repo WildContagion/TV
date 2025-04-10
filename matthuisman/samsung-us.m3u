@@ -19,6 +19,10 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="2116" tvg-id="USBC4400016CL" tvg-logo="http://example.com/example.png",Jamie Oliver
 https://d5ppqhcqleshc.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2825" tvg-id="USBC44000087O" tvg-logo="http://example.com/example.png",Supermarket Sweep
+https://dmktp7jglqp5w.cloudfront.net/Supermarket_Sweep.m3u8
+#EXTINF:-1 tvg-chno="2930" tvg-id="USAJ34000022E" tvg-logo="http://example.com/example.png",Nosey
+https://b54b72ba.wurl.com/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
 #EXTINF:-1 tvg-chno="3532" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
