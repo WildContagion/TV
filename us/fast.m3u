@@ -111,6 +111,8 @@ https://linear-744.frequency.stream/mt/dice/744/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s161735_dark_360w_270h.png",60 Minutes
 https://60mi203g0hb.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113957_dark_360w_270h.png",Dateline
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138396_dark_360w_270h.png",American Crimes
 https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138585_dark_360w_270h.png",Oxygen True Crime Archives
@@ -167,6 +169,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=584
 https://amg01700-tbn-amg01700c4-tbn-worldwide-965.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-yippee-tbnworldwide/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s165133_dark_360w_270h.png",TBN's Women of Faith
 https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s156961_dark_360w_270h.png",Joel Osteen
+https://linear-860.frequency.stream/dist/localnow/860/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110480_dark_360w_270h.png",Dove
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127467_dark_360w_270h.png",FamilyTime
