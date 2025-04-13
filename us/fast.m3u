@@ -87,14 +87,14 @@ https://pubads.g.doubleclick.net/ssai/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",FOX SOUL
 https://aegis-cloudfront-1.tubi.video/66886913-4bc2-4a2b-84c3-a11c462c1916/index.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117260_dark_360w_270h.png",AWE Plus
-https://s-cdn.herringnetwork.com/live1/awee/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113603_dark_360w_270h.png",Revry
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117060_dark_360w_270h.png",Backstage
 https://fuseaaaaa-fusexl-7o3fb.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120372_dark_360w_270h.png",Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117260_dark_360w_270h.png",AWE Plus
+https://s-cdn.herringnetwork.com/live1/awee/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122912_dark_360w_270h.png",ION
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117518_dark_360w_270h.png",ION Plus
