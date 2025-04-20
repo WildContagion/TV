@@ -66,7 +66,12 @@ https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109977_dark_360w_270h.png",CBN News Channel
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png",BYU TV
-https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://content.uplynk.com/wv|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.mpd?rmt=wv
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png",TBN
 https://cdn.jwplayer.com/live/broadcast/fCGf6ROk.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122276_dark_360w_270h.png",TBN Inspire
