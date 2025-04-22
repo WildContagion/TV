@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="https://imgcdn.kidoodle.tv/FranklinEnglish/S03/web_e01_thumb@2x.jpg",Franklin - Franklin and His Night Friend / Franklin and the Two Henry's
+#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="https://imgcdn.kidoodle.tv/WaysideSchool/S01/web_e01_thumb@2x.jpg",Wayside School - Pull My Pigtail / Class Cow
+https://prod.kidoodle.tv/api/2.0/content/elemental-source/web/851/36551/22583/watch/manifest.m3u8
+#EXTINF:-1 group-title="Nosey" tvg-logo="https://assets.maz.tv/rq2o3zukm77boeghg2rngeb3dbcc.jpeg",Jerry Springer - Invasion of the Little People
+https://player.zype.com/manifest/6617dadd1eb29e0001bf5846.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim
+#EXTINF:-1 group-title="Nosey" tvg-logo="https://assets.maz.tv/6iiukqin8qg6u8qtqkcu6ytjmd2w.jpeg",Steve Wilkos - No Money, No Baby
+https://player.zype.com/manifest/661934a2b971e0000141eee6.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim
