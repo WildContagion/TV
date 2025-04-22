@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="",Franklin - Franklin and His Night Friend / Franklin and the Two Henry's
+#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="",Babar - S6E1 - The Departure
+https://prod.kidoodle.tv/api/2.0/content/elemental-source/web/817/34681/20964/watch/manifest.m3u8
+#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="",Franklin - S3E1Franklin and His Night Friend / Franklin and the Two Henry's
 https://prod.kidoodle.tv/api/2.0/content/elemental-source/web/631/22572/9858/watch/manifest.m3u8
-#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="",Wayside School - Pull My Pigtail / Class Cow
+#EXTINF:-1 group-title="Kidoodle.TV" tvg-logo="",Wayside School - S1E1 - Pull My Pigtail / Class Cow
 https://prod.kidoodle.tv/api/2.0/content/elemental-source/web/851/36551/22583/watch/manifest.m3u8
-#EXTINF:-1 group-title="Nosey" tvg-logo="",Jerry Springer - Invasion of the Little People
+#EXTINF:-1 group-title="Nosey" tvg-logo="",Jerry Springer - S9E1 - Invasion of the Little People
 https://player.zype.com/manifest/6617dadd1eb29e0001bf5846.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim
-#EXTINF:-1 group-title="Nosey" tvg-logo="",Steve Wilkos - No Money No Baby
+#EXTINF:-1 group-title="Nosey" tvg-logo="",Maury - S11E14 - Who's MY Baby's Dad My Husband or His Nephew?
+https://player.zype.com/manifest/650d5e21d4cbbc000130b539.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim
+#EXTINF:-1 group-title="Nosey" tvg-logo="",Steve Wilkos - S2E9 - No Money No Baby
 https://player.zype.com/manifest/661934a2b971e0000141eee6.m3u8?api_key=ATqMXs9w1hdP5CY1RJL35ExBf8nOHMfeg5qn6bKeadopkZ30lQx5RqJFlwx0Gyim
