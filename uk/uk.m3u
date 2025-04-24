@@ -1,19 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="TV" tvg-id="" tvg-logo="",BBC One London
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="2" group-title="TV" tvg-id="" tvg-logo="",BBC Two
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="23" group-title="TV" tvg-id="" tvg-logo="",BBC Three
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="9" group-title="TV" tvg-id="" tvg-logo="",BBC Four 
+#EXTINF:-1 tvg-chno="9" group-title="TV" tvg-id="" tvg-logo="",BBC Four
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="201" group-title="TV" tvg-id="" tvg-logo="",CBBC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="202" group-title="TV" tvg-id="" tvg-logo="",CBeebies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="231" group-title="TV" tvg-id="" tvg-logo="",BBC News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="232" group-title="TV" tvg-id="" tvg-logo="",BBC Parliament
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="4" group-title="TV" tvg-id="" tvg-logo="",Channel 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -43,9 +67,9 @@ https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-d
 #EXTINF:-1 tvg-chno="16" group-title="TV" tvg-id="" tvg-logo="",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-chno="22" group-title="TV" tvg-id="" tvg-logo="",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master.m3u8
 #EXTINF:-1 tvg-chno="51" group-title="TV" tvg-id="" tvg-logo="",Ideal World
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(HDTJCBeauty)/master.mpd
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="TV" tvg-id="" tvg-logo="",Great! Movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-chno="52" group-title="TV" tvg-id="" tvg-logo="",Great! Romance
@@ -61,7 +85,7 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:-1 tvg-chno="64" group-title="TV" tvg-id="" tvg-logo="",Blaze
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="TV" tvg-id="" tvg-logo="",TBN uk
-https://cdn.jwplayer.com/live/broadcast/r08fY89I.mpd
+https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
 #EXTINF:-1 tvg-chno="205" group-title="TV" tvg-id="" tvg-logo="",Pop
 https://live-narrative-amagi.simplestreamcdn.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="206" group-title="TV" tvg-id="" tvg-logo="",Tiny Pop
