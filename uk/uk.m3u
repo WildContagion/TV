@@ -40,29 +40,39 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="4" group-title="TV" tvg-id="" tvg-logo="",Channel 4
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="13" group-title="TV" tvg-id="" tvg-logo="",E4
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="18" group-title="TV" tvg-id="" tvg-logo="",More4
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="14" group-title="TV" tvg-id="" tvg-logo="",Film4
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="49" group-title="TV" tvg-id="" tvg-logo="",4seven
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="16" group-title="TV" tvg-id="" tvg-logo="",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
