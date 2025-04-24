@@ -1,32 +1,81 @@
-GB News
-https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-Great! Movies
-https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
-Great! Romance
-https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
-Great! Mystery
-https://d3fc00scy7tr16.cloudfront.net/playlist.m3u8
-Ideal World
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(HDTJCBeauty)/master.mpd
-Ketchup TV
-https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
-MBC
-https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-Pop
-https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
-Pop Up
-https://d3aemwnwxaxlsg.cloudfront.net/playlist.m3u8
-QVC
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="TV" tvg-id="" tvg-logo="",BBC One London
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="2" group-title="TV" tvg-id="" tvg-logo="",BBC Two
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
+BBC Three
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
+BBC Four 
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v1.mpd
+#EXTINF:-1 tvg-chno="201" group-title="TV" tvg-id="" tvg-logo="",CBBC
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="202" group-title="TV" tvg-id="" tvg-logo="",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="231" group-title="TV" tvg-id="" tvg-logo="",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="232" group-title="TV" tvg-id="" tvg-logo="",https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-chno="4" group-title="TV" tvg-id="" tvg-logo="",Channel 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="13" group-title="TV" tvg-id="" tvg-logo="",E4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="18" group-title="TV" tvg-id="" tvg-logo="",More4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="14" group-title="TV" tvg-id="" tvg-logo="",Film4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="49" group-title="TV" tvg-id="" tvg-logo="",4seven
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|Content-Type=application%2Foctet-stream|R{SSM}|
+https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="16" group-title="TV" tvg-id="" tvg-logo="",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-Talk
-https://live-talktv.simplestreamcdn.com/s3/talktv_scte/index.m3u8
-TBN uk
-https://cdn.jwplayer.com/live/broadcast/r08fY89I.mpd
-Tiny Pop
-https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
-TJC
+#EXTINF:-1 tvg-chno="22" group-title="TV" tvg-id="" tvg-logo="",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
-Yaaas!
+#EXTINF:-1 tvg-chno="51" group-title="TV" tvg-id="" tvg-logo="",Ideal World
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(HDTJCBeauty)/master.mpd
+#EXTINF:-1 tvg-chno="34" group-title="TV" tvg-id="" tvg-logo="",Great! Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="52" group-title="TV" tvg-id="" tvg-logo="",Great! Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="TV" tvg-id="" tvg-logo="",Great! Mystery
+https://linear-861.frequency.stream/mt/lg-uk/861/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="TV" tvg-id="" tvg-logo="",Gems TV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="72" group-title="TV" tvg-id="" tvg-logo="",Jewelry Maker
+https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="TV" tvg-id="" tvg-logo="",HobbyMaker
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="64" group-title="TV" tvg-id="" tvg-logo="",Blaze
+https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="TV" tvg-id="" tvg-logo="",TBN uk
+https://cdn.jwplayer.com/live/broadcast/r08fY89I.mpd
+#EXTINF:-1 tvg-chno="205" group-title="TV" tvg-id="" tvg-logo="",Pop
+https://live-narrative-amagi.simplestreamcdn.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="206" group-title="TV" tvg-id="" tvg-logo="",Tiny Pop
+https://live-narrative-tinypop-amagi.simplestreamcdn.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="207" group-title="TV" tvg-id="" tvg-logo="",Pop Up
+https://live-narrative-popup-frequency.simplestreamcdn.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="209" group-title="TV" tvg-id="" tvg-logo="",Ketchup TV
+https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
+#EXTINF:-1 tvg-chno="211" group-title="TV" tvg-id="" tvg-logo="",Yaaas!
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
+#EXTINF:-1 tvg-chno="233" group-title="TV" tvg-id="" tvg-logo="",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-chno="236" group-title="TV" tvg-id="" tvg-logo="",GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
+#EXTINF:-1 tvg-chno="259" group-title="TV" tvg-id="" tvg-logo="",MBC
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 tvg-chno="280" group-title="TV" tvg-id="" tvg-logo="",Talk
+https://live-talktv.simplestreamcdn.com/s3/talktv_scte/index.m3u8
