@@ -131,11 +131,11 @@ https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="TV" tvg-id="" tvg-logo="",WildEarth
 https://wildearth-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="205" group-title="TV" tvg-id="" tvg-logo="",Pop
-https://live-narrative-amagi.simplestreamcdn.com/playlist.m3u8
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 tvg-chno="206" group-title="TV" tvg-id="" tvg-logo="",Tiny Pop
-https://live-narrative-tinypop-amagi.simplestreamcdn.com/playlist.m3u8
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 tvg-chno="207" group-title="TV" tvg-id="" tvg-logo="",Pop Up
-https://live-narrative-popup-frequency.simplestreamcdn.com/playlist.m3u8
+https://linear-862.frequency.stream/mt/lg-uk/862/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="209" group-title="TV" tvg-id="" tvg-logo="",Ketchup TV
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 #EXTINF:-1 tvg-chno="211" group-title="TV" tvg-id="" tvg-logo="",Yaaas!
