@@ -74,6 +74,7 @@ https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-d
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.9.0|R{SSM}|R
 #KODIPROP:mimetype=application/dash+xml
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",
 #EXTINF:-1 tvg-chno="5" group-title="TV" tvg-id="" tvg-logo="",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -127,6 +128,8 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="TV" tvg-id="" tvg-logo="",TBN uk
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
+#EXTINF:-1 tvg-chno="91" group-title="TV" tvg-id="" tvg-logo="",WildEarth
+https://wildearth-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="205" group-title="TV" tvg-id="" tvg-logo="",Pop
 https://live-narrative-amagi.simplestreamcdn.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="206" group-title="TV" tvg-id="" tvg-logo="",Tiny Pop
@@ -143,6 +146,14 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 tvg-chno="259" group-title="TV" tvg-id="" tvg-logo="",MBC
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 tvg-chno="270" group-title="TV" tvg-id="" tvg-logo="",Together TV
+https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
+#EXTINF:-1 tvg-chno="271" group-title="TV" tvg-id="" tvg-logo="", Channelbox | Bloomberg Television
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-chno="271" group-title="TV" tvg-id="" tvg-logo="", Channelbox | Trace UK
+https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted/1/prog_index.m3u8
+#EXTINF:-1 tvg-chno="271" group-title="TV" tvg-id="" tvg-logo="", Channelbox | Wedo Movies
+https://amg00735-videosolutionsa-wedomoviesen-ono-8zph5.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesen-ono/playlist.m3u8
 #EXTINF:-1 tvg-chno="280" group-title="TV" tvg-id="" tvg-logo="",Talk
 https://live-talktv.simplestreamcdn.com/s3/talktv_scte/index.m3u8
 #EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
