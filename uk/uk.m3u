@@ -181,9 +181,9 @@ https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-chno="236" group-title="TV" tvg-id="GB News" tvg-logo="",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 tvg-chno="251" group-title="TV" tvg-id="Al Jazeera English" tvg-logo="",Al Jazeera English
+#EXTINF:-1 tvg-chno="251" group-title="TV" tvg-id="Al Jazeera English",Al Jazeera English tvg-logo=""Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="257" group-title="TV" tvg-id="" tvg-logo="",EuroNews
+#EXTINF:-1 tvg-chno="257" group-title="TV" tvg-id="EuroNews" tvg-logo="",EuroNews
 https://dkshlpp7ugzua.cloudfront.net/live/eds/euronews-en/25014/euronews-en.m3u8
 #EXTINF:-1 tvg-chno="259" group-title="TV" tvg-id="MBC" tvg-logo="",MBC
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
@@ -195,27 +195,29 @@ https://amg00735-videosolutionsa-wedomoviesen-ono-8zph5.amagi.tv/playlist/amg007
 https://live-talktv.simplestreamcdn.com/s3/talktv_scte/index.m3u8
 #EXTINF:-1 tvg-chno="285" group-title="TV" tvg-id="TRACE UK" tvg-logo="",TRACE UK
 https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted/1/prog_index.m3u8
-#EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="BBC Radio 1.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
+#EXTINF:-1 tvg-chno="287" group-title="TV" tvg-id="Nolly Africa" tvg-logo="",Nolly Africa
+https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one.m3u8
-#EXTINF:-1 tvg-chno="701" tvg-id="" tvg-name="BBC Radio 1Xtra.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1Xtra
+#EXTINF:-1 tvg-chno="701" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1Xtra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_1xtra.m3u8
-#EXTINF:-1 tvg-chno="702" tvg-id="" tvg-name="BBC Radio 2.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 2
+#EXTINF:-1 tvg-chno="702" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 2
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_two.m3u8
-#EXTINF:-1 tvg-chno="703" tvg-id="" tvg-name="BBC Radio 3.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 3
+#EXTINF:-1 tvg-chno="703" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
-#EXTINF:-1 tvg-chno="704" tvg-id="" tvg-name="BBC Radio 4.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4
+#EXTINF:-1 tvg-chno="704" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_fourfm.m3u8
 #EXTINF:-1 tvg-chno="708" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4 Extra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_four_extra.m3u8
-#EXTINF:-1 tvg-chno="705" tvg-id="" tvg-name="BBC Radio 5 live.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 5 Live
+#EXTINF:-1 tvg-chno="705" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 5 Live
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_five_live.m3u8
 #EXTINF:-1 tvg-chno="706" tvg-id="" tvg-name="BBC Radio 5 Sports Extra.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 5 Sports Extra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-chno="707" tvg-id="" tvg-name="BBC Radio 6 Music.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 6 Music
+#EXTINF:-1 tvg-chno="707" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 6 Music
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_6music.m3u8
-#EXTINF:-1 tvg-chno="709" tvg-id="" tvg-name="BBC Asian Network.uk" tvg-logo="" group-title="Radio" radio="true",BBC Asian Network
+#EXTINF:-1 tvg-chno="709" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_asian_network.m3u8
-#EXTINF:-1 tvg-chno="710" tvg-id="" tvg-name="BBC World Service.uk" tvg-logo="" group-title="Radio" radio="true",BBC World Service
+#EXTINF:-1 tvg-chno="710" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC World Service
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_world_service.m3u8
 #EXTINF:-1 tvg-chno="718" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Smooth UK
 https://media-ssl.musicradio.com/SmoothUKMP3
