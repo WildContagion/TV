@@ -165,6 +165,8 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="TV" tvg-id="TBN UK" tvg-logo="",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
+#EXTINF:-1 tvg-chno="83" group-title="TV" tvg-id="Together TV" tvg-logo="",Together TV
+https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="TV" tvg-id="WildEarth" tvg-logo="",WildEarth
 https://wildearth-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="205" group-title="TV" tvg-id="POP" tvg-logo="",POP
@@ -187,14 +189,20 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 https://dkshlpp7ugzua.cloudfront.net/live/eds/euronews-en/25014/euronews-en.m3u8
 #EXTINF:-1 tvg-chno="259" group-title="TV" tvg-id="MBC" tvg-logo="",MBC
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-#EXTINF:-1 tvg-chno="270" group-title="TV" tvg-id="" tvg-logo="",Together TV
-https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
-#EXTINF:-1 tvg-chno="275" group-title="TV" tvg-id="wedotv movies" tvg-logo="", wedotv movies
+#EXTINF:-1 tvg-chno="266" group-title="TV" tvg-id="Revelation TV" tvg-logo="",Revelation TV
+https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-chno="267" group-title="TV" tvg-id="God TV" tvg-logo="",God TV
+https://ott.god.tv/live/uk/master.m3u8
+#EXTINF:-1 tvg-chno="269" group-title="TV" tvg-id="New Media TV" tvg-logo="",New Media TV
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:nmtvuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="275" group-title="TV" tvg-id="wedotv movies" tvg-logo="",wedotv movies
 https://amg00735-videosolutionsa-wedomoviesen-ono-8zph5.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesen-ono/playlist.m3u8
 #EXTINF:-1 tvg-chno="280" group-title="TV" tvg-id="Talk" tvg-logo="",Talk
 https://live-talktv.simplestreamcdn.com/s3/talktv_scte/index.m3u8
 #EXTINF:-1 tvg-chno="285" group-title="TV" tvg-id="TRACE UK" tvg-logo="",TRACE UK
 https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted/1/prog_index.m3u8
+#EXTINF:-1 tvg-chno="286" group-title="TV" tvg-id="It Is Written TV" tvg-logo="",It Is Written TV
+https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-chno="287" group-title="TV" tvg-id="Nolly Africa" tvg-logo="",Nolly Africa
 https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
@@ -233,3 +241,17 @@ https://media-ssl.musicradio.com/LBCUKMP3
 https://radio.talksport.com/stream
 #EXTINF:-1 tvg-chno="725" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Premier Christian Radio
 https://pcr.streamguys1.com/pcrnational-96k.aac
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Africanews
+https://dkshlpp7ugzua.cloudfront.net/live/eds/africanews-en/24960/africanews-en.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Bloomberg Television
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Brit Asia TV
+https://d14c63magvk61v.cloudfront.net/strm/channels/britasia/master.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | FashionTV
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
