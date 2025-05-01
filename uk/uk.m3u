@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://arkina1234.iceiy.com/tempest_config/epg/freeview.co.uk.xml"
+#EXTM3U url-tvg="http://www.arkina1234.co4.in/tempest_config/epg/freeview.co.uk.xml"
 #EXTINF:-1 tvg-chno="1" group-title="TV" tvg-id="BBC ONE Lon" tvg-logo="",BBC One London
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8,37 +8,37 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="23" group-title="TV" tvg-id="BBC THREE" tvg-logo="",BBC Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="9" group-title="TV" tvg-id="BBC FOUR" tvg-logo="",BBC Four
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="201" group-title="TV" tvg-id="CBBC" tvg-logo="",CBBC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="202" group-title="TV" tvg-id="CBeebies" tvg-logo="",CBeebies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="231" group-title="TV" tvg-id="BBC NEWS" tvg-logo="",BBC News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="232" group-title="TV" tvg-id="BBC Parliament" tvg-logo="",BBC Parliament
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="3" group-title="TV" tvg-id="ITV1" tvg-logo="",ITV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -79,35 +79,35 @@ https://csm-e-ceitvaeuw1lived-0c827efcd96bd824b.play.dar.itv.com/csm/extlive/itv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/C4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="13" group-title="TV" tvg-id="E4" tvg-logo="",E4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/E4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="18" group-title="TV" tvg-id="More 4" tvg-logo="",More 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/M4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="14" group-title="TV" tvg-id="Film4" tvg-logo="",Film4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/F4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="49" group-title="TV" tvg-id="4seven" tvg-logo="",4seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/4S|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
 https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
 #EXTINF:-1 tvg-chno="5" group-title="TV" tvg-id="5" tvg-logo="",5
 #KODIPROP:inputstream=inputstream.adaptive
