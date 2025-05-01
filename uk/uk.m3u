@@ -80,35 +80,35 @@ https://csm-e-ceitvaeuw1lived-0c827efcd96bd824b.play.dar.itv.com/csm/extlive/itv
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/C4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,c4-v3-iso-dash.mpd
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-chno="13" group-title="TV" tvg-id="E4" tvg-logo="",E4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/E4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,e4-v3-iso-dash.mpd
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 tvg-chno="18" group-title="TV" tvg-id="More 4" tvg-logo="",More 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/M4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,m4-v3-iso-dash.mpd
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #EXTINF:-1 tvg-chno="14" group-title="TV" tvg-id="Film4" tvg-logo="",Film4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/F4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,f4-v3-iso-dash.mpd
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTINF:-1 tvg-chno="49" group-title="TV" tvg-id="4seven" tvg-logo="",4seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/4S|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://csm-e-c4ukdash-eb.tls1.yospace.com/csm/extlive/channelfour01,4s-v3-iso-dash.mpd
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-chno="5" group-title="TV" tvg-id="5" tvg-logo="",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
