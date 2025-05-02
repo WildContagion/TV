@@ -287,6 +287,8 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/web/master.m3u8
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/web/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s175260_dark_360w_270h.png",Qwest TV
 https://amg00447-qwesttv-qwestjazz-ono-j1adh.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-ono/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99988_dark_360w_270h.png",Local Now
+https://djocnjwtkehj4.cloudfront.net/37c4ba92985d8d79/746ac1558408920b/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90613_dark_360w_270h.png",Stingray Naturescape Stream
 https://lotus.stingray.com/manifest/naturescape-a003-losangeles/web/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s147936_dark_360w_270h.png",Holidayscapes
