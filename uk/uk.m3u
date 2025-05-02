@@ -185,8 +185,10 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 tvg-chno="251" group-title="TV" tvg-id="Al Jazeera English" tvg-logo="",Al Jazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="257" group-title="TV" tvg-id="EuroNews" tvg-logo="",EuroNews
+#EXTINF:-1 tvg-chno="257" group-title="TV" tvg-id="EuroNews" tvg-logo="",Euronews
 https://dkshlpp7ugzua.cloudfront.net/live/eds/euronews-en/25014/euronews-en.m3u8
+#EXTINF:-1 tvg-chno="258" group-title="TV" tvg-id="Real Crime" tvg-logo="",Real Crime
+https://jmp2.uk/sam-GBBA3300061ME.m3u8
 #EXTINF:-1 tvg-chno="259" group-title="TV" tvg-id="MBC" tvg-logo="",MBC
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 #EXTINF:-1 tvg-chno="266" group-title="TV" tvg-id="Revelation TV" tvg-logo="",Revelation TV
@@ -241,17 +243,3 @@ https://media-ssl.musicradio.com/LBCUKMP3
 https://radio.talksport.com/stream
 #EXTINF:-1 tvg-chno="725" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Premier Christian Radio
 https://pcr.streamguys1.com/pcrnational-96k.aac
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Africanews
-https://dkshlpp7ugzua.cloudfront.net/live/eds/africanews-en/24960/africanews-en.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Bloomberg Television
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | Brit Asia TV
-https://d14c63magvk61v.cloudfront.net/strm/channels/britasia/master.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | FashionTV
-https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW 70s
-https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW 80s
-https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="",Channelbox | NOW Rock
-https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
