@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="
+#EXTINF:-1 tvg-chno="" tvg-id="GB2600019ON" tvg-logo="http://example.com/example.png",Euronews LIVE
+https://jmp2.uk/sam-GB2600019ON.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB3300002NF" tvg-logo="http://example.com/example.png",Sky News
+https://jmp2.uk/sam-GB3300002NF.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBB1600008R3" tvg-logo="http://example.com/example.png",GB News
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB1200006IV" tvg-logo="http://example.com/example.png",Talk
+https://jmp2.uk/sam-GB1200006IV.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBD1100002L5" tvg-logo="http://example.com/example.png",FRANCE 24 FAST
+https://jmp2.uk/sam-GBBD1100002L5.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBD3200003T6"
+tvg-logo="http://example.com/example.png",Tiny POP
+https://jmp2.uk/sam-GBBD3200003T6.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBC430000128" tvg-logo="http://example.com/example.png",POP
+https://jmp2.uk/sam-GBBC430000128.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBC900007Q5" tvg-logo="http://example.com/example.png",Great! Movies
+https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBC900008L9" tvg-logo="http://example.com/example.png",Great! romance
+https://jmp2.uk/sam-GBBC900008L9.m3u8
