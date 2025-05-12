@@ -15,6 +15,10 @@ https://jmp2.uk/sam-GBBD3100004OI.m3u8
 https://jmp2.uk/sam-GBBA2200005ZA.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBB1000005IO" tvg-logo="http://example.com/example.png",Real Wild
 https://jmp2.uk/sam-GBBB1000005IO.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBAJ49000197P" tvg-logo="http://example.com/example.png",GoUSA TV
+https://jmp2.uk/sam-GBAJ49000197P.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB400003BM" tvg-logo="http://example.com/example.png",INTRAVEL
+https://jmp2.uk/sam-GB400003BM.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB2600019ON" tvg-logo="http://example.com/example.png",Euronews LIVE
 https://jmp2.uk/sam-GB2600019ON.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD8000016N" tvg-logo="http://example.com/example.png",CNN
