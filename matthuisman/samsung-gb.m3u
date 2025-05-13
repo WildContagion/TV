@@ -21,6 +21,8 @@ https://jmp2.uk/sam-GBBD3100004OI.m3u8
 https://jmp2.uk/sam-GBBD1100001UI.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBA2200005ZA" tvg-logo="http://example.com/example.png",History Hit
 https://jmp2.uk/sam-GBBA2200005ZA.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB2700013Y7" tvg-logo="http://example.com/example.png",Sky Sports Stories
+https://jmp2.uk/sam-GB2700013Y7.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD50000320" tvg-logo="http://example.com/example.png",Mystery TV
 https://jmp2.uk/sam-GBBD50000320.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBB1000005IO" tvg-logo="http://example.com/example.png",Real Wild
@@ -49,6 +51,10 @@ https://jmp2.uk/sam-GBBD1100002L5.m3u8
 https://jmp2.uk/sam-GBBD3600001NO.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB30003577" tvg-logo="http://example.com/example.png",talkSPORT
 https://jmp2.uk/sam-GB30003577.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBD1100008YW" tvg-logo="http://example.com/example.png",FIFA+
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="http://example.com/example.png",Sky Sports Classics
+https://jmp2.uk/sam-GB2700012HS.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB300032DX" tvg-logo="http://example.com/example.png",Now 70's
 https://jmp2.uk/sam-GB300032DX.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBC900003B2" tvg-logo="http://example.com/example.png",Now 80s
