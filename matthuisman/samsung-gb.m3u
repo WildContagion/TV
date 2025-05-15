@@ -63,6 +63,8 @@ https://jmp2.uk/sam-GBBC900003B2.m3u8
 https://jmp2.uk/sam-GB300033HI.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD19000026B" tvg-logo="http://example.com/example.png",Trace UK
 https://jmp2.uk/sam-GBBD19000026B.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBC900001SC" tvg-logo="http://example.com/example.png",Trace Urban
+https://jmp2.uk/sam-GBBC900001SC.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD3200003T6" tvg-logo="http://example.com/example.png",Tiny POP
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBC430000128" tvg-logo="http://example.com/example.png",POP
@@ -71,6 +73,8 @@ https://jmp2.uk/sam-GBBC430000128.m3u8
 https://jmp2.uk/sam-GB25000016G.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBC900007Q5" tvg-logo="http://example.com/example.png",GREAT! movies
 https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBA3300050RG" tvg-logo="http://example.com/example.png",wedo movies
+https://jmp2.uk/sam-GBBA3300050RG.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBC900008L9" tvg-logo="http://example.com/example.png",GREAT! romance
 https://jmp2.uk/sam-GBBC900008L9.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB90000418" tvg-logo="http://example.com/example.png",GREAT! Mystery
