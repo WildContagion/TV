@@ -5,20 +5,26 @@ https://jmp2.uk/sam-GBBD3100003J5.m3u8
 https://jmp2.uk/sam-GBBD3000001QB.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD500005ZG" tvg-logo="http://example.com/example.png",Robot Wars by Mech+
 https://jmp2.uk/sam-GBBD500005ZG.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBB38000068U" tvg-logo="http://example.com/example.png",Deal or No Deal US
+https://jmp2.uk/sam-GBBB38000068U.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB12000037Y" tvg-logo="http://example.com/example.png",Deal Masters
 https://jmp2.uk/sam-GB12000037Y.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="GB3700007OZ" tvg-logo="http://example.com/example.png",&TV
-https://jmp2.uk/sam-GB3700007OZ.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB2700016H5" tvg-logo="http://example.com/example.png",Artist of the Year
+https://jmp2.uk/sam-GB2700016H5.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD500002R4" tvg-logo="http://example.com/example.png",Inside Crime
 https://jmp2.uk/sam-GBBD500002R4.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBA3300061ME" tvg-logo="http://example.com/example.png",Real Crime
 https://jmp2.uk/sam-GBBA3300061ME.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD1100007AC" tvg-logo="http://example.com/example.png",True Crime UK
 https://jmp2.uk/sam-GBBD1100007AC.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB270001538" tvg-logo="http://example.com/example.png",Emergency 24/7
+https://jmp2.uk/sam-GB270001538.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD3100002NU" tvg-logo="http://example.com/example.png",U&Real Heroes
 https://jmp2.uk/sam-GBBD3100002NU.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB1200002ON" tvg-logo="http://example.com/example.png",History Hunters
 https://jmp2.uk/sam-GB1200002ON.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GB3700005QK" tvg-logo="http://example.com/example.png",Hoarders
+https://jmp2.uk/sam-GB3700005QK.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD3100001A8" tvg-logo="http://example.com/example.png",U&Transport
 https://jmp2.uk/sam-GBBD3100001A8.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBD3100004OI" tvg-logo="http://example.com/example.png",U&The Past
@@ -35,6 +41,10 @@ https://jmp2.uk/sam-GBBD50000320.m3u8
 https://jmp2.uk/sam-GBBB1000005IO.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBBA220000751" tvg-logo="http://example.com/example.png",INWILD
 https://jmp2.uk/sam-GBBA220000751.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBD25000019N" tvg-logo="http://example.com/example.png",Masterchef UK: 'Powered by Banijay'
+https://jmp2.uk/sam-GBBD25000019N.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="GBBC900014LW" tvg-logo="http://example.com/example.png",Great British Menu
+https://jmp2.uk/sam-GBBC900014LW.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GBAJ49000197P" tvg-logo="http://example.com/example.png",GoUSA TV
 https://jmp2.uk/sam-GBAJ49000197P.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="GB400003BM" tvg-logo="http://example.com/example.png",INTRAVEL
