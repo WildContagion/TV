@@ -171,7 +171,7 @@ https://linear-862.frequency.stream/mt/lg-uk/862/hls/master/playlist.m3u8
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
 #EXTINF:-1 tvg-chno="66" ch-number="66" group-title="TV" tvg-id="TBN UK" tvg-logo="",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
-#EXTINF:-1 tvg-chno="83" ch-number="" group-title="TV" tvg-id="Together TV" tvg-logo="",Together TV
+#EXTINF:-1 tvg-chno="83" ch-number="83" group-title="TV" tvg-id="Together TV" tvg-logo="",Together TV
 https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
 #EXTINF:-1 tvg-chno="91" ch-number="91" group-title="TV" tvg-id="WildEarth" tvg-logo="",WildEarth
 https://wildearth-ono.amagi.tv/playlist.m3u8
