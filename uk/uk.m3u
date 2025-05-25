@@ -209,40 +209,40 @@ https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-chno="287" ch-number="287" group-title="TV" tvg-id="Nolly Africa" tvg-logo="",Nolly Africa
 https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one.m3u8
-#EXTINF:-1 tvg-chno="701" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1Xtra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_1xtra.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+#EXTINF:-1 tvg-chno="701" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC R1X
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_1xtra.m3u8
 #EXTINF:-1 tvg-chno="702" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 2
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_two.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_two.m3u8
 #EXTINF:-1 tvg-chno="703" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 3
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_three.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_fourfm.m3u8
-#EXTINF:-1 tvg-chno="708" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4 Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_four_extra.m3u8
-#EXTINF:-1 tvg-chno="705" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 5 Live
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
-#EXTINF:-1 tvg-chno="706" tvg-id="" tvg-name="BBC Radio 5 Sports Extra.uk" tvg-logo="" group-title="Radio" radio="true",BBC Radio 5 Sports Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-chno="707" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 6 Music
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
-#EXTINF:-1 tvg-chno="709" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Asian Network
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_asian_network.m3u8
-#EXTINF:-1 tvg-chno="710" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC World Service
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
-#EXTINF:-1 tvg-chno="718" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Smooth UK
-https://media-ssl.musicradio.com/SmoothUKMP3
-#EXTINF:-1 tvg-chno="724" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Capital UK
-https://media-ssl.musicradio.com/CapitalUKMP3
-#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Heart UK
-https://media-ssl.musicradio.com/HeartUKMP3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4 Ex
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_four_extra.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC R5L
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_five_live.m3u8
+#EXTINF:-1 tvg-chno="706" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC 5SX
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC 6 Music
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_6music.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Asian Net.
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_asian_network.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC World Sv.
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-chno="718" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Smooth Radio
+https://media-ssl.musicradio.com/SmoothUK
+#EXTINF:-1 tvg-chno="724" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Capital
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Heart
+https://media-ssl.musicradio.com/HeartUK
 #EXTINF:-1 tvg-chno="731" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Classic FM
-https://media-ssl.musicradio.com/ClassicFMMP3
-#EXTINF:-1 tvg-chno="732" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",LBC UK
-https://media-ssl.musicradio.com/LBCUKMP3
+https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 tvg-chno="732" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",LBC
+https://media-ssl.musicradio.com/LBCUK
 #EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",talkSPORT
-https://radio.talksport.com/stream
-#EXTINF:-1 tvg-chno="725" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Premier Christian Radio
+https://radio.talksport.com/stream-mobile
+#EXTINF:-1 tvg-chno="725" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Premier Radio
 https://pcr.streamguys1.com/pcrnational-96k.aac
-#EXTINF:-1 tvg-chno="730" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",RNIB Connect Radio
-https://stream.rcs.revma.com/yv4znr4xcg0uv
+#EXTINF:-1 tvg-chno="730" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",RNIB Connect
+https://stream.rcs.revma.com/yv4znr4xcg0uv.aac
