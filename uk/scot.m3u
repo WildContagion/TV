@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-chno="3" ch-number="3" group-title="TV" tvg-id="STV" tvg-logo="",STV
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
 #EXTINF:-1 tvg-chno="35" ch-number="35" group-title="TV" tvg-id="STV" tvg-logo="" tvg-shift="+1",STV+1
