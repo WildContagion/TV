@@ -69,7 +69,7 @@ https://csm-e-itv-eb.play.dar.itv.com/csm/extlive/itv01,itv3-dotcom-dash-proda-m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV4||R{SSM}|
 https://csm-e-ceitvaeuw1lived-0c827efcd96bd824b.play.dar.itv.com/csm/extlive/itv01,itv4-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="28" ch-number="28" group-title="TV" tvg-id="ITVBe" tvg-logo="",ITVBe
+#EXTINF:-1 tvg-chno="28" ch-number="28" group-title="TV" tvg-id="ITVBe" tvg-logo="",ITV Quiz
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -139,7 +139,7 @@ https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C0?expiry=&tag=||R{SSM}|
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-#EXTINF:-1 tvg-chno="46" ch-number="46" group-title="TV" tvg-id="5SELECT" tvg-logo="",5Select
+#EXTINF:-1 tvg-chno="46" ch-number="46" group-title="TV" tvg-id="5SELECT" tvg-logo="",5SELECT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
