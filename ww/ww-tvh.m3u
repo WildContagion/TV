@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="",Al Jazeera English
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/aje.m3u8 -vcodec copy -acodec copy -metadata service_name=aje -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",Arirang
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/arirang.m3u8 -vcodec copy -acodec copy -metadata service_name=arirang -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",CGTN
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/cgtn.m3u8 -vcodec copy -acodec copy -metadata service_name=cgtn -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",DW English
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/dw-en.m3u8 -vcodec copy -acodec copy -metadata service_name=dw-en -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",Euronews English
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/euronews-en.m3u8 -vcodec copy -acodec copy -metadata service_name=euronews-en -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",France 24 English
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/france24-en.m3u8 -vcodec copy -acodec copy -metadata service_name=france24-en -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",i24NEWS English
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/i24news-en.m3u8 -vcodec copy -acodec copy -metadata service_name=i24news-en -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",NHK World-Japan
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/nhk-jp.m3u8 -vcodec copy -acodec copy -metadata service_name=nhk-jp -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",TRT World
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/trtworld.m3u8 -vcodec copy -acodec copy -metadata service_name=trtworld -f mpegts pipe:1
+#EXTINF:-1 tvg-id="" tvg-logo="",WION
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://arkina1234.github.io/ext/hls/wion.m3u8 -vcodec copy -acodec copy -metadata service_namewion= -f mpegts pipe:1
