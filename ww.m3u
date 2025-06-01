@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="",aje
+#EXTINF:-1 tvg-id="" tvg-logo="",Al Jazeera English
 https://arkina1234.github.io/ext/hls/aje.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",arirang
+#EXTINF:-1 tvg-id="" tvg-logo="",Arirang
 https://arkina1234.github.io/ext/hls/arirang.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",cgtn
+#EXTINF:-1 tvg-id="" tvg-logo="",CGTN
 https://arkina1234.github.io/ext/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",dw-en
+#EXTINF:-1 tvg-id="" tvg-logo="",DW English
 https://arkina1234.github.io/ext/hls/dw-en.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",euronews-en
+#EXTINF:-1 tvg-id="" tvg-logo="",Euronews English
 https://arkina1234.github.io/ext/hls/euronews-en.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",france24-en
+#EXTINF:-1 tvg-id="" tvg-logo="",France 24 English
 https://arkina1234.github.io/ext/hls/france24-en.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",i24news-en
+#EXTINF:-1 tvg-id="" tvg-logo="",i24NEWS English
 https://arkina1234.github.io/ext/hls/i24news-en.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",nhk-jp
+#EXTINF:-1 tvg-id="" tvg-logo="",NHK World-Japan
 https://arkina1234.github.io/ext/hls/nhk-jp.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",trtworld
+#EXTINF:-1 tvg-id="" tvg-logo="",TRT World
 https://arkina1234.github.io/ext/hls/trtworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",wion
+#EXTINF:-1 tvg-id="" tvg-logo="",WION
 https://arkina1234.github.io/ext/hls/wion.m3u8
