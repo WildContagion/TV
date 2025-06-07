@@ -17,6 +17,8 @@ https://d30u028acejwjk.cloudfront.net/MovieSphere.m3u8
 https://d1ycotdulhgwan.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="1260" tvg-id="USBD700011RE" tvg-logo="http://example.com/example.png",Gravitas Movies
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-chno="1550" tvg-id="USBD2500012DH" tvg-logo="http://example.com/example.png",Ebony TV by Lionsgate
+https://d4pxe3oqk4qtf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="1615" tvg-id="USAJ22000130U" tvg-logo="http://example.com/example.png",MHz Now
 https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="1630" tvg-id="USBC240001823" tvg-logo="http://example.com/example.png",Brat TV
@@ -65,7 +67,9 @@ https://danmtm0e0ui86.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://b54b72ba.wurl.com/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="2962" tvg-id="US8000024G" tvg-logo="http://example.com/example.png",OutTV Proud
 https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
-#EXTINF:-1 tvg-chno="2520" tvg-id="USBA3800005NI" tvg-logo="http://example.com/example.png",Clarity 4K
+#EXTINF:-1 tvg-chno="3030" tvg-id="USBD1200007FE" tvg-logo="http://example.com/example.png",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-chno="3520" tvg-id="USBA3800005NI" tvg-logo="http://example.com/example.png",Clarity 4K
 https://drzn7417qtthv.cloudfront.net/Clarity_4K.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC EARTH
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
@@ -81,8 +85,6 @@ https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-chno="3656" tvg-id="US2200006FS" tvg-logo="http://example.com/example.png",Shaun the Sheep
 https://d2r2is7i9uumbe.cloudfront.net/shaun.m3u8
-#EXTINF:-1 tvg-chno="3687" tvg-id="USBA2300001S8" tvg-logo="http://example.com/example.png",LEGO Channel
-https://dh18i7whff86v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno="3696" tvg-id="USBD12000239N" tvg-logo="http://example.com/example.png",Ryan and Friends
 https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
 #EXTINF:-1 tvg-chno="3702" tvg-id="USBD12000153A" tvg-logo="http://example.com/example.png",pocket.watch Game-On
@@ -91,12 +93,8 @@ https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="3724" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="3870" tvg-id="USBA300040WR" tvg-logo="http://example.com/example.png",Estrella TV
-https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
-#EXTINF:-1 tvg-chno="3872" tvg-id="USAJ2200020N4" tvg-logo="http://example.com/example.png",Estrella News
-https://d1648p3ma32b6v.cloudfront.net/EstrellaNews.m3u8
-#EXTINF:-1 tvg-chno="3874" tvg-id="USBC24000145I" tvg-logo="http://example.com/example.png",Estrella Games
-https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+#EXTINF:-1 tvg-chno="4310" tvg-id="USBD350003932" tvg-logo="http://example.com/example.png",XITE Celebrates
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 #EXTINF:-1 tvg-chno="4323" tvg-id="USBD3300004RH" tvg-logo="http://example.com/example.png",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-chno="4575" tvg-id="USBB1000002TK" tvg-logo="http://example.com/example.png",Loupe 4K
