@@ -41,12 +41,32 @@ https://d1lj3juvpb5f7b.cloudfront.net/Americas_Test_Kitchen.m3u8
 https://d38dxrddlhcl05.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="2133" tvg-id="USBB1000003HL" tvg-logo="http://example.com/example.png",Journy
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2358" tvg-id="USBD700013BW" tvg-logo="http://example.com/example.png",DraftKings Network
+https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+#EXTINF:-1 tvg-chno="2368" tvg-id="USBD12000255B" tvg-logo="http://example.com/example.png",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="2436" tvg-id="US400001M2" tvg-logo="http://example.com/example.png",PGA Tour
+https://dn5kmmz0b486t.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="2525" tvg-id="USBC3600005U9" tvg-logo="http://example.com/example.png",MotorTrend FAST TV
 https://d2y2znnhym0x9l.cloudfront.net/MotorTrend_FastTV.m3u8
+#EXTINF:-1 tvg-chno="2625" tvg-id="US2900008FP" tvg-logo="http://example.com/example.png",Mythical 24/7
+https://d27p4uolcezg10.cloudfront.net/Mythical247.m3u8
+#EXTINF:-1 tvg-chno="2630" tvg-id="USBC1300009VM" tvg-logo="http://example.com/example.png",LOL! Network
+https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="2714" tvg-id="US300003S3" tvg-logo="http://example.com/example.png",Pawn Stars
 https://d1a92tedfmwyf8.cloudfront.net/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="2716" tvg-id="USBB4400018LR" tvg-logo="http://example.com/example.png",Wipeout Xtra
+https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
+#EXTINF:-1 tvg-chno="2720" tvg-id="USBB2300002Q6" tvg-logo="http://example.com/example.png",Fear Factor
+https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8
+#EXTINF:-1 tvg-chno="2830" tvg-id="USBB4400017N3" tvg-logo="http://example.com/example.png",Deal or No Deal
+https://danmtm0e0ui86.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4bylw5xzz7bo/Deal_or_No_Deal.m3u8
 #EXTINF:-1 tvg-chno="2930" tvg-id="USAJ34000022E" tvg-logo="http://example.com/example.png",Nosey
 https://b54b72ba.wurl.com/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="2962" tvg-id="US8000024G" tvg-logo="http://example.com/example.png",OutTV Proud
+https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
+#EXTINF:-1 tvg-chno="2520" tvg-id="USBA3800005NI" tvg-logo="http://example.com/example.png",Clarity 4K
+https://drzn7417qtthv.cloudfront.net/Clarity_4K.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC EARTH
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
 #EXTINF:-1 tvg-chno="3532" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
@@ -57,9 +77,27 @@ https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 #EXTINF:-1 tvg-chno="3614" tvg-id="US2900013AY" tvg-logo="http://example.com/example.png",Hot Wheels Action
 https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
+#EXTINF:-1 tvg-chno="3627" tvg-id="USBB11000015Q" tvg-logo="http://example.com/example.png",Moonbug
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-chno="3656" tvg-id="US2200006FS" tvg-logo="http://example.com/example.png",Shaun the Sheep
 https://d2r2is7i9uumbe.cloudfront.net/shaun.m3u8
+#EXTINF:-1 tvg-chno="3687" tvg-id="USBA2300001S8" tvg-logo="http://example.com/example.png",LEGO Channel
+https://dh18i7whff86v.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-chno="3696" tvg-id="USBD12000239N" tvg-logo="http://example.com/example.png",Ryan and Friends
+https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
+#EXTINF:-1 tvg-chno="3702" tvg-id="USBD12000153A" tvg-logo="http://example.com/example.png",pocket.watch Game-On
+https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-chno="3704" tvg-id="US2200007QG" tvg-logo="http://example.com/example.png",Ninja Kidz
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="3724" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="3870" tvg-id="USBA300040WR" tvg-logo="http://example.com/example.png",Estrella TV
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+#EXTINF:-1 tvg-chno="3872" tvg-id="USAJ2200020N4" tvg-logo="http://example.com/example.png",Estrella News
+https://d1648p3ma32b6v.cloudfront.net/EstrellaNews.m3u8
+#EXTINF:-1 tvg-chno="3874" tvg-id="USBC24000145I" tvg-logo="http://example.com/example.png",Estrella Games
+https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+#EXTINF:-1 tvg-chno="4323" tvg-id="USBD3300004RH" tvg-logo="http://example.com/example.png",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-chno="4575" tvg-id="USBB1000002TK" tvg-logo="http://example.com/example.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
