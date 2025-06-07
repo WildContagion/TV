@@ -23,6 +23,24 @@ https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
 https://d14l10e3k15i6k.cloudfront.net/Brat_TV.m3u8
 #EXTINF:-1 tvg-chno="1832" tvg-id="US3300011V9" tvg-logo="http://example.com/example.png",The First 48
 https://d3ja4g4lkxnrni.cloudfront.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="1945" tvg-id="USBD12000061R" tvg-logo="http://example.com/example.png",All Reality WE tv
+https://d8pquxly4efvy.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="1946" tvg-id="USBD1200005XR" tvg-logo="http://example.com/example.png",All Weddings WE tv
+https://d323wih83u6263.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2015" tvg-id="USBC13000065U" tvg-logo="http://example.com/example.png",This Old House
+https://d4y44v5j6dgb8.cloudfront.net/This_Old_House.m3u8
+#EXTINF:-1 tvg-chno="2016" tvg-id="USBC1300005T6" tvg-logo="http://example.com/example.png",This Old House Makers
+https://d32jfsgmihy5yl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2026" tvg-id="USBD25000138Y" tvg-logo="http://example.com/example.png",At Home with Family Handyman
+https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2038" tvg-id="USBD1200022S1" tvg-logo="http://example.com/example.png",The Design Network
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+#EXTINF:-1 tvg-chno="2110" tvg-id="USBA3800002KI" tvg-logo="http://example.com/example.png",America’s Test Kitchen
+https://d1lj3juvpb5f7b.cloudfront.net/Americas_Test_Kitchen.m3u8
+#EXTINF:-1 tvg-chno="2120" tvg-id="USBD7000189R" tvg-logo="http://example.com/example.png",Tastemade
+https://d38dxrddlhcl05.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="2133" tvg-id="USBB1000003HL" tvg-logo="http://example.com/example.png",Journy
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="2525" tvg-id="USBC3600005U9" tvg-logo="http://example.com/example.png",MotorTrend FAST TV
 https://d2y2znnhym0x9l.cloudfront.net/MotorTrend_FastTV.m3u8
 #EXTINF:-1 tvg-chno="2714" tvg-id="US300003S3" tvg-logo="http://example.com/example.png",Pawn Stars
@@ -31,7 +49,7 @@ https://d1a92tedfmwyf8.cloudfront.net/v1/aenetworks_pawnstars_1/samsungheadend_u
 https://b54b72ba.wurl.com/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="3526" tvg-id="USBD1700001RW" tvg-logo="http://example.com/example.png",BBC EARTH
 https://d206rrc0yoxllg.cloudfront.net/BBC_Earth_US.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
+#EXTINF:-1 tvg-chno="3532" tvg-id="USBA3400003IP" tvg-logo="http://example.com/example.png",Love Nature 4K
 https://d2qmwprplnkhvr.cloudfront.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-chno="3612" tvg-id="US4500002UB" tvg-logo="http://example.com/example.png",Mattel Jr.
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
@@ -43,5 +61,5 @@ https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 https://d2r2is7i9uumbe.cloudfront.net/shaun.m3u8
 #EXTINF:-1 tvg-chno="3724" tvg-id="US800003JM" tvg-logo="http://example.com/example.png",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="USBB1000002TK" tvg-logo="http://example.com/example.png",Loupe 4K
+#EXTINF:-1 tvg-chno="4575" tvg-id="USBB1000002TK" tvg-logo="http://example.com/example.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
