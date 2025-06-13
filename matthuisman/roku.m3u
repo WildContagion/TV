@@ -29,6 +29,8 @@ https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
 https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
 #EXTINF:-1 tvg-chno="405" group-title="" tvg-id="d8b7e94b7edc53918e6afa251822df14" tvg-logo="http://example.com/example.png",Pocket.watch Game-On
 https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8
+#EXTINF:-1 tvg-chno="417" group-title="" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-logo="http://example.com/example.png",Toony Planet
+https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
 #EXTINF:-1 tvg-chno="419" group-title="" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-logo="http://example.com/example.png",BABY SHARK TV
 https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
 #EXTINF:-1 tvg-chno="428" group-title="" tvg-id="b5cde121f98257329346020e2a60295a" tvg-logo="http://example.com/example.png",Moonbug Kids
@@ -51,8 +53,14 @@ https://jmp2.uk/rok-c7825e03df4a5bf4bdc87d65b7e3cdbb.m3u8
 https://jmp2.uk/rok-2f7855ad196b57fc8e1dcb9cb74ea161.m3u8
 #EXTINF:-1 tvg-chno="464" group-title="" tvg-id="d8513011aa1c50aa9b08894f5576ad99" tvg-logo="http://example.com/example.png",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
+#EXTINF:-1 tvg-chno="471" group-title="" tvg-id="479fe0d11f3f5132a3f36b617547da3b" tvg-logo="http://example.com/example.png", Love Nature English
+https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
+#EXTINF:-1 tvg-chno="477" group-title="" tvg-id="f230a0c3f7ba5804b42d88f5d3c20002" tvg-logo="http://example.com/example.png",XPLORE 
+https://jmp2.uk/rok-f230a0c3f7ba5804b42d88f5d3c20002.m3u8
 #EXTINF:-1 tvg-chno="507" group-title="" tvg-id="ebb810a8868251f18ac64056834c749a" tvg-logo="http://example.com/example.png",FilmRise True Crime
 https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8
+#EXTINF:-1 tvg-chno="522" group-title="" tvg-id="d1e4e369eda359c897e1fdfd8286b19b" tvg-logo="http://example.com/example.png",Midsomer Murders
+https://jmp2.uk/rok-d1e4e369eda359c897e1fdfd8286b19b.m3u8
 #EXTINF:-1 tvg-chno="530" group-title="" tvg-id="16722bc43ef05012afa2297def830266" tvg-logo="http://example.com/example.png",FilmRise Mysteries
 https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8
 #EXTINF:-1 tvg-chno="565" group-title="" tvg-id="fb29ccf15bc8583ca1db8c42902eeae8" tvg-logo="http://example.com/example.png",Hot Ones
