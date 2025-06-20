@@ -83,12 +83,16 @@ https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 https://fuseaaaaa-fusexl-7o3fb.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120372_dark_360w_270h.png",Bounce XL
 https://amg01438-ewscrippscompan-bouncexl-tablo-6s9me.amagi.tv/playlist/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116018_dark_360w_270h.png",The Grio
+https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117260_dark_360w_270h.png",AWE Plus
 https://s-cdn.herringnetwork.com/live1/awee/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s129902_dark_360w_270h.png",The Preview Channel
 https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s137352_dark_360w_270h.png",Free Movies Plus
 https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111132_dark_360w_270h.png",Shout! TV
+https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122969_dark_360w_270h.png",CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113388_dark_360w_270h.png",kweliTV
@@ -113,8 +117,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116607_dark_360w_270h.png",ScreamBox TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111132_dark_360w_270h.png",Shout! TV
-https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113781_dark_360w_270h.png",Mystery Science Theater 3000
 https://shoutfact-mst3k-ts-zype-jgfey.amagi.tv/playlist/shoutfact-mst3k-ts-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130175_dark_360w_270h.png",Farscape
@@ -148,13 +150,11 @@ https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124040_dark_360w_270h.png",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s153591_dark_360w_270h.png",Wild West TV
-https://linear-799.frequency.stream/dist/dice/799/hls/master/playlist.m3u8?device_width=1080&device_height=1920&app_bundle=&app_name=Website&app_store_id=&device_do_not_track=0&user_device=BROWSER&event_id=265701&watch.shout-tv.com%252Flive%252F265701=
+https://linear-799.frequency.stream/mt/dice/799/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115226_dark_360w_270h.png",Lone Star
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s137609_dark_360w_270h.png",Laff More
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113678_dark_360w_270h.png",SNL Vault
-https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111668_dark_360w_270h.png",Comedy Dynamics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89311_dark_360w_270h.png",ALF
@@ -194,7 +194,7 @@ https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s156961_dark_360w_270h.png",Joel Osteen
 https://linear-860.frequency.stream/dist/localnow/860/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110480_dark_360w_270h.png",Dove
-https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+https://linear-896.frequency.stream/mt/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127467_dark_360w_270h.png",FamilyTime
 https://amg09501-amg09501c3-zonetv-international-2498.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-zonetvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119355_dark_360w_270h.png",RetroCrush
@@ -237,8 +237,6 @@ https://linear-600.frequency.stream/mt/obsessionmedia/600/hls/master/playlist.m3
 https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138400_dark_360w_270h.png",Bravo Vault
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138455_dark_360w_270h.png",Real Housewives Vault
-https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s161256_dark_360w_270h.png",Relative Justice
 https://amg02042-amg02042c24-ottstudios-na-4394.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-relativejustice-ottstudiosna/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151312_dark_360w_270h.png",Operation Repo
@@ -248,7 +246,7 @@ https://lds-donttellbride-simplestream.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114871_dark_360w_270h.png",So... Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130620_dark_360w_270h.png",AsianCrush
-https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+https://linear-900.frequency.stream/mt/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138525_dark_360w_270h.png",Noticias Telemundo AHORA
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321&ads.asnw=169843&ads.afid=380752915&ads.sfid=19647824&ads.csid=xumo_[PLATFORM]_TelemundoNoticiasAhora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.channelId=99951321&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123934_dark_360w_270h.png",Noticias Univision 24/7
