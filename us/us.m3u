@@ -40,7 +40,7 @@ https://urs.pbs.org/redirect/8868bd5f66254c18b448fada8fd74ce1/
 #EXTINF:-1 group-title="TV" tvg-id="101364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
 https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/
 #EXTINF:-1 group-title="TV" tvg-id="82462" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82462_dark_360w_270h.png",FNX
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+https://hls-live-media-gc.cdn01.net/mpegts/232076_1784430/6CJRZTr6vuhypzbwG9yhsw/1750673412/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA TV
 https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66281_dark_360w_270h.png",Biz Television
