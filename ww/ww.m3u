@@ -1,33 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="aje",Al Jazeera English
-aje.m3u8
+https://arkina1234.github.io/ext/hls/aje.m3u8
 #EXTINF:-1 tvg-id="alarabiya",Al Arabiya
-alarabiya.m3u8
+https://arkina1234.github.io/ext/hls/alarabiya.m3u8
 #EXTINF:-1 tvg-id="alhadath",Al Hadath
-alhadath.m3u8
+https://arkina1234.github.io/ext/hls/alhadath.m3u8
 #EXTINF:-1 tvg-id="arirang",Arirang
-arirang.m3u8
+https://arkina1234.github.io/ext/hls/arirang.m3u8
 #EXTINF:-1 tvg-id="cgtn",CGTN
-cgtn.m3u8
+https://arkina1234.github.io/ext/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cgtn-doc",CGTN Documentary
-cgtn-doc.m3u8
+https://arkina1234.github.io/ext/hls/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="dw-en",DW English
-dw-en.m3u8
+https://arkina1234.github.io/ext/hls/dw-en.m3u8
 #EXTINF:-1 tvg-id="ertworld",ERT World
-ertworld.m3u8
+https://arkina1234.github.io/ext/hls/ertworld.m3u8
 #EXTINF:-1 tvg-id="euronews-en",Euronews English
-euronews-en.m3u8
+https://arkina1234.github.io/ext/hls/euronews-en.m3u8
 #EXTINF:-1 tvg-id="france24-en",France 24 English
-france24-en.m3u8
+https://arkina1234.github.io/ext/hls/france24-en.m3u8
 #EXTINF:-1 tvg-id="i24news-en",i24NEWS English
-i24news-en.m3u8
+https://arkina1234.github.io/ext/hls/i24news-en.m3u8
 #EXTINF:-1 tvg-id="nhk-jp",NHK World-Japan
-nhk-jp.m3u8
+https://arkina1234.github.io/ext/hls/nhk-jp.m3u8
 #EXTINF:-1 tvg-id="rtpi",RTP Internacional
-rtpi.m3u8
+https://arkina1234.github.io/ext/hls/rtpi.m3u8
 #EXTINF:-1 tvg-id="trtturk",TRT Türk
-trtturk.m3u8
+https://arkina1234.github.io/ext/hls/trtturk.m3u8
 #EXTINF:-1 tvg-id="trtworld",TRT World
-trtworld.m3u8
+https://arkina1234.github.io/ext/hls/trtworld.m3u8
+#EXTINF:-1 tvg-id="tvri",TVRi
+https://arkina1234.github.io/ext/hls/tvri.m3u8
 #EXTINF:-1 tvg-id="wion",WION
-wion.m3u8
+https://arkina1234.github.io/ext/hls/wion.m3u8
