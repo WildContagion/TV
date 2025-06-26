@@ -3,6 +3,12 @@
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-chno="161" group-title="" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-logo="http://example.com/example.png",AccuWeather NOW
 https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
+#EXTINF:-1 tvg-chno="220" group-title="" tvg-id="8f7350535325c7fad29cb140ef240ed7" tvg-logo="http://example.com/example.png",Esports Edge
+https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8
+#EXTINF:-1 tvg-chno="228" group-title="" tvg-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-logo="http://example.com/example.png",SPORTSGRID
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 tvg-chno="246" group-title="" tvg-id="b4273871759a5631bd536d2214f175e5" tvg-logo="http://example.com/example.png",Fubo Sports
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 #EXTINF:-1 tvg-chno="264" group-title="" tvg-id="5976983fa00953dab911a0ebea932943" tvg-logo="http://example.com/example.png",DraftKings
 https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8
 #EXTINF:-1 tvg-chno="274" group-title="" tvg-id="eb1dbd690001553eacdf32d7b155b933" tvg-logo="http://example.com/example.png",SPARK TV
@@ -13,6 +19,8 @@ https://jmp2.uk/rok-d93912b4b21158fd95af2ceb8979c586.m3u8
 https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
 #EXTINF:-1 tvg-chno="298" group-title="" tvg-id="d6f71998860459eca1bed73db5988330" tvg-logo="http://example.com/example.png",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
+#EXTINF:-1 tvg-chno="312" group-title="" tvg-id="2547ef42e2f45bbaa84752657cffe3c9" tvg-logo="http://example.com/example.png",Tribeca Channel
+https://jmp2.uk/rok-2547ef42e2f45bbaa84752657cffe3c9.m3u8
 #EXTINF:-1 tvg-chno="319" group-title="" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-logo="http://example.com/example.png",FilmRise Western
 https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
 #EXTINF:-1 tvg-chno="326" group-title="" tvg-id="01ff0accf1e9586f8a0f3db77b5afe2d" tvg-logo="http://example.com/example.png",Heartland
@@ -77,6 +85,8 @@ https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8
 https://jmp2.uk/rok-fb29ccf15bc8583ca1db8c42902eeae8.m3u8
 #EXTINF:-1 tvg-chno="659" group-title="" tvg-id="d216c2141a835cfcbe34a7d1b7d2e078" tvg-logo="http://example.com/example.png",Nosey
 https://jmp2.uk/rok-d216c2141a835cfcbe34a7d1b7d2e078.m3u8
+#EXTINF:-1 tvg-chno="692" group-title="" tvg-id="b41118f76d1a5abcb701b9cc0a035c5b" tvg-logo="http://example.com/example.png",So Real
+https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8
 #EXTINF:-1 tvg-chno="702" group-title="" tvg-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-logo="http://example.com/example.png",FilmRise Food
 https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
 #EXTINF:-1 tvg-chno="720" group-title="" tvg-id="856fca464da0544784204ba8f6161dac" tvg-logo="http://example.com/example.png",PBS Antiques Roadshow
@@ -97,6 +107,8 @@ https://jmp2.uk/rok-69791edb54d953268aa8933e2cb29a32.m3u8
 https://jmp2.uk/rok-86c08261fc015a58866210bea63eb8f4.m3u8
 #EXTINF:-1 tvg-chno="817" group-title="" tvg-id="e63d49e8acd7557596d091b3fa262999" tvg-logo="http://example.com/example.png",FGTeeV
 https://jmp2.uk/rok-e63d49e8acd7557596d091b3fa262999.m3u8
+#EXTINF:-1 tvg-chno="820" group-title="" tvg-id="bc68164868385873a0f2b1c649fa2495" tvg-logo="http://example.com/example.png",Comedy Dynamics
+https://jmp2.uk/rok-bc68164868385873a0f2b1c649fa2495.m3u8
 #EXTINF:-1 tvg-chno="833" group-title="" tvg-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-logo="http://example.com/example.png",FilmRise Creators
 https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 #EXTINF:-1 tvg-chno="840" group-title="" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-logo="http://example.com/example.png",Animation+
