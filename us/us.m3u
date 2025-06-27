@@ -102,6 +102,8 @@ https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s153694_dark_360w_270h.png",InTouch+
 https://amg01540-intouchplus-intouchono1080.amagi.tv/intouchono.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png",Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="30174" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33527_dark_360w_270h.png",Enlace
 https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49987_dark_360w_270h.png",3ABN Latino
