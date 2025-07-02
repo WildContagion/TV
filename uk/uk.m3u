@@ -1,248 +1,170 @@
-#EXTM3U url-tvg="http://arkina1234.co4.in/tempest_config/epg/freeview.co.uk.xml"
-#EXTINF:-1 tvg-chno="1" ch-number="1" group-title="TV" tvg-id="BBC ONE Lon" tvg-logo="",BBC One Lon
+#EXTM3U
+#EXTINF:-1 tvg-chno="1",BBC One Lon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="2" ch-number="2" group-title="TV" tvg-id="BBC TWO" tvg-logo="",BBC Two
+#EXTINF:-1 tvg-chno="2",BBC Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="23" ch-number="23" group-title="TV" tvg-id="BBC THREE" tvg-logo="",BBC Three
+#EXTINF:-1 tvg-chno="23",BBC Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="9" ch-number="9" group-title="TV" tvg-id="BBC FOUR" tvg-logo="",BBC Four
+#EXTINF:-1 tvg-chno="9",BBC Four
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="201" ch-number="201" group-title="TV" tvg-id="CBBC" tvg-logo="",CBBC
+#EXTINF:-1 tvg-chno="201",CBBC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="202" ch-number="202" group-title="TV" tvg-id="CBeebies" tvg-logo="",CBeebies
+#EXTINF:-1 tvg-chno="202",CBeebies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="231" ch-number="231" group-title="TV" tvg-id="BBC NEWS" tvg-logo="",BBC News
+#EXTINF:-1 tvg-chno="231",BBC News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="232" ch-number="232" group-title="TV" tvg-id="BBC Parliament" tvg-logo="",BBC Parliament
+#EXTINF:-1 tvg-chno="232",BBC Parliament
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="601" ch-number="601" group-title="TV" tvg-id="BBC RB 1" tvg-logo="",BBC RB 1
+#EXTINF:-1 tvg-chno="601",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="3" ch-number="3" group-title="TV" tvg-id="ITV1" tvg-logo="",ITV1
+#EXTINF:-1 tvg-chno="3",ITV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1||R{SSM}|
 https://csm-e-ceitvaeuw1lived-01a8720428b1e2cf4.play.dar.itv.com/csm/extlive/itv01,itv1-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="6" ch-number="6" group-title="TV" tvg-id="ITV2" tvg-logo="",ITV2
+#EXTINF:-1 tvg-chno="6",ITV2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV2||R{SSM}|
 https://csm-e-ceitvaeuw1lived-087e41011cf8be946.play.dar.itv.com/csm/extlive/itv01,itv2-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="10" ch-number="10" group-title="TV" tvg-id="ITV3" tvg-logo="",ITV3
+#EXTINF:-1 tvg-chno="10",ITV3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV3||R{SSM}|
 https://csm-e-itv-eb.play.dar.itv.com/csm/extlive/itv01,itv3-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="26" ch-number="26" group-title="TV" tvg-id="ITV4" tvg-logo="",ITV4
+#EXTINF:-1 tvg-chno="26",ITV4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV4||R{SSM}|
 https://csm-e-ceitvaeuw1lived-0c827efcd96bd824b.play.dar.itv.com/csm/extlive/itv01,itv4-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="28" ch-number="28" group-title="TV" tvg-id="ITVBe" tvg-logo="",ITV Quiz
+#EXTINF:-1 tvg-chno="28",ITV Quiz
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITVBe||R{SSM}|
 https://csm-e-itv-eb.play.dar.itv.com/csm/extlive/itv01,itvbe-dotcom-dash-proda-multicdn.mpd
-#EXTINF:-1 tvg-chno="4" ch-number="4" group-title="TV" tvg-id="Channel 4" tvg-logo="",Channel 4
+#EXTINF:-1 tvg-chno="4",Channel 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/C4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 tvg-chno="13" ch-number="13" group-title="TV" tvg-id="E4" tvg-logo="",E4
+#EXTINF:-1 tvg-chno="13",E4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/E4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:-1 tvg-chno="18" ch-number="18" group-title="TV" tvg-id="More 4" tvg-logo="",More 4
+#EXTINF:-1 tvg-chno="18",More4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/M4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
-#EXTINF:-1 tvg-chno="14" ch-number="14" group-title="TV" tvg-id="Film4" tvg-logo="",Film4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.mpd
+#EXTINF:-1 tvg-chno="14",Film4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/F4|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-#EXTINF:-1 tvg-chno="49" ch-number="49" group-title="TV" tvg-id="4seven" tvg-logo="",4seven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.mpd
+#EXTINF:-1 tvg-chno="49",4seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://c4.eme.lp.aws.redbeemedia.com/wvlicenceproxy-service/widevine/acquire|User-Agent=okhttp%2F4.5.0&Content-Type=application/json&Referer=https://www.channel4.com/simulcast/channels/4S|{"token": decoded_token,"video": {"type": "simulcast","url": url},"message": "b{SSM}"}|JBlicense
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-#EXTINF:-1 tvg-chno="5" ch-number="5" group-title="TV" tvg-id="5" tvg-logo="",5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
+#EXTINF:-1 tvg-chno="5",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C5?expiry=&tag=||R{SSM}|
-https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
-#EXTINF:-1 tvg-chno="21" ch-number="21" group-title="TV" tvg-id="5USA" tvg-logo="",5USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a267a5bcc34daaa32c024c00f61705:1d24bce07cea7d5a3861aca7e08958d8
+https://00f5f8579b5d647e0e619d3493705510.channel5.com/c5/a9fa708ec2a94f97af77f30947edfc41/index.mpd
+#EXTINF:-1 tvg-chno="21",5USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C7?expiry=&tag=||R{SSM}|
-https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
-#EXTINF:-1 tvg-chno="32" ch-number="32" group-title="TV" tvg-id="5STAR" tvg-logo="",5STAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29a2fead0ebe4a068529d2de7c6a8aca:569b99af54559d83250a11443b74d137
+https://00f5f8579b5d647e0e619d3493705510.channel5.com/c7/b2df7c20606f49ddbff09177addc2ed2/index.mpd
+#EXTINF:-1 tvg-chno="32",5STAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C6?expiry=&tag=||R{SSM}|
-https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
-#EXTINF:-1 tvg-chno="33" ch-number="33" group-title="TV" tvg-id="5ACTION" tvg-logo="",5ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e3ee7672ee40c49c77878f02b8838d:1a9deab6128a649e650a53aaae873b3b
+https://00f5f8579b5d647e0e619d3493705510.channel5.com/c6/63e8270262274c5482c7082a107cd5d2/index.mpd
+#EXTINF:-1 tvg-chno="33",5ACTION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C0?expiry=&tag=||R{SSM}|
-https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-#EXTINF:-1 tvg-chno="46" ch-number="46" group-title="TV" tvg-id="5SELECT" tvg-logo="",5SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba7856b544de4a3a9c0eae9f8ef5fc9b:b6e455f8553b2156d5eca70985fa0a53
+https://00f5f8579b5d647e0e619d3493705510.channel5.com/c0/1c98265fe48d4ea189b11b129ce178f9/index.mpd
+#EXTINF:-1 tvg-chno="46",5SELECT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cassie.channel5.com/api/v2/licences/widevine/365/C8?expiry=&tag=||R{SSM}|
-https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
-#EXTINF:-1 tvg-chno="16" ch-number="16" group-title="TV" tvg-id="QVC" tvg-logo="",QVC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8edf3f731c1f4fa1a2a5ac6fde17d412:6f8cae931fb0d69d66c87f7bcbb3408b
+https://00f5f8579b5d647e0e619d3493705510.channel5.com/c8/05e4f1f9c6a24ef5b00c3233f865d9c3/index.mpd
+#EXTINF:-1 tvg-chno="16",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 tvg-chno="22" ch-number="22" group-title="TV" tvg-id="TJC" tvg-logo="",TJC
+#EXTINF:-1 tvg-chno="22",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master.m3u8
-#EXTINF:-1 tvg-chno="51" ch-number="51" group-title="TV" tvg-id="Ideal World" tvg-logo="",Ideal World
+#EXTINF:-1 tvg-chno="51",Ideal World
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
-#EXTINF:-1 tvg-chno="45" ch-number="45" group-title="TV" tvg-id="Gems TV" tvg-logo="",Gems TV
+#EXTINF:-1 tvg-chno="45",Gems TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="72" ch-number="72" group-title="TV" tvg-id="Jewellery Maker" tvg-logo="",Jewellery Maker
+#EXTINF:-1 tvg-chno="72",Jewellery Maker
 https://lo3.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="73" ch-number="73" group-title="TV" tvg-id="HobbyMaker" tvg-logo="",HobbyMaker
+#EXTINF:-1 tvg-chno="73",HobbyMaker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="61" ch-number="61" group-title="TV" tvg-id="GREAT! mystery" tvg-logo="",GREAT! mystery
-https://linear-861.frequency.stream/mt/lg-uk/861/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-chno="62" ch-number="62" group-title="TV" tvg-id="GREAT! romance mix" tvg-logo="",GREAT! romance mix
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="205" ch-number="205" group-title="TV" tvg-id="POP" tvg-logo="",POP
-https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="206" ch-number="206" group-title="TV" tvg-id="Tiny Pop" tvg-logo="",Tiny Pop
-https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="207" ch-number="207" group-title="TV" tvg-id="POP UP" tvg-logo="",POP UP
-https://linear-862.frequency.stream/mt/lg-uk/862/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-chno="64" ch-number="64" group-title="TV" tvg-id="Blaze" tvg-logo="",Blaze
+#EXTINF:-1 tvg-chno="64",Blaze
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
-#EXTINF:-1 tvg-chno="66" ch-number="66" group-title="TV" tvg-id="TBN UK" tvg-logo="",TBN UK
+#EXTINF:-1 tvg-chno="66",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
-#EXTINF:-1 tvg-chno="83" ch-number="83" group-title="TV" tvg-id="Together TV" tvg-logo="",Together TV
+#EXTINF:-1 tvg-chno="83",Together TV
 https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
-#EXTINF:-1 tvg-chno="91" ch-number="91" group-title="TV" tvg-id="WildEarth" tvg-logo="",WildEarth
-https://wildearth-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="233" ch-number="233" group-title="TV" tvg-id="Sky News" tvg-logo="",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-chno="236" ch-number="236" group-title="TV" tvg-id="GB News" tvg-logo="",GB News
+#EXTINF:-1 tvg-chno="233",Sky News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-chno="236" ,GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="251" ch-number="251" group-title="TV" tvg-id="Al Jazeera English" tvg-logo="",Al Jazeera English
-https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="255" ch-number="255" group-title="TV" tvg-id="FRANCE 24" tvg-logo="",FRANCE 24
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-chno="257" ch-number="257" group-title="TV" tvg-id="EuroNews" tvg-logo="",Euronews
-https://dkshlpp7ugzua.cloudfront.net/live/eds/euronews-en/25014/euronews-en.m3u8
-#EXTINF:-1 tvg-chno="258" ch-number="258" group-title="TV" tvg-id="Real Crime" tvg-logo="",Real Crime
-https://amg00426-littledotstudio-realcrimealpha-lggb-nrx72.amagi.tv/playlist/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="259" ch-number="259" group-title="TV" tvg-id="MBC" tvg-logo="",MBC
-https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
-#EXTINF:-1 tvg-chno="260" ch-number="260" group-title="TV" tvg-id="ASHARQ NEWS" tvg-logo="",ASHARQ NEWS
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-chno="266" ch-number="266" group-title="TV" tvg-id="Revelation TV" tvg-logo="",Revelation TV
-https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-chno="267" ch-number="267" group-title="TV" tvg-id="God TV" tvg-logo="",God TV
-https://ott.god.tv/live/uk/master.m3u8
-#EXTINF:-1 tvg-chno="269" ch-number="269" group-title="TV" tvg-id="New Media TV" tvg-logo="",New Media TV
-https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:nmtvuk.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="275" ch-number="275" group-title="TV" tvg-id="wedotv movies" tvg-logo="",wedotv movies
-https://amg00735-videosolutionsa-wedomoviesen-ono-8zph5.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesen-ono/playlist.m3u8
-#EXTINF:-1 tvg-chno="280" ch-number="280" group-title="TV" tvg-id="Talk" tvg-logo="",Talk
-https://amg00738-newsuk-amg00738c1-lg-gb-3426.playouts.now.amagi.tv/playlist/amg00738-newscorpukandirelandlimited-talktv-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="285" ch-number="285" group-title="TV" tvg-id="TRACE UK" tvg-logo="",TRACE UK
-https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted.m3u8
-#EXTINF:-1 tvg-chno="286" ch-number="286" group-title="TV" tvg-id="It Is Written TV" tvg-logo="",It Is Written TV
-https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
-#EXTINF:-1 tvg-chno="287" ch-number="287" group-title="TV" tvg-id="Nolly Africa" tvg-logo="",Nolly Africa
-https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 1
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
-#EXTINF:-1 tvg-chno="701" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC R1X
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_1xtra.m3u8
-#EXTINF:-1 tvg-chno="702" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 2
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_two.m3u8
-#EXTINF:-1 tvg-chno="703" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 3
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_three.m3u8
-#EXTINF:-1 tvg-chno="704" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_fourfm.m3u8
-#EXTINF:-1 tvg-chno="708" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Radio 4 Ex
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_four_extra.m3u8
-#EXTINF:-1 tvg-chno="705" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC R5L
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_five_live.m3u8
-#EXTINF:-1 tvg-chno="706" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC 5SX
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/ak/bbc_radio_five_live_sports_extra.m3u8
-#EXTINF:-1 tvg-chno="707" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC 6 Music
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_6music.m3u8
-#EXTINF:-1 tvg-chno="709" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC Asian Net.
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_asian_network.m3u8
-#EXTINF:-1 tvg-chno="710" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",BBC World Sv.
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_world_service.m3u8
-#EXTINF:-1 tvg-chno="718" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Smooth Radio
-https://media-ssl.musicradio.com/SmoothUK
-#EXTINF:-1 tvg-chno="724" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Capital
-https://media-ssl.musicradio.com/CapitalUK
-#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Heart
-https://media-ssl.musicradio.com/HeartUK
-#EXTINF:-1 tvg-chno="731" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Classic FM
-https://media-ssl.musicradio.com/ClassicFM
-#EXTINF:-1 tvg-chno="732" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",LBC
-https://media-ssl.musicradio.com/LBCUK
-#EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",talkSPORT
-https://radio.talksport.com/stream-mobile
-#EXTINF:-1 tvg-chno="725" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",Premier Radio
-https://pcr.streamguys1.com/pcrnational-96k.aac
-#EXTINF:-1 tvg-chno="730" tvg-id="" tvg-name="" tvg-logo="" group-title="Radio" radio="true",RNIB Connect
-https://stream.rcs.revma.com/yv4znr4xcg0uv.aac
