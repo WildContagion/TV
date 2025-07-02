@@ -70,7 +70,7 @@ https://p7s1-live-009-prod.akamaized.net/b5b26355/t_001/kabeleinsdoku-de/cenc-de
 #EXTINF:-1,WELT
 https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
 #EXTINF:-1,N24 Doku
-https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/index.m3u8
+https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/master.m3u8
 #EXTINF:-1,Sport1
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1,Deluxe Music
