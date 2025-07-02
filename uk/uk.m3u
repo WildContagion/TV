@@ -127,29 +127,29 @@ https://00f5f8579b5d647e0e619d3493705510.channel5.com/c5/a9fa708ec2a94f97af77f30
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29a2fead0ebe4a068529d2de7c6a8aca:569b99af54559d83250a11443b74d137
-https://00f5f8579b5d647e0e619d3493705510.channel5.com/c7/b2df7c20606f49ddbff09177addc2ed2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
+https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
 #EXTINF:-1 tvg-chno="32",5STAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e3ee7672ee40c49c77878f02b8838d:1a9deab6128a649e650a53aaae873b3b
-https://00f5f8579b5d647e0e619d3493705510.channel5.com/c6/63e8270262274c5482c7082a107cd5d2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"31c99fca03f345c1b9c2f501a621058e":"c3e75e6c11515c32bb4ac7c163523b3d","244fce7dde4625c938a3728b122ac51e":"c3e75e6c11515c32bb4ac7c163523b3d"}
+https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 #EXTINF:-1 tvg-chno="33",5ACTION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba7856b544de4a3a9c0eae9f8ef5fc9b:b6e455f8553b2156d5eca70985fa0a53
-https://00f5f8579b5d647e0e619d3493705510.channel5.com/c0/1c98265fe48d4ea189b11b129ce178f9/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
+https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
 #EXTINF:-1 tvg-chno="46",5SELECT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8edf3f731c1f4fa1a2a5ac6fde17d412:6f8cae931fb0d69d66c87f7bcbb3408b
-https://00f5f8579b5d647e0e619d3493705510.channel5.com/c8/05e4f1f9c6a24ef5b00c3233f865d9c3/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
+https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 #EXTINF:-1 tvg-chno="16",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-chno="22",TJC
