@@ -39,3 +39,39 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1,ProSieben
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
+https://p7s1-live-009-prod.akamaized.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
+#EXTINF:-1,Sat.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540313f2e5eda2c17df277afc085f33c:3a2ac903e4299a7815111e256369d9d4
+https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd
+#EXTINF:-1,kabel eins
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
+https://p7s1-live-009-prod.akamaized.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
+#EXTINF:-1,sixx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4edad70423eeb42c657c8fcd98d29597:180c718d8085c72fd2ecc59d94364eb0
+https://p7s1-live-009-prod.akamaized.net/061b2e86/t_001/sixx-de/cenc-default.mpd
+#EXTINF:-1,ProSieben Maxx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f373c6d4b40f79a4036331c5990cf57f:519c560107c16eef0706835744c2971c
+https://p7s1-live-009-prod.akamaized.net/4790383b/t_001/prosiebenmaxx-de/cenc-default.mpd
+#EXTINF:-1,Sat.1 Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a41460f6df3d72e240132eb283f9684f:61779333d8cac9fbf31d957035e45a58
+https://p7s1-live-009-prod.akamaized.net/719ea289/t_001/sat1gold-de/cenc-default.mpd
+#EXTINF:-1,kabel eins Doku
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5672c0a79d43378d6f18e015bf6c2b62:6127715b112f59d93d868615f59a99fc
+https://p7s1-live-009-prod.akamaized.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.mpd
+#EXTINF:-1,WELT
+https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
+#EXTINF:-1,N24 Doku
+https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/index.m3u8
+#EXTINF:-1,Sport1
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1,Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
