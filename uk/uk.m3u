@@ -76,6 +76,8 @@ https://csm-e-ceitvaeuw1lived-0c827efcd96bd824b.play.dar.itv.com/csm/extlive/itv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITVBe||R{SSM}|
 https://csm-e-itv-eb.play.dar.itv.com/csm/extlive/itv01,itvbe-dotcom-dash-proda-multicdn.mpd
+#EXTINF:-1 tvg-chno="3",STV
+https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 #EXTINF:-1 tvg-chno="4",Channel 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -111,6 +113,8 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
+#EXTINF:-1 tvg-chno="4",S4C
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-chno="5",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
