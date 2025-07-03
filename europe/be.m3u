@@ -13,7 +13,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/abbf72be.isml/abbf72b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/946d4a38.isml/946d4a38.mpd
-La Trois
+#EXTINF:-1,La Trois
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
