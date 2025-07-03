@@ -40,38 +40,122 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,ProSieben
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
 https://p7s1-live-009-prod.akamaized.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
 #EXTINF:-1,Sat.1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a68b4bbd42effb29ffb901523b1f3754:c794cd85a4f016d017e2de2c39185cb5
 https://p7s1-live-009-prod.akamaized.net/123d03d0/t_001/sat1-de/cenc-default.mpd
 #EXTINF:-1,kabel eins
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
 https://p7s1-live-009-prod.akamaized.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
 #EXTINF:-1,sixx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4edad70423eeb42c657c8fcd98d29597:180c718d8085c72fd2ecc59d94364eb0
 https://p7s1-live-009-prod.akamaized.net/061b2e86/t_001/sixx-de/cenc-default.mpd
 #EXTINF:-1,ProSieben Maxx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f373c6d4b40f79a4036331c5990cf57f:519c560107c16eef0706835744c2971c
 https://p7s1-live-009-prod.akamaized.net/4790383b/t_001/prosiebenmaxx-de/cenc-default.mpd
 #EXTINF:-1,Sat.1 Gold
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a41460f6df3d72e240132eb283f9684f:61779333d8cac9fbf31d957035e45a58
 https://p7s1-live-009-prod.akamaized.net/719ea289/t_001/sat1gold-de/cenc-default.mpd
 #EXTINF:-1,kabel eins Doku
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5672c0a79d43378d6f18e015bf6c2b62:6127715b112f59d93d868615f59a99fc
 https://p7s1-live-009-prod.akamaized.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.mpd
+#EXTINF:-1,RTL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+#EXTINF:-1,VOX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcfb484409cd5e9038302c2867d7c1a8:a4873fe758a838b5d31cbeb0e4357ab9
+https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd
+#EXTINF:-1,RTL Zwei
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc471fc4c310aab6023f1dd38462e83:86763f0030ecd2fd82a8b04d20f7f4b3
+https://pnowlive-a.akamaized.net/live/rtl2hd/dash/rtl2hd.mpd
+#EXTINF:-1,NITRO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=343a23cd3dfcf4550194f0528771366c:ad47ec098d7249e45da238adccba45cf
+https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd
+#EXTINF:-1,n-tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3fd9036ec102684a2289b4e49eda746:2500f807780e95a2fa40ab9e5a72f05b
+https://pnowlive-a.akamaized.net/live/ntvhd/dash/ntvhd.mpd
+#EXTINF:-1,RTLup
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ca09d12f35268cebf0a81e9c2c320f:9e1157686e440db7499cd3deab24dfb2
+https://pnowlive-a.akamaized.net/live/rtluphd/dash/rtluphd.mpd
+#EXTINF:-1,RTL Super
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a89c191c081b3ae4431f0875c4af2231:0ea7204677e6090e3dec06cc413d8729
+https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd
 #EXTINF:-1,WELT
 https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
-#EXTINF:-1,N24 Doku
-https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/master.m3u8
 #EXTINF:-1,Sport1
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1,ANIXE HD
+https://wow.anixa.tv/live/anixehd2/playlist.m3u8
+#EXTINF:-1,QVC DE
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1,QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1,QVC Zwei
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1,HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,1-2-3 TV
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
