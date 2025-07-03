@@ -137,6 +137,13 @@ https://pnowlive-a.akamaized.net/live/rtluphd/dash/rtluphd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a89c191c081b3ae4431f0875c4af2231:0ea7204677e6090e3dec06cc413d8729
 https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd
+#EXTINF:-1,Toggo Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a463b86ef4e6a2531e1bc2df142a9db8:b7ee774343b708fa371c1c590139d357
+https://pnowlive-a.akamaized.net/live/toggoplushd/dash/toggoplushd.mpd
 #EXTINF:-1,WELT
 https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
 #EXTINF:-1,Sport1
