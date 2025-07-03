@@ -90,7 +90,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="26",ITV4
+# EXTINF:-1 tvg-chno="26",ITV4
 # KODIPROP:inputstream=inputstream.adaptive
 # KODIPROP:inputstream.adaptive.manifest_type=mpd
 # KODIPROP:mimetype=application/dash+xml
