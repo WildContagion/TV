@@ -170,5 +170,5 @@ https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
 https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
 #EXTINF:-1 tvg-chno="233",Sky News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-chno="236" ,GB News
+#EXTINF:-1 tvg-chno="236",GB News
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
