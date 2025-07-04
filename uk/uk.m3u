@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1",BBC One Lon
+#EXTINF:-1 tvg-chno="1",BBC One [London]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
