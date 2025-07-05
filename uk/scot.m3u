@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-chno="3" ch-number="3" group-title="TV" tvg-id="STV" tvg-logo="",STV
-https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
-#EXTINF:-1 tvg-chno="35" ch-number="35" group-title="TV" tvg-id="STV" tvg-logo="" tvg-shift="+1",STV+1
-https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
-#EXTINF:-1 tvg-chno="7" ch-number="7" group-title="TV" tvg-id="BBC ALBA" tvg-logo="",BBC ALBA
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-chno="9" ch-number="9" group-title="TV" tvg-id="BBC Scotland" tvg-logo="",BBC Scotland
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
