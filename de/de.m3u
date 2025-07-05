@@ -30,7 +30,7 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1,ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1,KiKA
-https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1,3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1,tagesschau24
@@ -93,42 +93,42 @@ https://ac-009.live.p7s1video.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ffdbfe565d7afdede6154dfcf366e500":"fd9a7a53157516493c1332938b22b6d8","b37ac109655e536e8c3c6c717bd31c49":"461574aafdc3d2558d2b479e4f738797","afcd2bf8571550e6bf1cf5ccf9047f67":"dc4341ce191f17db233772ff9f5887fa","680fa35f748b5defad7f59bae0f54666":"c633c6d02484ec1fa3b5b5107b56375f"}
+#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
 https://p7s1-live-009-prod.akamaized.net/e85065ab/t_009/nickelodeon-de/cenc-default.mpd
 #EXTINF:-1,Eurosport 1 DE [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"afbb1ea03504f4be0f982a65b3f63c25":"77ed6dbea21629dcca92f2956c6b6628","65f8515478805ef693ad33d3a2efcc50":"5169860625903c60f9e41d2855f3f18d,"46e3052e2e0253b191fd9b1a02bf94e9":"95ba9908770d997b1b39dd5a959d292e","d72450b9d91e55c9a55fe361996a7370":"afb9cdb284dc4b3ec49ba1e1a8c834e0"}
+#KODIPROP:inputstream.adaptive.license_key=afbb1ea03504f4be0f982a65b3f63c25:77ed6dbea21629dcca92f2956c6b6628
 https://p7s1-live-016-prod.akamaized.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
 #EXTINF:-1,DMAX [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c401c268b85841e3345dfabb1aa497fe":"c3999ac196a5b2e0184574dda390d2ad","cc10a60ec7f05504bb5fd95fcd4be13c":"336ac239f6cab29b04bdd5ac9e3eb9ba","ddfe42612d5a5c7188adf275f3b6b2f8":"18a7c0ba3b18776cbc5c84d241b215ed","22575610d437536d9e6314abadfd490d":"4e818ad647b2803243f01f51c6bdc113"}
+#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
 https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
 #EXTINF:-1,MTV Germany [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"de964ef8f9cd50edb55de3e4a1aa9f1f":"969e2e74f5a530e9cee1bf68c412e3f8","e9bcb2b033a456fa8b2afcec25c41d22":"e6c4e6001313af4b28cf4d4e6b922aea","f363d0102bae5323b2fe683d68d35acc":"8263895085eca06958ec0c1f825da7ef","bb65a719e3ec515aa2e68152697c31e3":"b87930e9e6c32a12efb30aea363467e6"}
+#KODIPROP:inputstream.adaptive.license_key=de964ef8f9cd50edb55de3e4a1aa9f1f:969e2e74f5a530e9cee1bf68c412e3f8
 https://p7s1-live-009-prod.akamaized.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd
 #EXTINF:-1,Comedy Central DE [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"39c28321a9198e616a8fe0bb36439009":"844762d17c7a14a1845094863ceb5293","7945b405a8a853c9af6b54b232a9d1dc":"ff2b3329a9765adae89363442fe89c95","378837bebb4a502996d26d7c9f311c40":"16f34f3ea5ad42bfc256c1d0acafe415","39f480340b605b8fa18dff3b923c7360":"c2ca879272bae44d68c85d9703b68607"}
+#KODIPROP:inputstream.adaptive.license_key=39c28321a9198e616a8fe0bb36439009:844762d17c7a14a1845094863ceb5293
 https://p7s1-live-009-prod.akamaized.net/e1654d96/t_009/comedy-central-de/cenc-default.mpd
 #EXTINF:-1,Tele 5 [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fb9a918eaaa0352446a6d963e2a35b35":"acffb24113cd1d81f5945f3bea55c4c3","ff768ba865a15d24b74984f5c85c6ad1":"a07d50bec9370130cd11674e6267fce2","c11ab0e709f9542f80c152ef41dbe7e8":"c3aea76518bfe57e08d4ed572477a4f8","e92b57ea84fe5582802361847cf46037":"d691ba959609fbeee7c116a7b6081cfe"}
+#KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
 https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
 #EXTINF:-1,RTL
 #KODIPROP:inputstream=inputstream.adaptive
