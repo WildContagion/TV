@@ -121,6 +121,8 @@ https://novazz.ice.infomaniak.ch/novazz-128.mp3
 https://radiofg.impek.com/fg
 #EXTINF:-1 group-title="Radio - France" radio="true",Contact FM
 https://radio-contact.ice.infomaniak.ch/radio-contact-high.aac
+#EXTINF:-1 group-title="Radio - France" radio="true",Jazz Radio
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
 #EXTINF:-1 group-title="Radio - France" radio="true",Skyrock
 https://icecast.skyrock.net/s/natio_aac_128k
 #EXTINF:-1 group-title="Radio - France" radio="true",Radio Classique
