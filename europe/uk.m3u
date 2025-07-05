@@ -105,7 +105,7 @@ https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31c99fca03f345c1b9c2f501a621058e":"c3e75e6c11515c32bb4ac7c163523b3d","244fce7dde4625c938a3728b122ac51e":"c3e75e6c11515c32bb4ac7c163523b3d"}
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
-#EXTINF:-1 tvg-chno="33",5ACTION
+#EXTINF:-1 group-title="TV - UK",5ACTION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
