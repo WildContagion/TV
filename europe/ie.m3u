@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1,RTÉ One
+#EXTINF:-1 group-title="Ireland",RTÉ One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
-#EXTINF:-1,RTÉ Two
+#EXTINF:-1 group-title="Ireland",RTÉ Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
-#EXTINF:-1,RTÉ News
+#EXTINF:-1 group-title="Ireland",RTÉ News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
 https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
-#EXTINF:-1,TG4
+#EXTINF:-1 group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1,RTÉjr
+#EXTINF:-1 group-title="Ireland",RTÉjr
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/channel4.mpd
-#EXTINF:-1,Cúla4
+#EXTINF:-1 group-title="Ireland",Cúla4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main.m3u8
-#EXTINF:-1,Oireachtas TV
+#EXTINF:-1 group-title="Ireland",Oireachtas TV
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ Radio 1
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ Radio 1
 https://www.rte.ie/manifests/radio1.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ 2FM
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ 2FM
 https://www.rte.ie/manifests/2fm.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ lyric fm
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ lyric fm
 https://www.rte.ie/manifests/lyric.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ Raidió na Gaeltachta
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ Raidió na Gaeltachta
 https://www.rte.ie/manifests/rnag.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ Radio 1 Extra
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ Radio 1 Extra
 https://www.rte.ie/manifests/radio1extra.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ Pulse
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ Pulse
 https://www.rte.ie/manifests/pulse.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ 2XM
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ 2XM
 https://www.rte.ie/manifests/2xm.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉjr Radio/RTÉ Chill
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉjr Radio/RTÉ Chill
 https://www.rte.ie/manifests/junior.m3u8
-#EXTINF:-1 group-title="Radio" radio="true",RTÉ Gold
+#EXTINF:-1 group-title="Ireland" radio="true",RTÉ Gold
 https://www.rte.ie/manifests/gold.m3u8
 #EXTINF:-1,Virgin Media One
 #KODIPROP:inputstream=inputstream.adaptive
@@ -58,21 +58,21 @@ https://www.rte.ie/manifests/gold.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
 https://live-virginmedia.simplestreamcdn.com/out/v1/636bbabe78a242b1bd65fd915574b9c1/index.mpd
-#EXTINF:-1,Virgin Media Two
+#EXTINF:-1 group-title="Ireland",Virgin Media Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4ef154df2f1c07704f4ffae4005be6:294e0a27e76c43aeb16c2b71fc201cfb
 https://live-virginmedia.simplestreamcdn.com/out/v1/376321a2e3cc434baf3805af05a9aaac/index.mpd
-#EXTINF:-1,Virgin Media Three
+#EXTINF:-1 group-title="Ireland",Virgin Media Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
 https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
-#EXTINF:-1,Virgin Media Four
+#EXTINF:-1 group-title="Ireland",Virgin Media Four
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
