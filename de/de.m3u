@@ -130,8 +130,12 @@ https://p7s1-live-009-prod.akamaized.net/e1654d96/t_009/comedy-central-de/cenc-d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
 https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
-TLC DE [Joyn]
-21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
+#EXTINF:-1,TLC DE [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
 https://p7s1-live-009-prod.akamaized.net/e24de9d1/t_009/tlc-de/cenc-default.mpd
 #EXTINF:-1 group-title="TV - Germany",RTL
 #KODIPROP:inputstream=inputstream.adaptive
