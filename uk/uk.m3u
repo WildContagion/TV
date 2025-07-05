@@ -193,7 +193,7 @@ https://media-ssl.musicradio.com/HeartUK
 https://media-ssl.musicradio.com/SmoothUK
 #EXTINF:-1 group-title="Radio - UK" radio="true",Radio X
 https://media-ice.musicradio.com/RadioXUK
-#EXTINF:-1group-title="Radio - UK" radio="true",Gold Radio
+#EXTINF:-1 group-title="Radio - UK" radio="true",Gold Radio
 https://media-ice.musicradio.com/Gold
 #EXTINF:-1 group-title="Radio - UK" radio="true",Classic FM
 https://media-ssl.musicradio.com/ClassicFM
