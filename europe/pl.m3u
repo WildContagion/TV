@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,TVP1
+#EXTINF:-1 group-title="TV - Poland",TVP1
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvp1.m3u8
-#EXTINF:-1,TVP2
+#EXTINF:-1 group-title="TV - Poland",TVP2
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvp2.m3u8
-#EXTINF:-1,TVP3 Warszawa
+#EXTINF:-1 group-title="TV - Poland",TVP3 Warszawa
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvp3warszawa.m3u8
-#EXTINF:-1,TVP Polonia
+#EXTINF:-1 group-title="TV - Poland",TVP Polonia
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvppolonia.m3u8
-#EXTINF:-1,TVP Nauka
+#EXTINF:-1 group-title="TV - Poland",TVP Nauka
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpnauka.m3u8
-#EXTINF:-1,TVP Dokument
+#EXTINF:-1 group-title="TV - Poland",TVP Dokument
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpdokument.m3u8
-#EXTINF:-1,TVP Rozrywka
+#EXTINF:-1 group-title="TV - Poland",TVP Rozrywka
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvprozrywka.m3u8
-#EXTINF:-1,Alfa TVP
+#EXTINF:-1 group-title="TV - Poland",Alfa TVP
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/alfatvp.m3u8
-#EXTINF:-1,TVP ABC
+#EXTINF:-1 group-title="TV - Poland",TVP ABC
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpabc.m3u8
-#EXTINF:-1,TVP Kultura
+#EXTINF:-1 group-title="TV - Poland",TVP Kultura
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpkultura.m3u8
-#EXTINF:-1,TVP Historia
+#EXTINF:-1 group-title="TV - Poland",TVP Historia
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvphistoria.m3u8
-#EXTINF:-1,TVP Sport
+#EXTINF:-1 group-title="TV - Poland",TVP Sport
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpsport.m3u8
-#EXTINF:-1,TVP Info
+#EXTINF:-1 group-title="TV - Poland",TVP Info
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpinfo.m3u8
-#EXTINF:-1,TVP Kobieta
+#EXTINF:-1 group-title="TV - Poland",TVP Kobieta
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpkobieta.m3u8
-#EXTINF:-1,Belsat
+#EXTINF:-1 group-title="TV - Poland",Belsat
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/belsat.m3u8
-#EXTINF:-1,TVP World
+#EXTINF:-1 group-title="TV - Poland",TVP World
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpworld.m3u8
-#EXTINF:-1,TVP ABC 2
+#EXTINF:-1 group-title="TV - Poland",TVP ABC 2
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpabc2.m3u8
-#EXTINF:-1,TVP Historia 2
+#EXTINF:-1 group-title="TV - Poland",TVP Historia 2
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvphistoria.m3u8
-#EXTINF:-1,TVP Kultura 2
+#EXTINF:-1 group-title="TV - Poland",TVP Kultura 2
 https://raw.githubusercontent.com/fraudiay79/strm/main/platforms/links/pl/tvpkultura2.m3u8
