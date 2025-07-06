@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+#EXTINF:-1,Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
+#EXTINF:-1,Euronews Deutsch
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
+#EXTINF:-1,Euronews Italian
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
+#EXTINF:-1,Euronews Español
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25082/euronews-es.m3u8
+#EXTINF:-1,Euronews Português
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25077/euronews-pt.m3u8
