@@ -207,3 +207,25 @@ https://radio.talksport.com/stream-mobile
 https://radio.virginradio.co.uk/stream-mobile
 #EXTINF:-1 group-title="Radio - UK" radio="true",BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:-1 group-title="TV - UK",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+#EXTINF:-1 group-title="TV - UK",MTA1 WORLD
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="TV - UK",TBN UK
+https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
+#EXTINF:-1 group-title="TV - UK",EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Akaal Channel
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/index.m3u8
+#EXTINF:-1 group-title="TV - UK",NDTV World
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
+#EXTINF:-1 group-title="TV - UK",NTD UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 group-title="TV - UK",CNN International
+https://ds2c506obo7m8.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",WRN Europe
+http://streaming.edmradio.online:8025/WRN-E
+#EXTINF:-1 group-title="Radio - UK" radio="true",Panjab Radio
+http://s1.voscast.com:7918/stream
