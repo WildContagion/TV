@@ -1,40 +1,40 @@
-#EXTM3U
-#EXTINF:-1 group-title="TV - UK",BBC One [London]
+#EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/epg-uk.xml"
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCOneLondon.uk",BBC One [London]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Two
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCTwo.uk",BBC Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Three
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCThree.uk",BBC Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Four
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCFour.uk",BBC Four
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",CBBC
+#EXTINF:-1 group-title="TV - UK" tvg-id="CBBC.uk",CBBC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",CBeebies
+#EXTINF:-1 group-title="TV - UK" tvg-id="CBeebies.uk",CBeebies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC News
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCNews.uk",BBC News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Parliament
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCParliament.uk",BBC Parliament
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -43,39 +43,39 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parli
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="TV - UK",BBC ALBA [Scotland]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Red Button 1
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCRedButton1.uk",BBC Red Button 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="TV - UK",STV [Scotland]
 https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
-#EXTINF:-1 group-title="TV - UK",Channel 4
+#EXTINF:-1 group-title="TV - UK" tvg-id="Channel4.uk",Channel 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 group-title="TV - UK",E4
+#EXTINF:-1 group-title="TV - UK" tvg-id="E4.uk",E4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest_sd.mpd
-#EXTINF:-1 group-title="TV - UK",More4
+#EXTINF:-1 group-title="TV - UK" tvg-id="More4.uk",More4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.mpd
-#EXTINF:-1 group-title="TV - UK",Film4
+#EXTINF:-1 group-title="TV - UK" tvg-id="Film4.uk",Film4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.mpd
-#EXTINF:-1 group-title="TV - UK",4seven
+#EXTINF:-1 group-title="TV - UK" tvg-id="4seven.uk",4seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -84,35 +84,35 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
 #EXTINF:-1 group-title="TV - UK",S4C [Wales]
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 group-title="TV - UK",5
+#EXTINF:-1 group-title="TV - UK" tvg-id="Channel5.uk",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a267a5bcc34daaa32c024c00f61705:1d24bce07cea7d5a3861aca7e08958d8
 https://00f5f8579b5d647e0e619d3493705510.channel5.com/c5/a9fa708ec2a94f97af77f30947edfc41/index.mpd
-#EXTINF:-1 group-title="TV - UK",5USA
+#EXTINF:-1 group-title="TV - UK" tvg-id="5USA.uk",5USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
-#EXTINF:-1 group-title="TV - UK",5STAR
+#EXTINF:-1 group-title="TV - UK" tvg-id="5STAR.uk",5STAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31c99fca03f345c1b9c2f501a621058e":"c3e75e6c11515c32bb4ac7c163523b3d","244fce7dde4625c938a3728b122ac51e":"c3e75e6c11515c32bb4ac7c163523b3d"}
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
-#EXTINF:-1 group-title="TV - UK",5ACTION
+#EXTINF:-1 group-title="TV - UK" tvg-id="5Action.uk",5ACTION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-#EXTINF:-1 group-title="TV - UK",5SELECT
+#EXTINF:-1 group-title="TV - UK" tvg-id="5SELECT.uk",5SELECT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
