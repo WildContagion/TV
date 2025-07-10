@@ -129,7 +129,11 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TV - UK",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 group-title="TV - UK",QVC
+#EXTINF:-1 group-title="TV - UK",Revelation TV
+https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",GOD TV
+https://ott.god.tv/live/uk/master.m3u8
+#EXTINF:-1 group-title="TV - UK",QVC UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 group-title="TV - UK",QVC Beauty
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
