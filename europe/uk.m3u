@@ -211,24 +211,62 @@ https://radio.talksport.com/stream-mobile
 https://radio.virginradio.co.uk/stream-mobile
 #EXTINF:-1 group-title="Radio - UK" radio="true",BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:-1 group-title="TV - UK",Faith UK
+https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Sanskar TV
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 group-title="TV - UK",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+#EXTINF:-1 group-title="TV - UK",Aastha UK
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Eman Channel
+https://cdn149.anystream.uk:8082/app/3m9ntv/playlist.m3u8
 #EXTINF:-1 group-title="TV - UK",MTA1 WORLD
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Iqra TV
+https://cdn149.anystream.uk:8082/app/iq6a7ktv/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Iqra Bangla
+https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Islam TV
+https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",iON TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",ATN Bangla UK
+https://ap02.iqplay.tv:8082/iqb8002/atbla85tv/playlist.m3u8
 #EXTINF:-1 group-title="TV - UK",Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="TV - UK",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
+#EXTINF:-1 group-title="TV - UK",Dunamis TV
+https://atechgroupuk.site/DTV.m3u8
+#EXTINF:-1 group-title="TV - UK",Islam Channel Urdu
+https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="TV - UK",EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="TV - UK",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/index.m3u8
-#EXTINF:-1 group-title="TV - UK",NDTV World
-https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 #EXTINF:-1 group-title="TV - UK",NTD UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 group-title="TV - UK",Noor TV
+https://sscsott.com/srt/noortvuk/index.m3u8
+#EXTINF:-1 group-title="TV - UK",NDTV World
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
+#EXTINF:-1 group-title="TV - UK",Channel S
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 group-title="TV - UK",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Takbeer TV
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 group-title="TV - UK",Faith World TV
+https://faithworldtv.abs.tv/1826926230/index.m3u8
+#EXTINF:-1 group-title="TV - UK",Islam Channel Bangla
+https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="TV - UK",Loveworld UK
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV - UK",CNN International
-https://ds2c506obo7m8.cloudfront.net/index.m3u8
+https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="Radio - UK" radio="true",WRN Europe
 http://streaming.edmradio.online:8025/WRN-E
 #EXTINF:-1 group-title="Radio - UK" radio="true",Panjab Radio
