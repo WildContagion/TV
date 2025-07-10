@@ -238,7 +238,7 @@ https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="TV - UK",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
 #EXTINF:-1 group-title="TV - UK",Dunamis TV
-https://atechgroupuk.site/DTV.m3u8
+https://atechgroupuk.site/DTV/Dunamis%20c.m3u8?hlsid=HTTP_ID_89600
 #EXTINF:-1 group-title="TV - UK",Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="TV - UK",EWTN Europe
