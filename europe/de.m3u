@@ -201,10 +201,22 @@ https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1 group-title="TV - Germany",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="TV - Germany",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 group-title="TV - Germany",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="TV - Germany",Deluxe Dance by Kontor
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="TV - Germany",ANIXE HD
 https://wow.anixa.tv/live/anixehd2/playlist.m3u8
 #EXTINF:-1 group-title="TV - Germany",ANIXE+
 https://wow.anixa.tv/live/anixesd/playlist.m3u8
+#EXTINF:-1 group-title="TV - Germany",AristoTV
+http://wow.anixa.tv/live/aristo/playlist.m3u8
+#EXTINF:-1 group-title="TV - Germany",Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="TV - Germany",Hope TV Deutsch
+https://jstre.am/live/jsl:AQfP7b5HoTM.m3u8
 #EXTINF:-1 group-title="TV - Germany",QVC DE
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 group-title="TV - Germany",QVC Style
@@ -221,6 +233,8 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 group-title="TV - Germany",Handystar
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 group-title="TV - Germany",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 group-title="TV - Germany",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Radio - Germany" radio="true",Bayern 1 (Oberbayern)
