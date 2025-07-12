@@ -39,13 +39,13 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC Scotland [Scotland]
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCScotland.uk",BBC Scotland [Scotland]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",BBC ALBA [Scotland]
+#EXTINF:-1 group-title="TV - UK" tvg-id="BBCAlba.uk",BBC ALBA [Scotland]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="TV - UK" tvg-id="BBCRedButton1.uk",BBC Red Button 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="TV - UK",STV [Scotland]
+#EXTINF:-1 group-title="TV - UK" tvg-id="STV.uk",STV [Scotland]
 https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="Channel4.uk",Channel 4
 #KODIPROP:inputstream=inputstream.adaptive
@@ -82,7 +82,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
-#EXTINF:-1 group-title="TV - UK",S4C [Wales]
+#EXTINF:-1 group-title="TV - UK" tvg-id="S4C.uk",S4C [Wales]
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="Channel5.uk",5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -119,37 +119,35 @@ https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
-#EXTINF:-1 group-title="TV - UK",Blaze
+#EXTINF:-1 group-title="TV - UK" tvg-id="Blaze.uk",Blaze
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
-#EXTINF:-1 group-title="TV - UK",Together TV
+#EXTINF:-1 group-title="TV - UK" tvg-id="TogetherTV.uk",Together TV
 https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
-#EXTINF:-1 group-title="TV - UK",Sky News
+#EXTINF:-1 group-title="TV - UK" tvg-id="SkyNews.uk",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="TV - UK",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TV - UK",GB News
+#EXTINF:-1 group-title="TV - UK" tvg-id="GBNews.uk",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 group-title="TV - UK",Revelation TV
+#EXTINF:-1 group-title="TV - UK" tvg-id="RevelationTV.uk",Revelation TV
 https://live.mdc.akamaized.net/hls/live/revelationtv.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="TV - UK",GOD TV
+#EXTINF:-1 group-title="TV - UK" tvg-id="GODTV.uk",GOD TV
 https://ott.god.tv/live/uk/master.m3u8
-#EXTINF:-1 group-title="TV - UK",QVC UK
+#EXTINF:-1 group-title="TV - UK" tvg-id="QVC.uk",QVC UK
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 group-title="TV - UK",QVC Beauty
+#EXTINF:-1 group-title="TV - UK" tvg-id="QVCBeauty.uk",QVC Beauty
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 group-title="TV - UK",QVC Extra
+#EXTINF:-1 group-title="TV - UK" tvg-id="QVCExtra.uk",QVC Extra
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 group-title="TV - UK",QVC Style
+#EXTINF:-1 group-title="TV - UK" tvg-id="QVCStyle.uk",QVC Style
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:-1 group-title="TV - UK",Gems TV
+#EXTINF:-1 group-title="TV - UK" tvg-id="GemsTV.uk",Gems TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - UK",HobbyMaker
+#EXTINF:-1 group-title="TV - UK" tvg-id="HobbyMaker.uk",HobbyMaker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - UK",Jewellery Maker
+#EXTINF:-1 group-title="TV - UK" tvg-id="JewelleryMaker.uk",Jewellery Maker
 https://lo3.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - UK",TJC
+#EXTINF:-1 group-title="TV - UK" tvg-id="TJC.uk",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master.m3u8
-#EXTINF:-1 group-title="TV - UK",Ideal World
+#EXTINF:-1 group-title="TV - UK" tvg-id="IdealWorld.uk",Ideal World
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
 #EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
