@@ -6,11 +6,11 @@ https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="3" tvg-id="",Rai 3
 https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="4" tvg-id="",Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="5" tvg-id="",Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="6" tvg-id="",Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="7" tvg-id="",La7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
@@ -20,11 +20,11 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="9" tvg-id="",NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/wbd-nove-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="20" tvg-id="",20
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="21" tvg-id="",Rai 4
 https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="22" tvg-id="",Iris
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="23" tvg-id="",Rai 5
 https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="24" tvg-id="",Rai Movie
@@ -34,7 +34,7 @@ https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifes
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="26" tvg-id="",cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="27" tvg-id="",27twentyseven
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="28" tvg-id="",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="29" tvg-id="",La7d
@@ -42,7 +42,7 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="30" tvg-id="",La5
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="31" tvg-id="",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/wbd-realtime-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="32" tvg-id="",QVC IT
@@ -50,9 +50,9 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="33" tvg-id="",Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/wbd-foodnetwork-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="34" tvg-id="",Cine34
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="35" tvg-id="",Focus
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="36" tvg-id="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="37" tvg-id="",Warner TV
@@ -60,9 +60,9 @@ https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/wbd-wbtv-
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="38" tvg-id="",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/wbd-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="39" tvg-id="",TOPcrime
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="40" tvg-id="",Boing
-https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="41" tvg-id="",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/wbd-k2-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="42" tvg-id="",Rai Gulp
@@ -72,11 +72,13 @@ https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="44" tvg-id="",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/wbd-frisbee-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="46" tvg-id="",Cartoonito
-https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest_hd.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-chno="47" tvg-id="",Super!
+https://streamcdnn1-495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="48" tvg-id="",Rai News 24
 https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="49" tvg-id="",Italia 2
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="50" tvg-id="",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="51" tvg-id="",TGcom24
@@ -88,7 +90,7 @@ https://liveac115b.b-cdn.net/canale3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="54" tvg-id="",Rai Storia
 https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="55" tvg-id="",Mediaset Extra
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="56" tvg-id="",HGTV
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/wbd-hgtv-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="57" tvg-id="",Rai Scuola
