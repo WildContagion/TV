@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
 #EXTINF:-1 group-title="TV - France (TNT)" tvg-chno="1" tvg-id="TF1.fr",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/yX10AGRz5kXS/XMPgjxQoQH3qKI7X.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Z9h3zIxpuCK/pZsEWxAevz39bcUm.m3u8
 #EXTINF:-1 group-title="TV - France (TNT)" tvg-chno="2" tvg-id="France2.fr",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 group-title="TV - France (TNT)" tvg-chno="3" tvg-id="France3.fr",France 3
