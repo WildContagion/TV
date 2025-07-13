@@ -129,7 +129,7 @@ https://d3ulpxjxf8pfh5.cloudfront.net/out/v1/316245defadc4a61bb09258e05eef128/HL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f1cfa40698654247aac41bebc51b9042:f6a493ce85930e3ddd9ff14a41377904
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEPHPpAaYZUJHqsQb68UbkEIaC2J1eWRybWtleW9zIhDxz6QGmGVCR6rEG+vFG5BCSOPclZsG
 https://d33c53jye60q66.cloudfront.net/out/v1/778eabe924be48288f1f695913d8abd3/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="SkyArts.uk",Sky Arts
 #KODIPROP:inputstream=inputstream.adaptive
