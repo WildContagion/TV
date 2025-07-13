@@ -123,19 +123,22 @@ https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2d1bc558ff4d40f5b7094313ae31c58c:078f4f836ddb48705fb10b2fcc794add
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d1bc558ff4d40f5b7094313ae31c58c:078f4f836ddb48705fb10b2fcc794add
 https://d3ulpxjxf8pfh5.cloudfront.net/out/v1/316245defadc4a61bb09258e05eef128/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="Challenge.uk",Challenge
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|data:text/plain;base64,AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcSEPHPpAaYZUJHqsQb68UbkEIaC2J1eWRybWtleW9zIhDxz6QGmGVCR6rEG+vFG5BCSOPclZsG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1cfa40698654247aac41bebc51b9042:f6a493ce85930e3ddd9ff14a41377904
 https://d33c53jye60q66.cloudfront.net/out/v1/778eabe924be48288f1f695913d8abd3/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="SkyArts.uk",Sky Arts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5c23867431604d7787f5a03456fdfd32:810e479ebe2ec8d111a8b7c465e1f980
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c23867431604d7787f5a03456fdfd32:810e479ebe2ec8d111a8b7c465e1f980
 https://d263m8g5my89g4.cloudfront.net/out/v1/b2814f8068dd4b64a0ba0471ffac35fc/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 group-title="TV - UK" tvg-id="Blaze.uk",Blaze
 https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
