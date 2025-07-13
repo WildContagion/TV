@@ -1,14 +1,14 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="1" tvg-id="",Rai 1
-https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
+https://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="2" tvg-id="",Rai 2
-https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
+https://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="3" tvg-id="",Rai 3
-https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
+https://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="4" tvg-id="",Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
+https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="5" tvg-id="",Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
+https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="6" tvg-id="",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="7" tvg-id="",La7
