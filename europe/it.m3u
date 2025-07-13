@@ -10,7 +10,7 @@ https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="5" tvg-id="",Canale 5
 https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="6" tvg-id="",Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
+https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-chno="7" tvg-id="",La7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
