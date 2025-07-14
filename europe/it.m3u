@@ -16,116 +16,120 @@ https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
 https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=7
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/wbd-nove-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",20
+https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai 4
-https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Iris
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",La5
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest_hd.mpd
+https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai 5
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Movie
-https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Premium
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Italia 2
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Mediaset Extra
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest_hd.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",cielo
+https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=2
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",27twentyseven
+https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",20
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Sport
-https://raisportuno1-dash-live.akamaized.net/dash/live/663971/raisportuno1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Storia
-https://raistoria1-dash-live.akamaized.net/dash/live/663959/raistoria1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai News 24
-https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",TGcom24
-https://live03-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Scuola
-https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",27twentyseven
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",DMAX
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/wbd-dmax-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",La7d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",La5
+https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/wbd-realtime-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",QVC IT
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Focus
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hd.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/wbd-foodnetwork-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Cine34
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",RadioitaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index_hr.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Focus
+https://live02-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/wbd-wbtv-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/wbd-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",TOPcrime
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest_hd.mpd
+https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Boing
-https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Cartoonito
-https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest_hd.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Gulp
-https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Yoyo
-https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Frisbee
-https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/wbd-frisbee-samsungit/playlist.m3u8
+https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/wbd-k2-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/wbd-frisbee-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Cartoonito
+https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/wbd-foodnetwork-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Warner TV
-https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/wbd-wbtv-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Italia 2
+https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index_hr.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Sky TG24
+https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=1
+#EXTINF:-1 group-title="TV - Italy" tvg-chno="51" tvg-id="",TGcom24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index_hr.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/wbd-dmax-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Italia 53
+https://liveac115b.b-cdn.net/canale3.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Mediaset Extra
+https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",HGTV
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/wbd-hgtv-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/wbd-motortrend-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Solo Calcio
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radio Zeta
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radiofreccia
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radio Monte Carlo TV
-https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Virgin Radio TV
-https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-chno="66" tvg-id="",RADIO 105
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",R101 TV
 https://live03-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radio 105 TV
-https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",BOM CHANNEL
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",DeeJay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Radio 2 Visual
-https://visualradiodue1-dash-live.akamaized.net/dash/live/2034085/visualradiodue1/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-chno="70" tvg-id="",RadioitaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai 4K (HbbTV)
 https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Padre Pio TV
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+https://ppiotv.fluid.stream/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai Radio 2 Visual
+https://visualradiodue1-dash-live.akamaized.net/dash/live/2034085/visualradiodue1/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Solo Calcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Virgin Radio TV
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",Radio Monte Carlo TV
+https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
