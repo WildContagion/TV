@@ -87,7 +87,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Sky TG24
 https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=1
-#EXTINF:-1 group-title="TV - Italy" tvg-chno="51" tvg-id="",TGcom24
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",TGcom24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/wbd-dmax-samsungit/playlist.m3u8
@@ -107,7 +107,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/wbd-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-chno="66" tvg-id="",RADIO 105
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",RADIO 105
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -121,7 +121,7 @@ https://live03-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",DeeJay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-chno="70" tvg-id="",RadioitaliaTV
+#EXTINF:-1 group-title="TV - Italy" tvg-id="",RadioitaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="",Rai 4K (HbbTV)
 #KODIPROP:inputstream=inputstream.adaptive
