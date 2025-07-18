@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Z9h3zIxpuCK/pZ
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France3.fr",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-chno="4" tvg-id="France4.fr",France 4
+#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France4.fr",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France5.fr",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
