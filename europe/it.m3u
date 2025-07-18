@@ -99,8 +99,16 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="TV - Italy" tvg-id="MotorTrend.it",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/wbd-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="SportItalia.it",SportItalia
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="IL61.it",IL61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="DonnaTV.it",Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="SuperTennis.it",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="AlmaTV.it",Alma TV
+https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="Radio105TV.it",RADIO 105
 https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-id="R101TV.it",R101 TV
@@ -117,8 +125,16 @@ https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.
 https://ppiotv.fluid.stream/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="KissKissTV.it",KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="Odeon24.it",Odeon 24
+https://5a1178b42cc03.streamlock.net:443/odeon163/odeon163/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="RaiRadio2Visual.it",Rai Radio 2 Visual
 https://visualradiodue1-dash-live.akamaized.net/dash/live/2034085/visualradiodue1/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="TCI.it",TCI
+https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="RTL1025News.it",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="VirginRadioTV.it",Virgin Radio TV
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="TV - Italy" tvg-id="RadiofrecciaTV.it",Radiofreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="ByoBlu.it",ByoBlu
@@ -129,7 +145,9 @@ https://stream.rdstv.radio/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="SoloCalcio.it",Solo Calcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="VirginRadioTV.it",Virgin Radio TV
-https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="RadioCapitalTV.it",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="M2OTV.it",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="RadioMonteCarloTV.it",Radio Monte Carlo TV
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
