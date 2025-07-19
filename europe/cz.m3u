@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV - Czechia",ČT1
+https://sktv.plainrock127.xyz/get.php/get.mpd?x=CT1
+#EXTINF:-1 group-title="TV - Czechia",ČT2
+https://sktv.plainrock127.xyz/get.php?x=CT2
+#EXTINF:-1 group-title="TV - Czechia",ČT24
+https://sktv.plainrock127.xyz/get.php?x=CT24
+#EXTINF:-1 group-title="TV - Czechia",ČT sport
+https://sktv.plainrock127.xyz/get.php?x=CTsport
+#EXTINF:-1 group-title="TV - Czechia",ČT :D (06.00-20.00 CET)
+https://sktv.plainrock127.xyz/get.php?x=CT_D
+#EXTINF:-1 group-title="TV - Czechia",ČT art (20.00-06.00 CET)
+https://sktv.plainrock127.xyz/get.php?x=CTart
+#EXTINF:-1 group-title="TV - Czechia",Prima
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Cool
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Zoom
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Love
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Max
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Krimi
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",CNN Prima News
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Star
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Prima Show
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="TV - Czechia",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="TV - Czechia",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 group-title="TV - Czechia",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Radiožurnál
+https://rozhlas.stream/radiozurnal_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Dvojka
+https://rozhlas.stream/dvojka_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Vltava
+https://rozhlas.stream/vltava_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Plus
+https://rozhlas.stream/plus_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Radio Wave
+https://rozhlas.stream/radio_wave_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Rádio Junior
+https://rozhlas.stream/radio_junior_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo D-dur
+https://rozhlas.stream/ddur_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Jazz
+https://rozhlas.stream/jazz_high.aac
+#EXTINF:-1 group-title="Radio - Czechia" radio="true",ČRo Pohoda
+https://rozhlas.stream/pohoda_high.aac
