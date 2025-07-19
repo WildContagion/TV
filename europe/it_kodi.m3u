@@ -136,6 +136,8 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="ItaliaChannel.it",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="PadrePioTV.it",Padre Pio TV
 https://ppiotv.fluid.stream/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="KissKissTV.it",KISS KISS TV
@@ -164,8 +166,6 @@ https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/p
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="RadioZetaTV.it",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 group-title="TV - Italy" tvg-id="SoloCalcio.it",Solo Calcio
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="RadioCapitalTV.it",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 group-title="TV - Italy" tvg-id="M2OTV.it",M2O TV
@@ -175,3 +175,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="TV - Italy" tvg-id="SoloCalcio.it",Solo Calcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV - Italy" tvg-id="SenatoTV.it",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
