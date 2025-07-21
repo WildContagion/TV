@@ -193,7 +193,7 @@ https://pnowlive-a.akamaized.net/live/voxuphd/dash/voxuphd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a89c191c081b3ae4431f0875c4af2231:0ea7204677e6090e3dec06cc413d8729
 https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd
-#EXTINF:-1 group-title="TV - Germany" tvg-id="TOGGO plus",Toggo Plus
+#EXTINF:-1 group-title="TV - Germany" tvg-id="DE: TOGGO plus",Toggo Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
