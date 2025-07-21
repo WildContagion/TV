@@ -29,8 +29,7 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 group-title="TV - Germany" tvg-id="DE: ZDFinfo",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 group-title="TV - Germany" tvg-id="DE: KiKA">
-<display-name>DE: KiKA",KiKA
+#EXTINF:-1 group-title="TV - Germany" tvg-id="DE: KiKA",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title="TV - Germany" tvg-id="DE: 3sat",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
