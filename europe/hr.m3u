@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV - Croatia",HRT 1
+#EXTINF:-1 group-title="Croatia",HRT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
-#EXTINF:-1 group-title="TV - Croatia",HRT 2
+#EXTINF:-1 group-title="Croatia",HRT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd
-#EXTINF:-1 group-title="TV - Croatia",HRT 3
+#EXTINF:-1 group-title="Croatia",HRT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f88642f0b3381bbb8ab97badb85105:8cc9172bf1c0dfe5974d22ed08fe51bb
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt3.smil/1/manifest.mpd
-#EXTINF:-1 group-title="TV - Croatia",HRT 4
+#EXTINF:-1 group-title="Croatia",HRT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d488fe4024933f51a3eca4e5b325dfec:172f3c401d9343c4a74aed53d1fbcc05
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd
-#EXTINF:-1 group-title="TV - Croatia",HRT Int.
+#EXTINF:-1 group-title="Croatia",HRT Int.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4cab4c0c09c3c318937b8701e5414e4:c8dea2b6a77123b519de306284d2314f
 https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/manifest.mpd
