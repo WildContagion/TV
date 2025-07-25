@@ -1,131 +1,77 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="TF1.fr",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Z9h3zIxpuCK/pZsEWxAevz39bcUm.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France2.fr",France 2
+#EXTINF:-1 group-title="France (TNT)" tvg-id="TF1.fr",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/090XRtwWJ7T/g7ZgeP1eNLQvGN6d.m3u8
+#EXTINF:-1 group-title="France (TNT)" tvg-id="France2.fr",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France3.fr",France 3
+#EXTINF:-1 group-title="France (TNT)" tvg-id="France3.fr",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France4.fr",France 4
+#EXTINF:-1 group-title="France (TNT)" tvg-id="France4.fr",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="France5.fr",France 5
+#EXTINF:-1 group-title="France (TNT)" tvg-id="France5.fr",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="M6.fr",M6
+#EXTINF:-1 group-title="France (TNT)" tvg-id="M6.fr",M6
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="Arte.fr",Arte
+#EXTINF:-1 group-title="France (TNT)" tvg-id="Arte.fr",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="LaChaineParlementaire.fr",LCP
+#EXTINF:-1 group-title="France (TNT)" tvg-id="LaChaineParlementaire.fr",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="W9.fr",W9
+#EXTINF:-1 group-title="France (TNT)" tvg-id="W9.fr",W9
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="TMC.fr",TMC
+#EXTINF:-1 group-title="France (TNT)" tvg-id="TMC.fr",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="NT1.fr",TFX
+#EXTINF:-1 group-title="France (TNT)" tvg-id="NT1.fr",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="Gulli.fr",Gulli
+#EXTINF:-1 group-title="France (TNT)" tvg-id="Gulli.fr",Gulli
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|12a3d0dbd46e3b7c962ca9a3596df2ce:73e68b9f78144b51696f4ce0f745ec06
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/81bfe7c2362a4f1995af83f796c30657/dash_short_cenc10_gulli_hd_index.mpd
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="BFMTV.fr",BFM TV
+#EXTINF:-1 group-title="France (TNT)" tvg-id="BFMTV.fr",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="CNews.fr",C NEWS
+#EXTINF:-1 group-title="France (TNT)" tvg-id="CNews.fr",C NEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="LCI.fr",LCI
+#EXTINF:-1 group-title="France (TNT)" tvg-id="LCI.fr",LCI
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="FranceInfo.fr",France Info
+#EXTINF:-1 group-title="France (TNT)" tvg-id="FranceInfo.fr",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="CStar.fr",CStar
+#EXTINF:-1 group-title="France (TNT)" tvg-id="CStar.fr",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="T18.fr",T18
+#EXTINF:-1 group-title="France (TNT)" tvg-id="T18.fr",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="TF1SeriesFilms.fr",TF1 Séries Films
+#EXTINF:-1 group-title="France (TNT)" tvg-id="TF1SeriesFilms.fr",TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="LEquipe21.fr",LA CHAÎNE L'ÉQUIPE
+#EXTINF:-1 group-title="France (TNT)" tvg-id="LEquipe21.fr",LA CHAÎNE L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="6ter.fr",6ter
+#EXTINF:-1 group-title="France (TNT)" tvg-id="6ter.fr",6ter
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="Numero23.fr",RMC STORY
+#EXTINF:-1 group-title="France (TNT)" tvg-id="Numero23.fr",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="RMCDecouverte.fr",RMC Découverte
+#EXTINF:-1 group-title="France (TNT)" tvg-id="RMCDecouverte.fr",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 group-title="TV - France (TNT)" tvg-id="Cherie25.fr",CHERIE 25
+#EXTINF:-1 group-title="France (TNT)" tvg-id="Cherie25.fr",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 group-title="TV - France",TV5 Monde
+#EXTINF:-1 group-title="France",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 group-title="TV - France",Juwelo
+#EXTINF:-1 group-title="France",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7839/7839_264_live.m3u8
-#EXTINF:-1 group-title="TV - France",KTO
+#EXTINF:-1 group-title="France",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 group-title="TV - France",Vosges TV
+#EXTINF:-1 group-title="France",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",France Inter
-https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",franceinfo
-https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",ici Paris Île-de-France
-https://stream.radiofrance.fr/fb1071/fb1071_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",France Culture
-https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",France Musique
-https://stream.radiofrance.fr/francemusique/francemusique_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",FIP
-https://stream.radiofrance.fr/fip/fip_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",Mouv'
-https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8
-#EXTINF:-1 group-title="Radio - France" radio="true",RFI
-https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Europe 1
-https://europe1.lmn.fm/europe1.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",Europe 2
-https://europe2.lmn.fm/europe2.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",RFM
-https://stream.rfm.fr/rfm.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",RTL
-https://streamer-01.rtl.fr/rtl-1-44-64
-#EXTINF:-1 group-title="Radio - France" radio="true",RTL2
-https://streamer-01.rtl.fr/rtl2-1-44-64
-#EXTINF:-1 group-title="Radio - France" radio="true",Fun Radio
-https://streamer-02.rtl.fr/fun-1-44-64
-#EXTINF:-1 group-title="Radio - France" radio="true",NRJ
-https://scdn.nrjaudio.fm/adwz2/fr/30001/aac_64.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Chérie FM
-https://scdn.nrjaudio.fm/adwz2/fr/30201/aac_64.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Rire et Chansons
-https://scdn.nrjaudio.fm/adwz2/fr/30401/aac_64.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Nostalgie
-https://scdn.nrjaudio.fm/adwz2/fr/30601/aac_64.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Sud Radio
-https://start-sud.ice.infomaniak.ch/start-sud-high.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",TSF Jazz
-https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Radio Nova
-https://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1 group-title="Radio - France" radio="true",Radio FG
-https://radiofg.impek.com/fg
-#EXTINF:-1 group-title="Radio - France" radio="true",Contact FM
-https://radio-contact.ice.infomaniak.ch/radio-contact-high.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",Jazz Radio
-https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",Skyrock
-https://icecast.skyrock.net/s/natio_aac_128k
-#EXTINF:-1 group-title="Radio - France" radio="true",Radio Classique
-https://radioclassique.ice.infomaniak.ch/radioclassique-high.aac
-#EXTINF:-1 group-title="Radio - France" radio="true",Beur FM
-https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
