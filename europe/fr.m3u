@@ -74,11 +74,11 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2313f92299a345991eaa36a0aef908b:b0df1cb0d8426cbb760168b071f0eb41
 https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
-#EXTINF:-1 group-title="France",TV5 Monde
+#EXTINF:-1 group-title="France" tvg-id="",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 group-title="France",Juwelo
+#EXTINF:-1 group-title="France" tvg-id="",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7839/7839_264_live.m3u8
-#EXTINF:-1 group-title="France",KTO
+#EXTINF:-1 group-title="France" tvg-id="",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 group-title="France",Vosges TV
+#EXTINF:-1 group-title="France" tvg-id="",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
