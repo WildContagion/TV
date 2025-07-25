@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV - Slovenia",TV SLO 1
+#EXTINF:-1 group-title="Slovenia",TV SLO 1
 https://strm-a64b7.wasmer.app/si/rtvslo/hls.php/rtvslo.m3u8?id=tv.slo1
-#EXTINF:-1 group-title="TV - Slovenia",TV SLO 2
+#EXTINF:-1 group-title="Slovenia",TV SLO 2
 https://strm-a64b7.wasmer.app/si/rtvslo/hls.php/rtvslo.m3u8?id=tv.slo2
-#EXTINF:-1 group-title="TV - Slovenia",TV SLO 3
+#EXTINF:-1 group-title="Slovenia",TV SLO 3
 https://strm-a64b7.wasmer.app/si/rtvslo/hls.php/rtvslo.m3u8?id=tv.slo3
