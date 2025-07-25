@@ -146,6 +146,8 @@ https://live-blaze-fastly.simplestreamcdn.com/s3/blaze/index.m3u8
 https://d1uw9hvdgmm030.cloudfront.net/out/v1/0c33ef5f1fd4407db5f78d488a6718cf/index.m3u8
 #EXTINF:-1 group-title="UK" tvg-id="SkyNews.uk",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="UK" tvg-id="CNBCEurope.uk",CNBC Europe
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/nbcu-uk-cnbc-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-id="GBNews.uk",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 group-title="UK" tvg-id="RevelationTV.uk",Revelation TV
@@ -170,57 +172,57 @@ https://lo3.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/master.m3u8
 #EXTINF:-1 group-title="UK" tvg-id="IdealWorld.uk",Ideal World
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/master.m3u8
-#EXTINF:-1 group-title="UK",Faith UK
+#EXTINF:-1 group-title="UK" tvg-id="",Faith UK
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK",Sanskar TV
+#EXTINF:-1 group-title="UK" tvg-id="",Sanskar TV
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-#EXTINF:-1 group-title="UK",Euronews
+#EXTINF:-1 group-title="UK" tvg-id="",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
-#EXTINF:-1 group-title="UK",Aastha UK
+#EXTINF:-1 group-title="UK" tvg-id="",Aastha UK
 https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK",Eman Channel
+#EXTINF:-1 group-title="UK" tvg-id="",Eman Channel
 https://cdn149.anystream.uk:8082/app/3m9ntv/playlist.m3u8
-#EXTINF:-1 group-title="UK",MTA1 WORLD
+#EXTINF:-1 group-title="UK" tvg-id="",MTA1 WORLD
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 group-title="UK",Iqra TV
+#EXTINF:-1 group-title="UK" tvg-id="",Iqra TV
 https://cdn149.anystream.uk:8082/app/iq6a7ktv/playlist.m3u8
-#EXTINF:-1 group-title="UK",Iqra Bangla
+#EXTINF:-1 group-title="UK" tvg-id="",Iqra Bangla
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
-#EXTINF:-1 group-title="UK",Islam TV
+#EXTINF:-1 group-title="UK" tvg-id="",Islam TV
 https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
-#EXTINF:-1 group-title="UK",iON TV
+#EXTINF:-1 group-title="UK" tvg-id="",iON TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 group-title="UK",ATN Bangla UK
+#EXTINF:-1 group-title="UK" tvg-id="",ATN Bangla UK
 https://ap02.iqplay.tv:8082/iqb8002/atbla85tv/playlist.m3u8
-#EXTINF:-1 group-title="UK",Islam Channel
+#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK",TBN UK
+#EXTINF:-1 group-title="UK" tvg-id="",TBN UK
 https://cdn.jwplayer.com/live/broadcast/r08fY89I.m3u8
-#EXTINF:-1 group-title="UK",Islam Channel Urdu
+#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK",EWTN Europe
+#EXTINF:-1 group-title="UK" tvg-id="",EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="UK",Akaal Channel
+#EXTINF:-1 group-title="UK" tvg-id="",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/index.m3u8
-#EXTINF:-1 group-title="UK",NTD UK
+#EXTINF:-1 group-title="UK" tvg-id="",NTD UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 group-title="UK",Noor TV
+#EXTINF:-1 group-title="UK" tvg-id="",Noor TV
 https://sscsott.com/srt/noortvuk/index.m3u8
-#EXTINF:-1 group-title="UK",NDTV World
+#EXTINF:-1 group-title="UK" tvg-id="",NDTV World
 https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
-#EXTINF:-1 group-title="UK",Channel S
+#EXTINF:-1 group-title="UK" tvg-id="",Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-#EXTINF:-1 group-title="UK",Kanshi TV
+#EXTINF:-1 group-title="UK" tvg-id="",Kanshi TV
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 group-title="UK",Deen TV
+#EXTINF:-1 group-title="UK" tvg-id="",Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="UK",Takbeer TV
+#EXTINF:-1 group-title="UK" tvg-id="",Takbeer TV
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-#EXTINF:-1 group-title="UK",Faith World TV
+#EXTINF:-1 group-title="UK" tvg-id="",Faith World TV
 https://faithworldtv.abs.tv/1826926230/index.m3u8
-#EXTINF:-1 group-title="UK",Islam Channel Bangla
+#EXTINF:-1 group-title="UK" tvg-id="",Islam Channel Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK",Loveworld UK
+#EXTINF:-1 group-title="UK" tvg-id="",Loveworld UK
 https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK",CNN International
+#EXTINF:-1 group-title="UK" tvg-id="",CNN International
 https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
