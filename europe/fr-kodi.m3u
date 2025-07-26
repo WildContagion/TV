@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
 #EXTINF:-1 group-title="France (TNT)" tvg-id="TF1.fr",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/090XRtwWJ7T/g7ZgeP1eNLQvGN6d.m3u8
+https://www.andykimpe.ovh/tf1.php/index.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="France2.fr",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="France3.fr",France 3
@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-p
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
 #EXTINF:-1 group-title="France (TNT)" tvg-id="TMC.fr",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+https://www.andykimpe.ovh/tmc.php/index.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="NT1.fr",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+https://www.andykimpe.ovh/tfx.php/index.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="Gulli.fr",Gulli
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -43,7 +43,7 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="CNews.fr",C NEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="LCI.fr",LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+https://www.andykimpe.ovh/lci.php/index.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="FranceInfo.fr",France Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="CStar.fr",CStar
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1 group-title="France (TNT)" tvg-id="T18.fr",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="TF1SeriesFilms.fr",TF1 Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
+https://www.andykimpe.ovh/tf1-series-films.php/index.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="LEquipe21.fr",LA CHAÎNE L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="6ter.fr",6ter
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-#EXTINF:-1 group-title="France (TNT)" tvg-id="ParisPremiere.fr",Paris Premiere
+#EXTINF:-1 group-title="France (TNT)" tvg-id="ParisPremiere.fr",Paris Premiere (M6+)
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
