@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-ch.xml"
+#EXTINF:-1 group-title="Switzerland" tvg-id="C202.api.telerama.fr",RTS 1 (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="C183.api.telerama.fr",RTS 2 (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="C59.api.telerama.fr",SRF 1 (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="C174.api.telerama.fr",SRF zwei (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="",SRF Info (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="",RSI LA 1 (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 group-title="Switzerland" tvg-id="",RSI LA 2 (netplus.tv)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
