@@ -41,3 +41,10 @@ https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df38
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
 https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
+#EXTINF:-1 group-title="Belgium",RTLdistrict
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=538fccbd5e86432ba7d5e04a308cf88a:897d4c09a25ddbed4523fdec80f82853
+https://live-video-rtlplay.dpgmedia.net/f1d26a28c95485cc/out/v1/0cea936160604919aef65b82993a40b0/index.mpd
