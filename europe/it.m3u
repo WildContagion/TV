@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://example.com/epg.xml"
+#EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/epg-it.xml"
 #EXTINF:-1 group-title="Italy" tvg-id="Rai1.it",Rai 1
 https://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Rai2.it",Rai 2
