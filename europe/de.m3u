@@ -3,6 +3,41 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: ZDF",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: RTL",RTL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SAT.1",Sat.1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a68b4bbd42effb29ffb901523b1f3754:c794cd85a4f016d017e2de2c39185cb5
+https://ac-009.live.p7s1video.net/123d03d0/t_001/sat1-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: VOX",VOX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcfb484409cd5e9038302c2867d7c1a8:a4873fe758a838b5d31cbeb0e4357ab9
+https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: ProSieben",ProSieben
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
+https://ac-009.live.p7s1video.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Kabel Eins",kabel eins
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
+https://ac-009.live.p7s1video.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
 #EXTINF:-1 group-title="Germany" tvg-id="DE: BR Süd",BR Fernsehen (Süd)
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: HR",hr-fernsehen
@@ -39,27 +74,6 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: Phoenix",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="DE: ProSieben",ProSieben
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63840c3a4052d579340529fc533b4d5c:eae4d4cd0e6b227781cce20faeb8547a
-https://ac-009.live.p7s1video.net/d9f5c007/t_001/prosieben-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="DE: SAT.1",Sat.1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a68b4bbd42effb29ffb901523b1f3754:c794cd85a4f016d017e2de2c39185cb5
-https://ac-009.live.p7s1video.net/123d03d0/t_001/sat1-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="DE: Kabel Eins",kabel eins
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4be97d7f735af6a3451aca364b82a0ca:81fe64b5b28f270f0732a08e475ab003
-https://ac-009.live.p7s1video.net/0d8f8d9c/t_001/kabeleins-de/cenc-default.mpd
 #EXTINF:-1 group-title="Germany" tvg-id="DE: SIXX",sixx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -88,69 +102,6 @@ https://ac-009.live.p7s1video.net/719ea289/t_001/sat1gold-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5672c0a79d43378d6f18e015bf6c2b62:6127715b112f59d93d868615f59a99fc
 https://ac-009.live.p7s1video.net/b5b26355/t_001/kabeleinsdoku-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",Nickelodeon DE [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
-https://p7s1-live-009-prod.akamaized.net/e85065ab/t_009/nickelodeon-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",Eurosport 1 DE [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=afbb1ea03504f4be0f982a65b3f63c25:77ed6dbea21629dcca92f2956c6b6628
-https://p7s1-live-016-prod.akamaized.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",DMAX [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
-https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",MTV Germany [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de964ef8f9cd50edb55de3e4a1aa9f1f:969e2e74f5a530e9cee1bf68c412e3f8
-https://p7s1-live-009-prod.akamaized.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",Comedy Central DE [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c28321a9198e616a8fe0bb36439009:844762d17c7a14a1845094863ceb5293
-https://p7s1-live-009-prod.akamaized.net/e1654d96/t_009/comedy-central-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",Tele 5 [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
-https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="",TLC DE [Joyn]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
-https://p7s1-live-009-prod.akamaized.net/e24de9d1/t_009/tlc-de/cenc-default.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="DE: RTL",RTL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-#EXTINF:-1 group-title="Germany" tvg-id="DE: VOX",VOX
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcfb484409cd5e9038302c2867d7c1a8:a4873fe758a838b5d31cbeb0e4357ab9
-https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd
 #EXTINF:-1 group-title="Germany" tvg-id="DE: RTL ZWEI",RTL Zwei
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -204,47 +155,124 @@ https://pnowlive-a.akamaized.net/live/toggoplushd/dash/toggoplushd.mpd
 https://broadcast.welt.personalstream.tv/ses/hls/live/2040228/welttv-broadcast/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: N24 Doku",N24 Doku
 https://broadcast.n24-doku.personalstream.tv/ses/hls/live/2107300/n24-doku-live/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Sport1
+#EXTINF:-1 group-title="Germany" tvg-id="DE: DMAX",DMAX [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
+https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: TELE 5",Tele 5 [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
+https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: TLC",TLC [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21af4597b725ebda19693606693418f8:8678727ac71a9d2688e40d18cc934364
+https://p7s1-live-009-prod.akamaized.net/e24de9d1/t_009/tlc-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: SPORT1",Sport1
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Music
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Eurosport 1",Eurosport 1 [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afbb1ea03504f4be0f982a65b3f63c25:77ed6dbea21629dcca92f2956c6b6628
+https://p7s1-live-016-prod.akamaized.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="",DF1
+https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Comedy Central",Comedy Central [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c28321a9198e616a8fe0bb36439009:844762d17c7a14a1845094863ceb5293
+https://p7s1-live-009-prod.akamaized.net/e1654d96/t_009/comedy-central-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: HGTV",HGTV [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60703c821a80e752df2c1170d5d7439:5aa8853fe68e46bf240bf4fc005c3604
+https://p7s1-live-009-prod.akamaized.net/acca7ed6/t_009/hgtv-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Nick/CC+1",Nick/CC+1 [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdbfe565d7afdede6154dfcf366e500:fd9a7a53157516493c1332938b22b6d8
+https://p7s1-live-009-prod.akamaized.net/e85065ab/t_009/nickelodeon-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Deluxe Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Dance by Kontor
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: MTV",MTV Germany [Joyn]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de964ef8f9cd50edb55de3e4a1aa9f1f:969e2e74f5a530e9cee1bf68c412e3f8
+https://p7s1-live-009-prod.akamaized.net/0e6fdb42/t_009/mtv-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Dokusat
+https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",ANIXE HD
 https://wow.anixa.tv/live/anixehd2/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",ANIXE+
 https://wow.anixa.tv/live/anixesd/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",AristoTV
 http://wow.anixa.tv/live/aristo/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",CNN International
-https://d3bp6dwmpbdajl.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Volksmusik.TV
+https://muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Stimmungsgarten TV
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Melodie TV
+https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
+Telegold
 #EXTINF:-1 group-title="Germany" tvg-id="",Euronews Deutsch
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Bibel TV
-https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Hope TV Deutsch
-https://jstre.am/live/jsl:AQfP7b5HoTM.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",QVC Style
-https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",QVC Zwei
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",HSE
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",HSE Extra
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",HSE Trend
-https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",1-2-3 TV
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Handystar
-https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",1-2-3 TV
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",sonnenklar.TV
+https://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Hope TV Deutsch
+https://jstre.am/live/jsl:AQfP7b5HoTM.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",K-TV
+https://a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
+EWTN Katholisches
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",MediaShop Meine Einkaufswelt
+https://stream01.welocal.stream/stream/fhd-meine-einkaufswelt_501/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
