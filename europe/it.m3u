@@ -59,7 +59,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/wbd-wbtv-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Giallo.it",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/wbd-giallo-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="Italy" tvg-id="TOPcrime.it",TOPcrime
+#EXTINF:-1 group-title="Italy" tvg-id="TopCrime.it",TOPcrime
 https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Boing.it",Boing
 https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index_hr.m3u8
@@ -81,7 +81,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="SkyTG24.it",Sky TG24
 https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=1
-#EXTINF:-1 group-title="Italy" tvg-id="TGcom24.it",TGcom24
+#EXTINF:-1 group-title="Italy" tvg-id="TGCom24.it",TGcom24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="DMAX.it",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/wbd-dmax-samsungit/playlist.m3u8
