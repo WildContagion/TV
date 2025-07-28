@@ -244,6 +244,26 @@ https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
 Telegold
 #EXTINF:-1 group-title="Germany" tvg-id="",Euronews Deutsch
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",münchen.tv
+https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Franken Plus
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",OTVA
+https://stream02.welocal.stream/stream/fhd-otva_6546/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",tv.ingolstadt
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",SACHSENeins
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",TV Berlin
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",L-TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",rfo Fernsehen Oberbayern
+https://stream01.welocal.stream/stream/fhd-rfo_210496/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",QVC Zwei
@@ -276,5 +296,3 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://stream01.welocal.stream/stream/fhd-meine-einkaufswelt_501/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
