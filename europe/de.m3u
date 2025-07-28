@@ -169,6 +169,8 @@ https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb9a918eaaa0352446a6d963e2a35b35:acffb24113cd1d81f5945f3bea55c4c3
 https://p7s1-live-009-prod.akamaized.net/b96a5f0c/t_009/tele5-de/cenc-default.mpd
+#EXTINF:-1 group-title="Germany" tvg-id="DE: Disney Channel",Disney Channel
+https://strm.hdtvizlecanli.com/live/disney.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: TLC",TLC [Joyn]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
