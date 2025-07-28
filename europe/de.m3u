@@ -48,8 +48,8 @@ https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: Radio Bremen TV",Radio Bremen Fernsehen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 group-title="Germany" tvg-id="DE: rbb Brandenburg",rbb Fernsehen (Brandenburg)
-https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="DE: rbb Berlin",rbb Fernsehen (Berlin)
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: SR",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="DE: SWR BW",SWR Fernsehen (Baden-Württemberg)
