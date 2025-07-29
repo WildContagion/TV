@@ -241,7 +241,10 @@ https://muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Melodie TV
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
-Telegold
+#EXTINF:-1 group-title="Germany" tvg-id="",Telegold
+https://telegold.iptv-playoutcenter.de/telegold/telegold-sat1/playlist.m3u8
+#EXTINF:-1 group-title="Germany" tvg-id="",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Euronews Deutsch
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",münchen.tv
@@ -279,7 +282,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 #EXTINF:-1 group-title="Germany" tvg-id="",1-2-3 TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",sonnenklar.TV
-https://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+https://euvia.cdn.ses-ps.com/secure/HLS-Live/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Handystar
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",Bibel TV
