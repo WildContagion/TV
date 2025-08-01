@@ -40,9 +40,9 @@ https://s-cdn.herringnetwork.com/live1/awe/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://content.uplynk.com/wv|User-Agent=okhttp%2F4.9.0|R{SSM}|R
 #KODIPROP:mimetype=application/dash+xml
 https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.mpd
-#EXTINF:-1 tvg-id="33453" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD East
+#EXTINF:-1 group-title="TV" tvg-id="33453" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD East
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-id="62271" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD Pacific
+#EXTINF:-1 group-title="TV" tvg-id="62271" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD Pacific
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="101364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
 https://livestream.pbskids.org/out/v1/6aa7956fd60a456fbee7ba8620de835f/est.m3u8
