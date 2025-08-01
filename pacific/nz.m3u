@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="http://i.mjh.nz/nz/epg.xml"
+#EXTINF:-1 tvg-id="mjh-tvnz-1" tvg-logo="example.png" group-title="New Zealand",1. TVNZ 1
+https://dz1g25geip0uq.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="mjh-tvnz-2" tvg-logo="example.png" group-title="New Zealand",2. TVNZ 2
+https://d5qh9kd2mz71z.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="mjh-tvnz-duke" tvg-logo="example.png" group-title="New Zealand",6. TVNZ Duke
+https://d32ubfwfcm754e.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-logo="example.png" group-title="New Zealand",31. Parliament TV
+https://dzfledr9yd4gp.cloudfront.net/out/v1/91407929b57f42f0bc9922e40be5c4cc/index.m3u8
