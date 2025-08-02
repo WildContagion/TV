@@ -85,7 +85,7 @@ https://strm-a64b7.wasmer.app/it/sky/hls.php/sky.m3u8?id=1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index_hr.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="DMAX.it",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/wbd-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="Italy" tvg-id="",Italia 53
+#EXTINF:-1 group-title="Italy" tvg-id="",Casa Italia 53
 https://liveac115b.b-cdn.net/canale3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="RaiStoria.it",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
@@ -117,8 +117,10 @@ https://live03-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="",DeeJay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="Italy" tvg-id="",RadioitaliaTV
+#EXTINF:-1 group-title="Italy" tvg-id="",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 group-title="Italy" tvg-id="",Canale Italia
+https://liveac115.b-cdn.net/canale1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="",Rai 4K (HbbTV)
 https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
 #EXTINF:-1 group-title="Italy" tvg-id="",Italia Channel
