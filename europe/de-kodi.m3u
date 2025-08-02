@@ -291,7 +291,7 @@ https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u
 https://jstre.am/live/jsl:AQfP7b5HoTM.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",K-TV
 https://a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
-EWTN Katholisches
+#EXTINF:-1 group-title="Germany" tvg-id="",EWTN Katholisches
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Germany" tvg-id="",HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
