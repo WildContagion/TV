@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,BBC News (International)
+https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1,Sky News International
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
