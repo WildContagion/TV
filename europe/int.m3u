@@ -1,0 +1,33 @@
+#EXTM3U url-tvg="https://www.example.com/epg.xml"
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/euronews-fr.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews Deutsch
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews Italian
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews Español
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25082/euronews-es.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Euronews Português
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25077/euronews-pt.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",DW English [DE]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",TVE Internacional Europa (ES)[Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",24 Horas (ES)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",France 24 English (FR)
+https://arkina1234.github.io/ext/hls/france24-en.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",France 24 Français (FR)
+https://arkina1234.github.io/ext/hls/france24-fr.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",TV5Monde Europe (FR)[Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",RAI Italia Africa
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Mediaset Italia
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia_EU/Live.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",BBC News (International) (UK)
+https://d1kvlt93j1bc49.cloudfront.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Int" tvg-id="",Sky News International (UK)
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
