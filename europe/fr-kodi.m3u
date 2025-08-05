@@ -67,13 +67,6 @@ https://d15aro46bnpfm8.cloudfront.net/RMC_Story_FR.m3u8
 https://d16zzycxcd0m0r.cloudfront.net/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 group-title="France (TNT)" tvg-id="Cherie25.fr",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 group-title="France (TNT)" tvg-id="ParisPremiere.fr",Paris Premiere (M6+)
-#KODIPROP:contentlookup=False
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2313f92299a345991eaa36a0aef908b:b0df1cb0d8426cbb760168b071f0eb41
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/87b3fcfe0208409f902a6aeaaca28b20/dash_short_cenc10_pp_hd_index.mpd
 #EXTINF:-1 group-title="France" tvg-id="",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 group-title="France" tvg-id="",Juwelo
