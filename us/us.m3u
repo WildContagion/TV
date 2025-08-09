@@ -45,7 +45,12 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="62271" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD Pacific
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="101364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
-https://livestream.pbskids.org/out/v1/6aa7956fd60a456fbee7ba8620de835f/est.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/est-dash|User-Agent=okhttp%2F4.9.0|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd
 #EXTINF:-1 group-title="TV" tvg-id="48990" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="56725" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World
