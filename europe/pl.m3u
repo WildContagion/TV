@@ -1,39 +1,96 @@
 #EXTM3U
 #EXTINF:-1 group-title="Poland",TVP1
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-1.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399697
 #EXTINF:-1 group-title="Poland",TVP2
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-2.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399698
 #EXTINF:-1 group-title="Poland",TVP3 Warszawa
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-3-warszawa.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399754
 #EXTINF:-1 group-title="Poland",TVP Polonia
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-polonia.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399723
 #EXTINF:-1 group-title="Poland",TVP Nauka
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-nauka.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399722
 #EXTINF:-1 group-title="Poland",TVP Dokument
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-dokument.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399721
 #EXTINF:-1 group-title="Poland",TVP Rozrywka
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-rozrywka.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399724
 #EXTINF:-1 group-title="Poland",Alfa TVP
-https://arkina1234.github.io/streams/pl/tvp/dash/alfa-tvp.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399726
 #EXTINF:-1 group-title="Poland",TVP ABC
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-abc.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399704
 #EXTINF:-1 group-title="Poland",TVP Kultura
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kultura.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399700
 #EXTINF:-1 group-title="Poland",TVP Historia
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-historia.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399703
 #EXTINF:-1 group-title="Poland",TVP Sport
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-sport.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399702
 #EXTINF:-1 group-title="Poland",TVP Info
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-info.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399699
 #EXTINF:-1 group-title="Poland",TVP Kobieta
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kobieta.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399701
 #EXTINF:-1 group-title="Poland",Belsat
-https://arkina1234.github.io/streams/pl/tvp/dash/belsat.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399729
 #EXTINF:-1 group-title="Poland",TVP World
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-world.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399731
 #EXTINF:-1 group-title="Poland",TVP ABC 2
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-abc-2.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399727
 #EXTINF:-1 group-title="Poland",TVP Historia 2
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-historia-2.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399725
 #EXTINF:-1 group-title="Poland",TVP Kultura 2
-https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kultura-2.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+https://strm-a64b7.wasmer.app/pl/tvp/dash.php/tvp.mpd?id=399728
