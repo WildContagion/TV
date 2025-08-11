@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 group-title="Poland",TVP1
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-1.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-1.mpd
 #EXTINF:-1 group-title="Poland",TVP2
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-2.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-2.mpd
 #EXTINF:-1 group-title="Poland",TVP3 Warszawa
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-3-warszawa.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-3-warszawa.mpd
 #EXTINF:-1 group-title="Poland",TVP Polonia
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-polonia.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-polonia.mpd
 #EXTINF:-1 group-title="Poland",TVP Nauka
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-nauka.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-nauka.mpd
 #EXTINF:-1 group-title="Poland",TVP Dokument
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-dokument.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-dokument.mpd
 #EXTINF:-1 group-title="Poland",TVP Rozrywka
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-rozrywka.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-rozrywka.mpd
 #EXTINF:-1 group-title="Poland",Alfa TVP
-https://arkina1234.github.io/streams/pl/tvp/hls/alfa-tvp.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/alfa-tvp.mpd
 #EXTINF:-1 group-title="Poland",TVP ABC
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-abc.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-abc.mpd
 #EXTINF:-1 group-title="Poland",TVP Kultura
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-kultura.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kultura.mpd
 #EXTINF:-1 group-title="Poland",TVP Historia
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-historia.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-historia.mpd
 #EXTINF:-1 group-title="Poland",TVP Sport
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-sport.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-sport.mpd
 #EXTINF:-1 group-title="Poland",TVP Info
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-info.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-info.mpd
 #EXTINF:-1 group-title="Poland",TVP Kobieta
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-kobieta.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kobieta.mpd
 #EXTINF:-1 group-title="Poland",Belsat
-https://arkina1234.github.io/streams/pl/tvp/hls/belsat.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/belsat.mpd
 #EXTINF:-1 group-title="Poland",TVP World
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-world.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-world.mpd
 #EXTINF:-1 group-title="Poland",TVP ABC 2
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-abc-2.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-abc-2.mpd
 #EXTINF:-1 group-title="Poland",TVP Historia 2
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-historia-2.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-historia-2.mpd
 #EXTINF:-1 group-title="Poland",TVP Kultura 2
-https://arkina1234.github.io/streams/pl/tvp/hls/tvp-kultura-2.m3u8
+https://arkina1234.github.io/streams/pl/tvp/dash/tvp-kultura-2.mpd
