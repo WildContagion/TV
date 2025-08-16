@@ -95,9 +95,9 @@ http://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 group-title="Texas - Dallas",Dallas City Television Channel 16
 https://edge-f.swagit.com/live/dallastx/live-5-a/playlist.m3u8
-#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 95
+#EXTINF:-1 group-title="Texas - Dallas",Dallas Dallas City Television Channel 95
 https://edge-f.swagit.com/live/dallastx/live-4-a/playlist.m3u8
-#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 96
+#EXTINF:-1 group-title="Texas - Dallas",Dallas Dallas City Television Channel 96
 https://edge-f.swagit.com/live/dallastx/live-3-a/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
 http://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
