@@ -143,7 +143,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="16604" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16604_dark_360w_270h.png",Jewelry TV
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26643_dark_360w_270h.png",Gem Shopping
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0025V1KJ.png_dark_360w_270h.png",Gems
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="49208" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",ONTV4U
 https://stirr.b-cdn.net/stirr/tracks-v3a1/mono.ts.m3u8
