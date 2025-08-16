@@ -37,8 +37,6 @@ http://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 group-title="Minnesota - Minneapolis",City Council TV
 https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
-#EXTINF:-1 group-title="Nevada - Clark County",Clark County TV
-http://query-streamlink.arkina1234.repl.co/stream.m3u8?url=https://www.youtube.com/user/ClarkCountyNV/live
 #EXTINF:-1 group-title="Nevada - Las Vegas",KCLV
 http://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
 #EXTINF:-1 group-title="New Jersey",News 12 New Jersey
@@ -47,7 +45,7 @@ https://live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
 #EXTINF:-1 group-title="New York",News 12 Long Island
 https://live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 group-title=New York"",News 12 Westchester
+#EXTINF:-1 group-title="New York",News 12 Westchester
 https://live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
 #EXTINF:-1 group-title="New York",News 12 The Bronx
 https://live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
@@ -73,24 +71,26 @@ http://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
 http://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",NYXT NYC
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
-#EXTINF:-1 group-title="New York - Manhattan",MNN HD
-https://livestream-arkina1234.tiiny.io/?id=accounts/17251372/events/10721168
-#EXTINF:-1 group-title="New York - Manhattan",MNN Community
-https://livestream-arkina1234.tiiny.io/?id=accounts/6480540/events/10721190
-#EXTINF:-1 group-title="New York - Manhattan",MNN Lifestyle
-https://livestream-arkina1234.tiiny.io/?id=accounts/6478976/events/10721188
-#EXTINF:-1 group-title="New York - Manhattan",MNN Spirit
-https://livestream-arkina1234.tiiny.io/?id=accounts/6312590/events/10721313
-#EXTINF:-1 group-title="New York - Manhattan",MNN Culture
-https://livestream-arkina1234.tiiny.io/?id=accounts/6478935/events/10721179
-#EXTINF:-1 group-title="New York - Manhattan",NYXT Channel
-https://livestream-arkina1234.tiiny.io/?id=accounts/19770665/events/10721160
+#EXTINF:-1 group-title="New York - Staten Island",CMSI Your 34 Channel
+https://reflect-sicommunitymedia.cablecast.tv/live-1/live/live.m3u8
+#EXTINF:-1 group-title="New York - Staten Island",CMSI Variety Channel
+https://reflect-sicommunitymedia.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 group-title="New York - Staten Island",CMSI Religion & Spirituality Channel
+https://reflect-sicommunitymedia.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 group-title="New York - Staten Island",CMSI Civic Engagement Channel
+https://reflect-sicommunitymedia.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",PhillyCAM
 http://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",TUTV
 http://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Tennessee - Memphis",WYPL TV18 The Library Channel
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 16
+https://edge-f.swagit.com/live/dallastx/live-5-a/playlist.m3u8
+#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 95
+https://edge-f.swagit.com/live/dallastx/live-4-a/playlist.m3u8
+#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 96
+https://edge-f.swagit.com/live/dallastx/live-3-a/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
 http://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",SCCtv
