@@ -25,6 +25,14 @@ http://securestream7.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
 http://securestream7.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
 #EXTINF:-1 group-title="District of Columbia",Focus
 http://securestream7.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
+#EXTINF:-1 group-title="Illinois - Chicago",CAN TV19
+https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
+#EXTINF:-1 group-title="Illinois - Chicago",CAN TV21
+https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
+#EXTINF:-1 group-title="Illinois - Chicago",CAN TV27
+https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
+#EXTINF:-1 group-title="Illinois - Chicago",CAN TV36
+https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - New Orleans",HTV-10 (KFOL-CD/KJUN-CD)
 https://stream.castr.net/6672e294d2ff6dbd6fe92983/live_9e8e7f002e4311ef82fa1fcee3db9ef4/index.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN News & Info
@@ -36,7 +44,7 @@ http://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 group-title="Minnesota - Minneapolis",MCN6
 http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 group-title="Minnesota - Minneapolis",City Council TV
-https://d2p6z4d8hemltw.cloudfront.net/CDN_Ingest/qwikcast_720_MPLS/playlist.m3u8
+https://city-msp-mn.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 group-title="Nevada - Las Vegas",KCLV
 http://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
 #EXTINF:-1 group-title="New Jersey",News 12 New Jersey
@@ -85,7 +93,7 @@ http://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 http://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Tennessee - Memphis",WYPL TV18 The Library Channel
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 16
+#EXTINF:-1 group-title="Texas - Dallas",Dallas City Television Channel 16
 https://edge-f.swagit.com/live/dallastx/live-5-a/playlist.m3u8
 #EXTINF:-1 group-title="Texas - Dallas",Dallas Channel 95
 https://edge-f.swagit.com/live/dallastx/live-4-a/playlist.m3u8
