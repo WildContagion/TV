@@ -2,29 +2,29 @@
 #EXTINF:-1 group-title="Alabama - Huntsville",ETV
 http://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA CityView 35
-http://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA 36
-http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Santa Monica",CityTV Santa Monica
-http://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 group-title="California - San Diego",CityTV San Diego
-http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 group-title="Connecticut",News 12 Connecticut
 https://live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 #EXTINF:-1 group-title="Connecticut",News 12+ Connecticut
 https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCN
-http://video.oct.dc.gov/out/u/DCN.m3u8
+https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DKN
-http://video.oct.dc.gov/out/u/DKN.m3u8
+https://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCC
-http://video.oct.dc.gov/out/u/DCC.m3u8
-#EXTINF:-1 group-title="District of Columbia",DCTV
-http://securestream7.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
-#EXTINF:-1 group-title="District of Columbia",Enrichment
-http://securestream7.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
-#EXTINF:-1 group-title="District of Columbia",Focus
-http://securestream7.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
+https://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1 group-title="District of Columbia",DCTV Flagship
+https://securestream9.champds.com/LIVE/DCTVLIVE/DCTVLIVE.m3u8
+#EXTINF:-1 group-title="District of Columbia",DCTV Enrichment
+https://securestream9.champds.com/LIVE/DCTVLIVE2/DCTVLIVE2.m3u8?dt=1755322029283
+#EXTINF:-1 group-title="District of Columbia",DCTV Focus
+https://securestream9.champds.com/LIVE/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1755322069945
 #EXTINF:-1 group-title="Illinois - Chicago",CAN TV19
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 group-title="Illinois - Chicago",CAN TV21
@@ -36,11 +36,11 @@ https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 group-title="Louisiana - New Orleans",HTV-10 (KFOL-CD/KJUN-CD)
 https://stream.castr.net/6672e294d2ff6dbd6fe92983/live_9e8e7f002e4311ef82fa1fcee3db9ef4/index.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN News & Info
-http://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",BNN Community
-http://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
+https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 group-title="Massachusetts - Boston",CatholicTV
-http://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 group-title="Minnesota - Minneapolis",MCN6
 http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 group-title="Minnesota - Minneapolis",City Council TV
