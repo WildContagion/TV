@@ -1,0 +1,85 @@
+#EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/tvtv.us.xml"
+#EXTINF:-1 tvg-id="15218",CBC Toronto (CBLT-DT)
+https://strm-a64b7.wasmer.app/ca/cbc/hls.php/cbc.m3u8?id=15721
+#EXTINF:-1 tvg-id="15218",CBC News (CBC Gem-24/7)
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+#EXTINF:-1 tvg-id="15218",CBC Comedy (CBC Gem-24/7)
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:-1 tvg-id="15218",CTV Toronto (CFTO-DT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b3e6865a49408894c3b56612bc9fb1:03a52cb101b1bbb85bcf986edd0a9214
+https://live-ctv.video.9c9media.com/f/ctv/cfto/manifest.mpd
+#EXTINF:-1 tvg-id="15218",CTV2 (CKVR-DT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd44110fa5940f4adf1fc4fc5aca32b:60395c1b0b9d92fd03bfe7abf86b83db
+https://live-ctv.video.9c9media.com/f/ctv/ckvr/manifest.mpd
+#EXTINF:-1 tvg-id="15218",CTV News Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cd5f8e66d9b4f40b6da2279ac088954:fe3eebb3b347b4d58d6966024dc735eb
+https://live-de.video.9c9media.com/news-newsdigictv1003/dash/manifest.mpd
+#EXTINF:-1 tvg-id="15218",CP24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d1ee432cb4b4f4aafedbabcf0622bbd:e3c4fa4e8d995f5a5c85e4e1cca1e000
+https://live-news.video.9c9media.com/f/news/cp24/manifest.mpd
+#EXTINF:-1 tvg-id="15218",BNN Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3dfd6181dfc409781b47ef06421f38f:e1d3c4f4d700c16684fb4aea60caf1a8
+https://live-news.video.9c9media.com/f/news/bnnbloomberg/manifest.mpd
+#EXTINF:-1 tvg-id="15218",Global Toronto (CIII-DT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e100f3be6c0e9d58e5706d1c76d4523:e6308eb95789e8dd46fe0a85a89469ab
+https://live.corusdigitaldev.com/groupa/live/cf7b1a0a-5c2c-4512-8c0d-07ee434048dc/corus-globaltv.isml/.mpd
+#EXTINF:-1 tvg-id="15218",Global News National (Global-24/7)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="15218",TVOkids Channel (24/7)
+https://bcovlive-a.akamaihd.net/re18e5f525d1149abbf630fdeee84d023/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",Ici Radio-Canada Télé (CBFT-DT)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",TVA (CFTM-DT)
+https://TVAlive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",Noovo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a667756bf4794ab4bf5987c027ed754e:184a6bf6ad82018b0ae2b558a38c390e
+https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",Télé-Québec
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e78b74088f7e6e647d168f3ba17e1f8:00c90049191b432bd6369f915037741b
+https://bcovlive-a.akamaihd.net/b7988e7f33b34cf2bf86a766afcadd3c/us-west-2/6101674910001/playlist_dvr.mpd
+#EXTINF:-1 tvg-id="15218",Télé-Québec-Jeunesse (24/7)
+https://bcovlive-a.akamaihd.net/03d96e5858804e749e804a820b56c84b/us-west-2/6101674910001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",Savoir média (CFTU-DT)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",ICI Télévision (CFHD-DT)
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+#EXTINF:-1 tvg-id="15218",TLN
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN1/TLN_HLS_Scrambled/TLN1.m3u8
+#EXTINF:-1 tvg-id="15218",Univision Canada
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN2_univision/TLN_HLS_Scrambled/TLN2_univision.m3u8
+#EXTINF:-1 tvg-id="15218",Teleninos
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN3_Teleninos/TLN_HLS_Scrambled/TLN3_Teleninos.m3u8
+#EXTINF:-1 tvg-id="15218",Mediaset Italia (Canada)
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN4_Mediaset_italis/TLN_HLS_Scrambled/TLN4_Mediaset_italis.m3u8
+#EXTINF:-1 tvg-id="15218",Telebimbi
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN5_Telebimbi/TLN_HLS_Scrambled/TLN5_Telebimbi.m3u8
+#EXTINF:-1 tvg-id="15218",Tgcom24 (Canada)
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN6_TGCOm24/TLN_HLS_Scrambled/TLN6_TGCOm24.m3u8
+#EXTINF:-1 tvg-id="15218",Cinelatino
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN7_cinelatino/TLN_HLS_Scrambled/TLN7_cinelatino.m3u8
+#EXTINF:-1 tvg-id="15218",Rai Italia (Canada)
+https://tln-live.pc.cdn.bitgravity.com/live/content/TLN8-RAI-Italia/TLN_HLS_CLEAR/TLN8-RAI-Italia.m3u8
