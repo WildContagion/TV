@@ -39,6 +39,19 @@ https://live.corusdigitaldev.com/groupa/live/cf7b1a0a-5c2c-4512-8c0d-07ee434048d
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="15218",TVOkids Channel (24/7)
 https://bcovlive-a.akamaihd.net/re18e5f525d1149abbf630fdeee84d023/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="15218",CHEK-DT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc539fb7a32273dfe14e2280895c134a:a3109bedbb471d5e021b1767e24c1f2d
+https://livecdn.use1-0004.jwplive.com/live/sites/z1RVAXZN/media/aqoj4X3X/live.isml/.mpd
+#EXTINF:-1 tvg-id="15218",NTV+ (24/7)
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="15218",OZFM (CHOZ-FM/NTV+ Visualizer)
+https://2-fss-2.streamhoster.com/pl_138/201748-4135038-1/playlist.m3u8
+#EXTINF:-1 tvg-id="15218",Miracle Channel (CJIL-DT)
+https://video.corcoplus.com/mclive/_definst_/smil:miraclechannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="15218",CPAC
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",Ici Radio-Canada Télé (CBFT-DT)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",TVA (CFTM-DT)
