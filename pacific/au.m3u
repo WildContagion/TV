@@ -67,30 +67,14 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/ind
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",9. 9 (Brisbane)
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",92. 9Gem (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",92. 9Gem
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/gem/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",92. 9Gem (Melbourne)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/gem/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",92. 9Gem (Brisbane)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/gem/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",93. 9Go! (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",93. 9Go!
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/go/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",93. 9Go! (Melbourne)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/go/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",93. 9Go! (Brisbane)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/go/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",94. 9Life (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",94. 9Life
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/life/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",94. 9Life (Melbourne)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/life/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",94. 9Life (Brisbane)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/life/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",95. 9Rush (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",95. 9Rush
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/rush/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",95. 9Rush (Melbourne)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/rush/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",95. 9Rush (Brisbane)
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/rush/hls/r1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",10. 10 (Sydney)
 https://net10-livestream.play.cbsi.video/10NSW/stream.m3u8
@@ -98,18 +82,10 @@ https://net10-livestream.play.cbsi.video/10NSW/stream.m3u8
 https://net10-livestream.play.cbsi.video/10VIC/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",10. 10 (Brisbane)
 https://net10-livestream.play.cbsi.video/10QLD/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",11. 10 Comedy (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",11. 10 Comedy
 https://net10-livestream.play.cbsi.video/10PeachNSW/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",11. 10 Comedy (Melbourne)
-https://net10-livestream.play.cbsi.video/10PeachVIC/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",11. 10 Comedy (Brisbane)
-https://net10-livestream.play.cbsi.video/10PeachQLD/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",12. 10 Drama (Sydney)
+#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",12. 10 Drama
 https://net10-livestream.play.cbsi.video/10BoldNSW/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",12. 10 Drama (Melbourne)
-https://net10-livestream.play.cbsi.video/10BoldVIC/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",12. 10 Drama (Brisbane)
-https://net10-livestream.play.cbsi.video/10BoldQLD/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",13. Nickelodeon
 https://d2u3aqiu3i9jpb.cloudfront.net/out/v1/f88b8846ee114dce8dd627f3028ef482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="example.png" group-title="Australia",16. you.tv
