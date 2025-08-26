@@ -22,9 +22,9 @@ https://video.oct.dc.gov/out/u/DCC.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCTV Flagship
 https://securestream9.champds.com/LIVE/DCTVLIVE/DCTVLIVE.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCTV Enrichment
-https://securestream9.champds.com/LIVE/DCTVLIVE2/DCTVLIVE2.m3u8?dt=1755322029283
+https://securestream9.champds.com/LIVE/DCTVLIVE2/DCTVLIVE2.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCTV Focus
-https://securestream9.champds.com/LIVE/DCTVLIVE3/DCTVLIVE3.m3u8?dt=1755322069945
+https://securestream9.champds.com/LIVE/DCTVLIVE3/DCTVLIVE3.m3u8
 #EXTINF:-1 group-title="Illinois - Chicago",CAN TV19
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 group-title="Illinois - Chicago",CAN TV21
@@ -87,10 +87,20 @@ https://reflect-sicommunitymedia.cablecast.tv/live-2/live/live.m3u8
 https://reflect-sicommunitymedia.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="New York - Staten Island",CMSI Civic Engagement Channel
 https://reflect-sicommunitymedia.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 group-title="Oregon - Portland",CAN
+https://reflect-opensignalpdx.cablecast.tv/live-24/live/live.m3u8
+#EXTINF:-1 group-title="Oregon - Portland",ITN1
+https://reflect-opensignalpdx.cablecast.tv/live-17/live/live.m3u8
+#EXTINF:-1 group-title="Oregon - Portland",ITN2
+https://reflect-opensignalpdx.cablecast.tv/live-18/live/live.m3u8
+#EXTINF:-1 group-title="Oregon - Portland",Pulse of Portland
+https://reflect-opensignalpdx.cablecast.tv/live-19/live/live.m3u8
+#EXTINF:-1 group-title="Oregon - Portland",CityNet
+https://reflect-opensignalpdx.cablecast.tv/live-25/live/live.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",PhillyCAM
-http://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Pennsylvania - Philadelphia",TUTV
-http://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Tennessee - Memphis",WYPL TV18 The Library Channel
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 group-title="Texas - Dallas",Dallas City Television Channel 16
@@ -100,7 +110,7 @@ https://edge-f.swagit.com/live/dallastx/live-4-a/playlist.m3u8
 #EXTINF:-1 group-title="Texas - Dallas",Dallas Dallas City Television Channel 96
 https://edge-f.swagit.com/live/dallastx/live-3-a/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",Seattle Channel
-http://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Seattle",SCCtv
 http://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
 #EXTINF:-1 group-title="Washington - Tacoma",TV Tacoma
