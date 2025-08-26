@@ -4,7 +4,7 @@ http://castus-vod-dev.s3.amazonaws.com/vod_clients/etvlive/live/ch1/video.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 group-title="California - Los Angeles",LA 36
-https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="California - Santa Monica",CityTV Santa Monica
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 group-title="California - San Diego",CityTV San Diego
@@ -13,6 +13,12 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 https://live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 #EXTINF:-1 group-title="Connecticut",News 12+ Connecticut
 https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 group-title="Connecticut - Hartford",HPATV Public Access Channel
+https://livestream.telvue.com/hartfordct1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Connecticut - Hartford",HPATV Educational Channel
+https://livestream.telvue.com/hartfordct3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Connecticut - Hartford",HPATV Government Channel
+https://livestream.telvue.com/hartfordct2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="District of Columbia",DCN
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="District of Columbia",DKN
@@ -47,6 +53,16 @@ http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 https://city-msp-mn.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 group-title="Nevada - Las Vegas",KCLV
 http://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
+#EXTINF:-1 group-title="New Hampshire - Manchester",MPTV History Channel 6
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/manchestertv/live/ch1/video.m3u8
+#EXTINF:-1 group-title="New Hampshire - Manchester",MPTV Public Access Channel 8
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/manchestertv/live/ch2/video.m3u8
+#EXTINF:-1 group-title="New Hampshire - Manchester",MPTV Education Channel 16
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/manchestertv/live/ch3/video.m3u8
+#EXTINF:-1 group-title="New Hampshire - Manchester",MPTV Government Channel 22
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/manchestertv/live/ch4/video.m3u8
+#EXTINF:-1 group-title="New Hampshire - Manchester",MPTV HD Channel 1072
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/manchestertv/live/ch5/video.m3u8
 #EXTINF:-1 group-title="New Jersey",News 12 New Jersey
 https://live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 #EXTINF:-1 group-title="New Jersey",News 12+ New Jersey
@@ -68,17 +84,17 @@ https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 group-title="New York",News 12+ Long Island
 https://live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Omni
-http://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
+https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Arts
-http://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Culture
-http://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8
+https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Inform
-http://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 group-title="New York - Bronx",BronxNet BX Inspire
-http://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
-#EXTINF:-1 group-title="New York - Bronx",NYXT NYC
-https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+#EXTINF:-1 group-title="New York - Bronx",BronxNet BX Legacy
+https://reflect-stream-bronxnet.cablecast.tv/live-10/live/stream-6/live.m3u8
 #EXTINF:-1 group-title="New York - Staten Island",CMSI Your 34 Channel
 https://reflect-sicommunitymedia.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 group-title="New York - Staten Island",CMSI Variety Channel
