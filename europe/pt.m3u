@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/epg-it.xml"
+#EXTINF:-1 group-title="Portugal" tvg-chno="1" tvg-id="",RTP1
+https://streaming-live.rtp.pt/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="2" tvg-id="",RTP2
+https://streaming-live.rtp.pt/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="3" tvg-id="",SIC
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="4" tvg-id="",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="5" tvg-id="",ARtv
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="6" tvg-id="",RTP3
+https://streaming-live.rtp.pt/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-chno="7" tvg-id="",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
