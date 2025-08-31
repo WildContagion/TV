@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/epg-uk.xml"
+#EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/epg-uk.xml"
 #EXTINF:-1 group-title="UK" tvg-chno="1" tvg-id="BBCOneLondon.uk" tvg-logo="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=160",BBC One (London)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
