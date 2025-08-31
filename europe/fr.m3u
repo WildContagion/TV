@@ -1,71 +1,83 @@
-#EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"
-#EXTINF:-1 group-title="France" tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0140e095e3581756646dbe447273d9ee-tf1-programme-tv",TF1
+#EXTM3U url-tvg="https://github.com/Catch-up-TV-and-More/xmltv/raw/refs/heads/master/tv_guide_fr.xml"
+#EXTVLCOPT:network-caching=65535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="France" tvg-chno="1" tvg-id="C192.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0140e095e3581756646dbe447273d9ee-tf1-programme-tv",TF1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://www.tf1.fr&Referer=https://www.tf1.fr/tf1/direct
 https://www.andykimpe.ovh/tf1.php/index.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/89727fe86866c9a00a962f4a82667f99-france-2-programme-tv",France 2
+#EXTINF:-1 group-title="France" tvg-chno="2" tvg-id="C4.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/89727fe86866c9a00a962f4a82667f99-france-2-programme-tv",France 2
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_2
-#EXTINF:-1 group-title="France" tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/8628ff09ec5f7ce36aa00a8f81fa59bc-france-3-programme-tv",France 3
+#EXTINF:-1 group-title="France" tvg-chno="3" tvg-id="C80.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/8628ff09ec5f7ce36aa00a8f81fa59bc-france-3-programme-tv",France 3
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_3
 #EXTINF:-1 group-title="France" tvg-chno="4" tvg-id="France4.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/f87c47e71b3e4ff9193a74c4be280269-france-4-programme-tv",France 4
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_4
 #EXTINF:-1 group-title="France" tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/3984602651fef373d92867170c4530d3-france-5-programme-tv",France 5
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_5
-#EXTINF:-1 group-title="France" tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/7f640a7c251cf7deeb0879887a098b84-m6-programme-tv",M6
+#EXTINF:-1 group-title="France" tvg-chno="6" tvg-id="C118.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/7f640a7c251cf7deeb0879887a098b84-m6-programme-tv",M6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 group-title="France" tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0c37e7a8316d4ffcbf8679de1466191e-arte-programme-tv",Arte
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 group-title="France" tvg-chno="7" tvg-id="C111.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0c37e7a8316d4ffcbf8679de1466191e-arte-programme-tv",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="8" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/21b19ffbe142303e4c5eb892bafbd22b-lcp-programme-tv",LCP-PS
+#EXTINF:-1 group-title="France" tvg-chno="8" tvg-id="C234.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/21b19ffbe142303e4c5eb892bafbd22b-lcp-programme-tv",La Chaîne Parlementaire
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/79d9a5490fbc2466a6e6869ef940013f-w9-programme-tv",W9
+#EXTINF:-1 group-title="France" tvg-chno="9" tvg-id="C119.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/79d9a5490fbc2466a6e6869ef940013f-w9-programme-tv",W9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-#EXTINF:-1 group-title="France" tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/3d73d6d985a008eef1c4a039056bc1a0-tmc-programme-tv",TMC
+#KODIPROP:inputstream.adaptive.license_key=e8ae44faa1e73658bfe725dec8204259:d90e4519b41352e2791370dfcc20406b
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_cenc00/dash-short-hd.mpd
+#EXTVLCOPT:network-caching=65535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="France" tvg-chno="10" tvg-id="C195.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/3d73d6d985a008eef1c4a039056bc1a0-tmc-programme-tv",TMC
 https://www.andykimpe.ovh/tmc.php/index.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0d4366d8f76e5c5fd46c31ae159ab0b3-tfx-programme-tv",TFX
+#EXTVLCOPT:network-caching=65535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="France" tvg-chno="11" tvg-id="C446.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0d4366d8f76e5c5fd46c31ae159ab0b3-tfx-programme-tv",TFX
 https://www.andykimpe.ovh/tfx.php/index.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="12" tvg-id="Gulli.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/6ed23bb535b6294b3dca3840518d4b66-gulli-programme-tv",Gulli
+#EXTINF:-1 group-title="France" tvg-chno="12" tvg-id="C482.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/6ed23bb535b6294b3dca3840518d4b66-gulli-programme-tv",Gulli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a3d0dbd46e3b7c962ca9a3596df2ce:73e68b9f78144b51696f4ce0f745ec06
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/81bfe7c2362a4f1995af83f796c30657/dash_short_cenc10_gulli_hd_index.mpd
-#EXTINF:-1 group-title="France" tvg-chno="13" tvg-id="BFMTV.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/7b26147362b80e029f58bc2ab638f688-bfm-tv-programme-tv",BFM TV
+#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 group-title="France" tvg-chno="13" tvg-id="C481.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/7b26147362b80e029f58bc2ab638f688-bfm-tv-programme-tv",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="14" tvg-id="CNews.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/fee816e0d118da3fe38e81d6c7338a76-cnews-programme-tv",C NEWS
+#EXTINF:-1 group-title="France" tvg-chno="14" tvg-id="C226.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/fee816e0d118da3fe38e81d6c7338a76-cnews-programme-tv",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="15" tvg-id="LCI.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/9088add601be48e490e5d6d541d7e0a8-lci-programme-tv",LCI
+#EXTVLCOPT:network-caching=65535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="France" tvg-chno="15" tvg-id="C112.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/9088add601be48e490e5d6d541d7e0a8-lci-programme-tv",LCI
 https://www.andykimpe.ovh/lci.php/index.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="16" tvg-id="FranceInfo.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/70a16045cb7d0b1a1f225b5799a403de-franceinfo-programme-tv",France Info
+#EXTINF:-1 group-title="France" tvg-chno="16" tvg-id="C2111.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/70a16045cb7d0b1a1f225b5799a403de-franceinfo-programme-tv",France Info
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_Info
-#EXTINF:-1 group-title="France" tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/eab29d2bad2865e6313b9b626899dad3-cstar-programme-tv",CStar
+#EXTINF:-1 group-title="France" tvg-chno="17" tvg-id="C458.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/eab29d2bad2865e6313b9b626899dad3-cstar-programme-tv",CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="18" tvg-id="T18.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/1543e040537dac5b4d7797dfd838e92f-t18-programme-tv",T18
+#EXTINF:-1 group-title="France" tvg-chno="18" tvg-id="C4139.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/1543e040537dac5b4d7797dfd838e92f-t18-programme-tv",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/cd12dca6786b3f2fa182ee662dfba3b6-tf1-series-films-programme-tv",TF1 Séries Films
+#EXTVLCOPT:network-caching=65535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 group-title="France" tvg-chno="20" tvg-id="C1404.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/cd12dca6786b3f2fa182ee662dfba3b6-tf1-series-films-programme-tv",TF1 Séries Films
 https://www.andykimpe.ovh/tf1-series-films.php/index.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/5f60d1c494e2cefccc6c8e1c5840e09e-l-equipe-programme-tv",LA CHAÎNE L'ÉQUIPE
+#EXTINF:-1 group-title="France" tvg-chno="21" tvg-id="C1401.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/5f60d1c494e2cefccc6c8e1c5840e09e-l-equipe-programme-tv",L'Equipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/10a2527cca92e52154bac7795d245bef-6ter-programme-tv",6ter
+#EXTINF:-1 group-title="France" tvg-chno="22" tvg-id="C1403.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/10a2527cca92e52154bac7795d245bef-6ter-programme-tv",6ter
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-#EXTINF:-1 group-title="France" tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/094e8723d76dfc9e15837ee21a2094cd-rmc-story-programme-tv",RMC STORY
+#EXTINF:-1 group-title="France" tvg-chno="23" tvg-id="C1402.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/094e8723d76dfc9e15837ee21a2094cd-rmc-story-programme-tv",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/RMC_Story_FR.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/3046d3130198b064c6edc66d61d9acc0-rmc-decouverte-programme-tv",RMC Découverte
+#EXTINF:-1 group-title="France" tvg-chno="24" tvg-id="C1400.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/3046d3130198b064c6edc66d61d9acc0-rmc-decouverte-programme-tv",RMC Découverte
 https://d16zzycxcd0m0r.cloudfront.net/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/44f661ef686f00b4b964892d0c4e9318-cherie-25-programme-tv",CHERIE 25
+#EXTINF:-1 group-title="France" tvg-chno="25" tvg-id="C1399.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/44f661ef686f00b4b964892d0c4e9318-cherie-25-programme-tv",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 group-title="France" tvg-id="",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
