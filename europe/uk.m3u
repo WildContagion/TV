@@ -1,58 +1,62 @@
 #EXTM3U url-tvg="https://arkina1234.github.io/epg/guide/epg-uk.xml"
-#EXTINF:-1 group-title="UK" tvg-id="BBCOneLondon.uk",BBC One (London)
+#EXTINF:-1 group-title="UK" tvg-chno="1" tvg-id="BBCOneLondon.uk" tvg-logo="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=160",BBC One (London)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCTwo.uk",BBC Two
+#EXTINF:-1 group-title="UK" tvg-chno="2" tvg-id="BBCTwo.uk" tvg-logo="https://img.freeviewplay.tv/s4bf1f3c97f71f087f0eca0268b0c0138/16x9/colour?w=160",BBC Two
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="STV.uk",STV (Scotland)
+#EXTINF:-1 group-title="UK" tvg-chno="3" tvg-id="ITV1.uk" tvg-logo="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=160",ITV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6654f54e2654b6591d67c7716d7c6da:1239e052a9b157bfb857fa11cd18d9d1
+https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV1
+#EXTINF:-1 group-title="UK" tvg-chno="3" tvg-id="STV.uk",STV (Scotland)
 https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="Channel4.uk",Channel 4
+#EXTINF:-1 group-title="UK" tvg-chno="4" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/s2d43a98ba9a88e002faf81ce78979f6e/16x9/colour?w=160",Channel 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 group-title="UK" tvg-id="S4C.uk",S4C (Wales)
+#EXTINF:-1 group-title="UK" tvg-chno="4" tvg-id="S4C.uk",S4C (Wales)
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-#EXTINF:-1 group-title="UK" tvg-id="Channel5.uk",5
+#EXTINF:-1 group-title="UK" tvg-chno="5" tvg-id="Channel5.uk" tvg-logo="https://img.freeviewplay.tv/s5ffdadc9435867239ce9fce7316f5601/16x9/colour?w=160",5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a267a5bcc34daaa32c024c00f61705:1d24bce07cea7d5a3861aca7e08958d8
 https://00f5f8579b5d647e0e619d3493705510.channel5.com/c5/a9fa708ec2a94f97af77f30947edfc41/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCThree.uk",BBC Three
+#EXTINF:-1 group-title="UK" tvg-id="BBCThree.uk" tvg-logo="https://img.freeviewplay.tv/sc00c2d2321a4c5db5dedea644fa7638a/16x9/colour?w=160",BBC Three
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCFour.uk",BBC Four
+#EXTINF:-1 group-title="UK" tvg-id="BBCFour.uk" tvg-logo="https://img.freeviewplay.tv/s893c7a664fd07d4796f9b647bb44c477/16x9/colour?w=160",BBC Four
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="CBBC.uk",CBBC
+#EXTINF:-1 group-title="UK" tvg-id="CBBC.uk" tvg-logo="https://img.freeviewplay.tv/sf60a7287740d068dc088d39f4d3cee1a/16x9/colour?w=160",CBBC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="CBeebies.uk",CBeebies
+#EXTINF:-1 group-title="UK" tvg-id="CBeebies.uk" tvg-logo="https://img.freeviewplay.tv/s6a9ffef5942a85ddca478c367a2a14d8/16x9/colour?w=160",CBeebies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCNews.uk",BBC News
+#EXTINF:-1 group-title="UK" tvg-id="BBCNews.uk" tvg-logo="https://img.freeviewplay.tv/s6435109af0cf5a94751c58613d77ae7a/16x9/colour?w=160",BBC News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCParliament.uk",BBC Parliament
+#EXTINF:-1 group-title="UK" tvg-id="BBCParliament.uk" tvg-logo="https://img.freeviewplay.tv/s1e4458f9730a43446547a6f43bf68595/16x9/colour?w=160",BBC Parliament
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
@@ -61,58 +65,74 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parli
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="UK" tvg-id="BBCAlba.uk",BBC ALBA [Scotland]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="BBCRedButton1.uk",BBC Red Button 1
+#EXTINF:-1 group-title="UK" tvg-logo="https://img.freeviewplay.tv/s613a3467a5048e4f82a5ea01895979d5/16x9/colour?w=160" tvg-id="BBCRedButton1.uk",BBC Red Button 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="UK" tvg-id="E4.uk",E4
+#EXTINF:-1 group-title="UK" tvg-id="ITV2.uk" tvg-logo="https://img.freeviewplay.tv/sa2ce64c95d4daf1c7fa650cb99773442/16x9/colour?w=160",ITV2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-license.eu-west-2.vudrm.tech/proxy|Content-Type=application%2Foctet-stream|R{SSM}|
+https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV2
+#EXTINF:-1 group-title="UK" tvg-id="ITV3.uk" tvg-logo="https://img.freeviewplay.tv/s4b9c5363866d7a55988564c4bd4cb424/16x9/colour?w=160",ITV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df1bb25df6a4a028a1dfe01128c85e0:d16cf442d9e58b1b33ac0166d51ca06a
+https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV3
+#EXTINF:-1 group-title="UK" tvg-id="ITV4.uk" tvg-logo="https://img.freeviewplay.tv/se1526a8af795522bfb4c70fb858ecbe5/16x9/colour?w=160",ITV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=470184d47b5446efab050b7c20990f93:0bae47dc46cc52991b1b35dd9bacf0d1
+https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITV4
+#EXTINF:-1 group-title="UK" tvg-id="ITVBe.uk" tvg-logo="https://img.freeviewplay.tv/sf0bb09720a55e41ca4cb8f7fd0733c67/16x9/colour?w=160",ITVQuiz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a973712ce9fc4e049ad4588d70857828:0c73990b420c5f864f79494ec866c1e7
+https://itvx-803d7.wasmer.app/itvx.php/itvx.mpd?id=ITVBe
+#EXTINF:-1 group-title="UK" tvg-id="E4.uk" tvg-logo="https://img.freeviewplay.tv/s2ead5a9a44f371809776bed41f566448/16x9/colour?w=160",E4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="More4.uk",More4
+#EXTINF:-1 group-title="UK" tvg-id="More4.uk" tvg-logo="https://img.freeviewplay.tv/sd76668cc824cdbff2df6377b20fcf7a6/16x9/colour?w=160",More4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="Film4.uk",Film4
+#EXTINF:-1 group-title="UK" tvg-id="Film4.uk" tvg-logo="https://img.freeviewplay.tv/sd8f9f2cfd3bacedd71ced98d582c355d/16x9/colour?w=160",Film4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="4seven.uk",4seven
+#EXTINF:-1 group-title="UK" tvg-id="4seven.uk" tvg-logo="https://img.freeviewplay.tv/sed7f82f2a88e9e05e05d09bac7c937f8/16x9/colour?w=160",4seven
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.mpd
-#EXTINF:-1 group-title="UK" tvg-id="5USA.uk",5USA
+#EXTINF:-1 group-title="UK" tvg-id="5USA.uk" tvg-logo="https://img.freeviewplay.tv/s94f727e7678cf533b3a42f08bae21dcf/16x9/colour?w=160",5USA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="5STAR.uk",5STAR
+#EXTINF:-1 group-title="UK" tvg-id="5STAR.uk" tvg-logo="https://img.freeviewplay.tv/s03210563782c9adb98b25ee201d81be3/16x9/colour?w=160",5STAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31c99fca03f345c1b9c2f501a621058e":"c3e75e6c11515c32bb4ac7c163523b3d","244fce7dde4625c938a3728b122ac51e":"c3e75e6c11515c32bb4ac7c163523b3d"}
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="5Action.uk",5ACTION
+#EXTINF:-1 group-title="UK" tvg-id="5Action.uk" tvg-logo="https://img.freeviewplay.tv/sd01f61019d618d530a0003a8db7825f6/16x9/colour?w=160",5ACTION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
-#EXTINF:-1 group-title="UK" tvg-id="5SELECT.uk",5SELECT
+#EXTINF:-1 group-title="UK" tvg-id="5SELECT.uk" tvg-logo="https://img.freeviewplay.tv/saee6f1105e4ff046bf1611015e751c51/16x9/colour?w=160",5SELECT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
