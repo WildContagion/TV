@@ -43,7 +43,7 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="France" tvg-chno="14" tvg-id="CNews.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/fee816e0d118da3fe38e81d6c7338a76-cnews-programme-tv",C NEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 group-title="France" tvg-chno="15" tvg-id="LCI.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/9088add601be48e490e5d6d541d7e0a8-lci-programme-tv",LCI
-https://www.andykimpe.ovh/lci.php/index.m3u8
+https://www.andykimpe.ovh/lci.php
 #EXTINF:-1 group-title="France" tvg-chno="16" tvg-id="FranceInfo.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/70a16045cb7d0b1a1f225b5799a403de-franceinfo-programme-tv",France Info
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_Info
 #EXTINF:-1 group-title="France" tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/eab29d2bad2865e6313b9b626899dad3-cstar-programme-tv",CStar
