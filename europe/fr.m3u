@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/epg-fr.xml"
+#EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/epg-fr-tnt.xml"
 #EXTVLCOPT:network-caching=65535
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 group-title="France" tvg-chno="1" tvg-id="C192.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0140e095e3581756646dbe447273d9ee-tf1-programme-tv",TF1
