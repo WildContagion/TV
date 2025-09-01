@@ -2,8 +2,6 @@
 #EXTVLCOPT:network-caching=65535
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 group-title="France" tvg-chno="1" tvg-id="C192.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/0140e095e3581756646dbe447273d9ee-tf1-programme-tv",TF1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Origin=https://www.tf1.fr&Referer=https://www.tf1.fr/tf1/direct
 https://www.andykimpe.ovh/tf1.php/index.m3u8
 #EXTINF:-1 group-title="France" tvg-chno="2" tvg-id="C4.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/89727fe86866c9a00a962f4a82667f99-france-2-programme-tv",France 2
 https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_2
