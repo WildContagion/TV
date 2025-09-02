@@ -140,28 +140,28 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest_sd.
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d324328db27144cda7778a7d73291fe1:d2d920c82567f65aba98a6b7fb03dae3
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d324328db27144cda7778a7d73291fe1:d2d920c82567f65aba98a6b7fb03dae3,47e07890e1e3c53c12f4ff6b843dc1ae:d2d920c82567f65aba98a6b7fb03dae3
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
 #EXTINF:-1 group-title="UK" tvg-id="32.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/s03210563782c9adb98b25ee201d81be3/16x9/colour?w=160",5STAR
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|31c99fca03f345c1b9c2f501a621058e:c3e75e6c11515c32bb4ac7c163523b3d
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|31c99fca03f345c1b9c2f501a621058e:c3e75e6c11515c32bb4ac7c163523b3d,244fce7dde4625c938a3728b122ac51e:c3e75e6c11515c32bb4ac7c163523b3d
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 #EXTINF:-1 group-title="UK" tvg-id="33.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/sd01f61019d618d530a0003a8db7825f6/16x9/colour?w=160",5ACTION
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0dc24fb57d8d4ff28efa22ed984568ac:3548e7c2f13627c3f6925dd818cfc5a2
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0dc24fb57d8d4ff28efa22ed984568ac:3548e7c2f13627c3f6925dd818cfc5a2,9d7c1018ebb967a000e26b4911807b19:3548e7c2f13627c3f6925dd818cfc5a2
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
 #EXTINF:-1 group-title="UK" tvg-id="46.freeview.co.uk" tvg-logo="https://img.freeviewplay.tv/saee6f1105e4ff046bf1611015e751c51/16x9/colour?w=160",5SELECT
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0314fccf0c2941c69a2b12f9ad8c4710:f67abdaaf8b967ece70035ed64b07194
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|0314fccf0c2941c69a2b12f9ad8c4710:f67abdaaf8b967ece70035ed64b07194,2cede23e0a9ad10be42c074329402963:f67abdaaf8b967ece70035ed64b07194
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 #EXTINF:-1 group-title="UK" tvg-id="SkyMix.uk",Sky Mix
 #KODIPROP:inputstream=inputstream.adaptive
