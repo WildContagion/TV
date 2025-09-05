@@ -58,6 +58,13 @@ https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 group-title="France" tvg-chno="18" tvg-id="C4139.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/1543e040537dac5b4d7797dfd838e92f-t18-programme-tv",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="France" tvg-chno="19" tvg-id="" tvg-logo="https://media.ouest-france.fr/v1/pictures/b0359db82b4909c989b6e49448738fcb-novo19-programme-tv",NOVO19
+#KODIPROP:contentlookup=False
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTVLCOPT:network-caching=65535
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 group-title="France" tvg-chno="20" tvg-id="C1404.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/cd12dca6786b3f2fa182ee662dfba3b6-tf1-series-films-programme-tv",TF1 Séries Films
