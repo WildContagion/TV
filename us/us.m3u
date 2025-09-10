@@ -33,7 +33,7 @@ https://d21niorw6ywvgl.cloudfront.net/out/v1/58680ea755d94e089fd8a13e0ce2c174/in
 https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44895_dark_360w_270h.png",AWE
 https://s-cdn.herringnetwork.com/live1/awe/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png",BYU TV
+#EXTINF:-1 group-title="TV" tvg-id="21855" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png",BYU TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
