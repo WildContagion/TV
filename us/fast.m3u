@@ -123,8 +123,6 @@ https://linear-729.frequency.stream/mt/dice/729/hls/master/playlist.m3u8
 https://shoutfact-mst3k-ts-zype-jgfey.amagi.tv/playlist/shoutfact-mst3k-ts-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130175_dark_360w_270h.png",Farscape
 https://linear-731.frequency.stream/mt/dice/731/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112484_dark_360w_270h.png",The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s161735_dark_360w_270h.png",60 Minutes
 https://60mi203g0hb.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130385_dark_360w_270h.png",Inside Edition
@@ -217,6 +215,8 @@ https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 https://linear-600.frequency.stream/mt/obsessionmedia/600/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112487_dark_360w_270h.png",PursuitUP
 https://linear-205.frequency.stream/dist/freecast/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119233_dark_360w_270h.png",Nosey
+https://b54b72ba.wurl.com/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s179621_dark_360w_270h.png",The Bold & The Beautiful
 https://linear-1033.frequency.stream/mt/vesper/1033/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s161256_dark_360w_270h.png",Relative Justice
