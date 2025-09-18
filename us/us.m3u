@@ -155,6 +155,8 @@ https://live.ntdtv.com/live900/playlist.m3u8
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR720v1/streams/6216a106-d16f-916f-c663-41d3cbd7ac23_480p1000kbps.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48836_dark_360w_270h.png",NDTV 24x7
 https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48512_dark_360w_270h.png",AAJ TAK
+https://feeds.intoday.in/aajtak-us/livetv/master.m3u8
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68938_dark_360w_270h.png" radio="true",3ABN Radio
 http://war.streamguys1.com:7185/live
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79937_dark_360w_270h.png" radio="true",3ABN Latino Radio
