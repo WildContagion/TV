@@ -58,7 +58,7 @@ https://strm-a64b7.wasmer.app/fr/francetv/hls.php/francetv.m3u8?id=France_Info
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 group-title="France" tvg-chno="18" tvg-id="C4139.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/1543e040537dac5b4d7797dfd838e92f-t18-programme-tv",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 group-title="France" tvg-chno="19" tvg-id="" tvg-logo="https://media.ouest-france.fr/v1/pictures/b0359db82b4909c989b6e49448738fcb-novo19-programme-tv",NOVO19
+#EXTINF:-1 group-title="France" tvg-chno="19" tvg-id="C4138.api.telerama.fr" tvg-logo="https://media.ouest-france.fr/v1/pictures/b0359db82b4909c989b6e49448738fcb-novo19-programme-tv",NOVO19
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
