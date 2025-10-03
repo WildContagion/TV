@@ -23,6 +23,50 @@ https://live688.delivery.roku.com/out/v1/47cab5eb2bd54c78a7fe557445431a3e/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87922f767ca113ba0e7e510e9cfdbe0e:01f5be6b7c21cf96d9ca2b47618880dc
 https://aka-live-002-0600.delivery.roku.com/out/v1/f43b821bd5e94eeba0baee541c245128/index.mpd
+#EXTINF:-1 channel-id="b0a5958fe9475e16809f4fff4f226323" tvg-id="b0a5958fe9475e16809f4fff4f226323" tvg-chno="406" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Fireman Sam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7653851ec084d06b261d1c45de31bf7:e1f3b150f18ba250f1783de316b28a1d
+https://live1788.delivery.roku.com/out/v1/e6d3846055cb4807b255fc18c65b972b/index.mpd
+#EXTINF:-1 channel-id="15e8bd66aab159a8925c2f95bd321310" tvg-id="15e8bd66aab159a8925c2f95bd321310" tvg-chno="408" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Bob The Builder
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dee10eb6b81b657422c394a10a1ca59:7009fbc54bb012f4eb5593863f61ba23
+https://live1586.delivery.roku.com/out/v1/2e43e81d2ebe4289ac1b0db3bd58f60c/index.mpd
+#EXTINF:-1 channel-id="99a7477e0d38503d9b5456f07c1cf520" tvg-id="99a7477e0d38503d9b5456f07c1cf520" tvg-chno="409" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Yo Gabba Gabba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0776771694d480cd9c3fab732ce0447:8bae2fc635e77bb664994cb9fbe8505e
+https://live1759.delivery.roku.com/out/v1/3eaf6b1470af49958d104c0c2fbe9c27/index.mpd
+#EXTINF:-1 channel-id="e43d478938ff53f1a6810a11a1192d74" tvg-id="e43d478938ff53f1a6810a11a1192d74" tvg-chno="411" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Tayo+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f29da14843f7b0db66e338338660090:179f2f04ec39695e0d7b5f1f0ad7b795
+https://live621.delivery.roku.com/out/v1/592d956138b6453b952261493a85ac43/index.mpd
+#EXTINF:-1 channel-id="acd87247fd59591c9111b468bfb9cadc" tvg-id="acd87247fd59591c9111b468bfb9cadc" tvg-chno="413" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Strawberry Shortcake
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b2c95ef584e79f8695ff9b81b8ce5f6:b8df8338e2f4f568c114545d13a31209
+https://live1519.delivery.roku.com/out/v1/403753c2564c48d8b1970575eded66c4/index.mpd
+#EXTINF:-1 channel-id="144b3079deeb52f486e582a843546dba" tvg-id="144b3079deeb52f486e582a843546dba" tvg-chno="416" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Slugterra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a94002be71c47c98ddd7015e333e84:fcbc2a312094bfe238e44b70d4d4bdfc
+https://live1573.delivery.roku.com/out/v1/4f9cb02e070a4190beaffff7714b0e4f/index.mpd
+#EXTINF:-1 channel-id="85f1333ff9065bf2923c8fa5eee50036" tvg-id="85f1333ff9065bf2923c8fa5eee50036" tvg-chno="423" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rainbow Ruby
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c07e7bf2776e25507088d7acf0f077:420ded35cc316e3bebab5dbb98a4a960
+https://live1341.delivery.roku.com/out/v1/046874d080c0452e872aae41bb805631/index.mpd
+#EXTINF:-1 channel-id="a673e94f2e565b3ab01168183745a6c6" tvg-id="a673e94f2e565b3ab01168183745a6c6" tvg-chno="425" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Teletubbies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d600ba45ffc4a73b9e1a3bd7540102:5c98da3fb6c21bdf21708f19fe9d2afe
+https://live143.delivery.roku.com/out/v1/640590b2a6f0495080f8f3697487f247/index.mpd
+#EXTINF:-1 channel-id="f1584888a8625b1abf77aecb4690abe0" tvg-id="f1584888a8625b1abf77aecb4690abe0" tvg-chno="427" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Rev and Roll
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b660940979af73118363f7093489876:c930a8bfb60e541bb383efbfa996fe11
+https://live1402.delivery.roku.com/out/v1/60a75a19ed96488595af776feabcffea/index.mpd
+#EXTINF:-1 channel-id="8c4f4c99fe8d54fdad5ecc202a11efc1" tvg-id="8c4f4c99fe8d54fdad5ecc202a11efc1" tvg-chno="434" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Barney
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14a7b5b5f6fa13311529b16f0a88de7:a6a89c6593ed2670105f4e87c6b32bd9
+https://aka-live-001-0123.delivery.roku.com/out/v1/3d7126787bc9406ca085e9a4b606457c/index.mpd
+#EXTINF:-1 channel-id="a164a2f39b815cb9b6559d99ae0f6e8c" tvg-id="a164a2f39b815cb9b6559d99ae0f6e8c" tvg-chno="435" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Caillou
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f844bb2762384b3919d77ed345658756:412b8071ac530ed240803a1a1e8e5164
+https://aka-live-002-0338.delivery.roku.com/out/v1/533bea244e864cb082c87d2be04152ce/index.mpd
 #EXTINF:-1 channel-id="b5d43356a7fc515f996493fcd52a84c6" tvg-id="b5d43356a7fc515f996493fcd52a84c6" tvg-chno="446" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BBC Food
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a7ddf26ccb042ac69d0c85809f11899:7a8c451619f6c17073191fff760de44a
