@@ -29,7 +29,7 @@ https://aka-live-002-0600.delivery.roku.com/out/v1/f43b821bd5e94eeba0baee541c245
 https://live859.delivery.roku.com/out/v1/08112f98e9c84365a991a302fb68f4dd/index.mpd
 #EXTINF:-1 channel-id="b04b170e5f085586985358512adbdb9f" tvg-id="b04b170e5f085586985358512adbdb9f" tvg-chno="460" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BBC Home & Garden
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eb51f6878a3e1b998a56b9dcc78e12c:d25c4d6d1f8b758e8bb563ca21b915c6
+#KODIPROP:inputstream.adaptive.license_key=5eb51f6878a3e1b998a56b9dcc78e12c:c65b5e2cd418abc71f9c8da275058633
 https://live1003.delivery.roku.com/out/v1/d957ecc56a8b443eb28b4e845c59d24b/index.mpd
 #EXTINF:-1 channel-id="41a03e0853d45c06bdfdedc5d26b78d8" tvg-id="41a03e0853d45c06bdfdedc5d26b78d8" tvg-chno="476" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
