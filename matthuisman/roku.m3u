@@ -52,7 +52,7 @@ https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
 #EXTINF:-1 channel-id="0fc01f1136055d89bae495ba92eff445" tvg-id="0fc01f1136055d89bae495ba92eff445" tvg-chno="226" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 channel-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-chno="228" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SPORTSGRID
-https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+https://aka-live491.delivery.roku.com/655cd410-a95b-48eb-9515-ee4b7994152c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a361d429db9e46665be277da42af89a4" tvg-id="a361d429db9e46665be277da42af89a4" tvg-chno="229" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Monster Jam
 https://jmp2.uk/rok-a361d429db9e46665be277da42af89a4.m3u8
 #EXTINF:-1 channel-id="ca25dfba8ba45a1bb277c8b0ca8f56c4" tvg-id="ca25dfba8ba45a1bb277c8b0ca8f56c4" tvg-chno="231" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",POWERNATION
