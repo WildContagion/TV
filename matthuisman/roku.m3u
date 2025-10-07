@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml;https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/all.xml"
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LiveNOW from FOX
-https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+https://aka-live491.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBC News
