@@ -2,11 +2,11 @@
 #EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",LiveNOW from FOX
 https://aka-live491.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Euronews World
-https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+https://aka-live491.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",CBC News
-https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
+https://aka-live491.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-chno="161" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",AccuWeather NOW
-https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
+https://aka-live491.delivery.roku.com/10ddd1d8-271e-48bc-9290-80315b6400dc/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-id="a1e38b83ae2a56f09f4d2ee8ed206b35" tvg-chno="163" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Weathernation
 https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8
 #EXTINF:-1 channel-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-id="0838d5ccb1d5564d98fb804ab314c85e" tvg-chno="164" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",FOX Weather
@@ -104,7 +104,7 @@ https://jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8
 #EXTINF:-1 channel-id="8d8befc9060e861eb1bdd5b21c0403b3" tvg-id="8d8befc9060e861eb1bdd5b21c0403b3" tvg-chno="272" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Lifetime Love & Drama
 https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8
 #EXTINF:-1 channel-id="eb1dbd690001553eacdf32d7b155b933" tvg-id="eb1dbd690001553eacdf32d7b155b933" tvg-chno="274" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",SPARK TV
-https://jmp2.uk/rok-eb1dbd690001553eacdf32d7b155b933.m3u8
+https://aka-live491.delivery.roku.com/2c35673e-b8a0-4dcd-bc76-878b79550a16/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="be3c81de355c56f89cbf99301735cfd2" tvg-id="be3c81de355c56f89cbf99301735cfd2" tvg-chno="275" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",My Time Movie Network
 https://jmp2.uk/rok-be3c81de355c56f89cbf99301735cfd2.m3u8
 #EXTINF:-1 channel-id="d93912b4b21158fd95af2ceb8979c586" tvg-id="d93912b4b21158fd95af2ceb8979c586" tvg-chno="276" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Dove
@@ -402,7 +402,7 @@ https://jmp2.uk/rok-363301aa078e555ebd034290488bc9cf.m3u8
 #EXTINF:-1 channel-id="6d4ae9d9d0df5122a0811cff961b24b2" tvg-id="6d4ae9d9d0df5122a0811cff961b24b2" tvg-chno="658" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Best of Dr. Phil
 https://jmp2.uk/rok-6d4ae9d9d0df5122a0811cff961b24b2.m3u8
 #EXTINF:-1 channel-id="d216c2141a835cfcbe34a7d1b7d2e078" tvg-id="d216c2141a835cfcbe34a7d1b7d2e078" tvg-chno="659" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Nosey
-https://jmp2.uk/rok-d216c2141a835cfcbe34a7d1b7d2e078.m3u8
+https://aka-live491.delivery.roku.com/2c35673e-b8a0-4dcd-bc76-878b79550a16/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="390053bfbc6858999cb0d6354b57d938" tvg-id="390053bfbc6858999cb0d6354b57d938" tvg-chno="660" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Confess by Nosey
 https://jmp2.uk/rok-390053bfbc6858999cb0d6354b57d938.m3u8
 #EXTINF:-1 channel-id="75ff2c061db65f4e812cfbe6b1480752" tvg-id="75ff2c061db65f4e812cfbe6b1480752" tvg-chno="661" tvg-name="" tvg-logo="http://www.example.com/example.png" group-title="",Judge Nosey
