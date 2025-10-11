@@ -111,6 +111,8 @@ https://linear-744.frequency.stream/mt/dice/744/hls/master/playlist.m3u8
 https://amg00163-shoutfactory-johnnycarson-zype-qinx1.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-zype/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122609_dark_360w_270h.png",The Carol Burnett Show
 https://amg00163-shoutfactory-carolburnett-zype-ceama.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-zype/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s165784_dark_360w_270h.png",21 Jump Street
+https://linear-915.frequency.stream/mt/dice/915/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s165817_dark_360w_270h.png",Hunter
 https://linear-914.frequency.stream/mt/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89311_dark_360w_270h.png",ALF
