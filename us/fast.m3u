@@ -149,6 +149,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 https://ime-cw.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s153591_dark_360w_270h.png",Wild West TV
 https://linear-799.frequency.stream/mt/dice/799/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s159990_dark_360w_270h.png",Grjngo
+https://d32i9gorb2z8yx.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s137609_dark_360w_270h.png",Laff More
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111668_dark_360w_270h.png",Comedy Dynamics
@@ -229,6 +231,8 @@ https://amg02042-amg02042c24-ottstudios-na-4394.playouts.now.amagi.tv/playlist/a
 https://amg02042-amg02042c26-ottstudios-na-4423.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-operationrepo-ottstudiosna/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130620_dark_360w_270h.png",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0021WXEX.png_dark_360w_270h.png",MHz Mysteries
+https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138525_dark_360w_270h.png",Noticias Telemundo AHORA
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321&ads.asnw=169843&ads.afid=380752915&ads.sfid=19647824&ads.csid=xumo_[PLATFORM]_TelemundoNoticiasAhora_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.channelId=99951321&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123934_dark_360w_270h.png",Noticias Univision 24/7
