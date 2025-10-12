@@ -74,7 +74,7 @@ https://content.uplynk.com/channel/2ab0dea48c804a0bb9e6b65b97957826.m3u8?rays=hj
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110291_dark_360w_270h.png",ET
 https://pubads.g.doubleclick.net/ssai/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",FOX SOUL
-https://aegis-cloudfront-1.tubi.video/66886913-4bc2-4a2b-84c3-a11c462c1916/index.m3u8
+https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0021H2G0.png_dark_360w_270h.png",Revry
 https://linear-43.frequency.stream/mt/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117060_dark_360w_270h.png",Backstage
