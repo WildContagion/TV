@@ -1,259 +1,253 @@
 #EXTM3U
-#EXTINF:-1 group-title="Local News",ABC 7 New York
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918
-#EXTINF:-1 group-title="Local News",ABC 7 Los Angeles
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 Los Angeles
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11064936
-#EXTINF:-1 group-title="Local News",ABC 7 Chicago
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 Chicago
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11064984
-#EXTINF:-1 group-title="Local News",ABC 7 Bay Area
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 Bay Area
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11065007
-#EXTINF:-1 group-title="Local News",6abc Philadelphia
+#EXTINF:-1 group-title="Locals" tvg-id="15218",6abc Philadelphia
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11064989
-#EXTINF:-1 group-title="Local News",ABC11 Durham
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC11 Durham
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 group-title="Local News",ABC13 Houston
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC13 Houston
 https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11065010
-#EXTINF:-1 group-title="Local News",ABC30 Fresno
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC30 Fresno
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
-#EXTINF:-1 group-title="Local News",CBS News New York
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Los Angeles
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Chicago
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Pittsburgh
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Philadelphia
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Philadelphia
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Boston
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Boston
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Colorado
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Colorado
 https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Bay Area
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Bay Area
 https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Baltimore
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Baltimore
 https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Detroit
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Detroit
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Miami
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Minnesota
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Minnesota
 https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Texas
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 group-title="Local News",CBS News Sacramento
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS News Sacramento
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="Local News",NBC New York News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC New York News
 https://amg00884-nbcuniversal-nbcny-pcr-xumo-isw50.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Los Angeles News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Los Angeles News
 https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Chicago News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Chicago News
 https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Philadelphia News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Philadelphia News
 https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Dallas-Fort Worth News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Dallas-Fort Worth News
 https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Bay Area News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Bay Area News
 https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Washington DC News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Washington DC News
 https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Boston News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Boston News
 https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC South Florida News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC South Florida News
 https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC San Diego News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC San Diego News
 https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC Connecticut News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC Connecticut News
 https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Fox 5 New York
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 5 New York
 https://aegis-cloudfront-1.tubi.video/78391ebf-985c-4a49-869c-a19041ccd41a/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 11 Los Angeles
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 11 Los Angeles
 https://aegis-cloudfront-1.tubi.video/4a112709-ae99-4138-bd7c-0a944f519384/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 32 Chicago
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 32 Chicago
 https://aegis-cloudfront-1.tubi.video/812215fe-dd68-4878-ac10-5dbda1d19e60/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 29 Philadelphia
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 29 Philadelphia
 https://aegis-cloudfront-1.tubi.video/c9e09bbd-2bdd-4ab6-959a-0953a0267b61/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 4 KDFW
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 4 KDFW
 https://aegis-cloudfront-1.tubi.video/675a28a1-10b8-4215-bf37-bd821fa2c7bc/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 26 Houston
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 26 Houston
 https://aegis-cloudfront-1.tubi.video/73713e05-3738-4b06-9540-8c9ba0e0c3fb/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 2 KTVU
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 2 KTVU
 https://aegis-cloudfront-1.tubi.video/bde8f972-bfd6-4475-9d90-1c6a9ab71f1a/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 5 Atlanta
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 5 Atlanta
 https://aegis-cloudfront-1.tubi.video/90ed6e40-545b-4773-9370-1d79944b3572/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 5 Washington DC
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 5 Washington DC
 https://aegis-cloudfront-1.tubi.video/b749bd8d-516c-4d26-a2c0-fcf9bb836a08/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 2 Detroit
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 2 Detroit
 https://aegis-cloudfront-1.tubi.video/ac853300-5182-4818-83a5-15e6791e4ef7/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 13 Seattle
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 13 Seattle
 https://aegis-cloudfront-1.tubi.video/27d4e300-73b8-49ae-86d8-2c28567aab23/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 9 KMSP
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 9 KMSP
 https://aegis-cloudfront-1.tubi.video/862eb89b-2430-4863-83bc-73b55dadd9b4/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 10 Phoenix
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 10 Phoenix
 https://aegis-cloudfront-1.tubi.video/b6a98868-816a-458d-a089-923778b2729f/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 13 Tampa Bay
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 13 Tampa Bay
 https://aegis-cloudfront-1.tubi.video/086864ef-ec57-4864-886b-0f3d9093ed89/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 35 Orlando
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 35 Orlando
 https://aegis-cloudfront-1.tubi.video/34290680-0d3f-4c95-84c7-f06c08ff78ed/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 6 WITI-Milwaukee
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 6 WITI-Milwaukee
 https://aegis-cloudfront-1.tubi.video/850dcf5c-087b-44d4-94de-30e59221549d/index.m3u8
-#EXTINF:-1 group-title="Local News",Fox 7 Austin
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Fox 7 Austin
 https://aegis-cloudfront-1.tubi.video/222b64c9-b12f-4225-8295-de9e69040d66/index.m3u8
-#EXTINF:-1 group-title="Local News",WSB Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WSB Now
 https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Boston 25 Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Boston 25 Now
 https://amg00327-coxmediagroup-wfxtbreaking-ono-n5e03.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WSOC Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WSOC Now
 https://amg00327-coxmediagroup-wsocbreaking-ono-8j7a8.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WHIO 7 Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WHIO 7 Now
 https://amg00327-coxmediagroup-whiobreaking-ono-01a0t.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Action News Jax Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Action News Jax Now
 https://amg00327-coxmediagroup-wjaxbreaking-ono-tv8pt.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WFTV Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WFTV Now
 https://amg00327-coxmediagroup-wftvbreaking-ono-nf6r8.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WPXI Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WPXI Now
 https://amg00327-coxmediagroup-wpxibreaking-ono-y9dml.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",KIRO 7 Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KIRO 7 Now
 https://amg00327-coxmediagroup-kirobreaking-ono-mzefy.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WCPO 9
-https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8
-#EXTINF:-1 group-title="Local News",WEWS 5
-https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8
-#EXTINF:-1 group-title="Local News",WPTV NewsChannel 5
-https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
-#EXTINF:-1 group-title="Local News",KSHB 41
-https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 group-title="Local News",ABC15 Arizona
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="Local News",WFTS ABC Action News
-https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8
-#EXTINF:-1 group-title="Local News",WXYZ Channel 7
-https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
-#EXTINF:-1 group-title="Local News",WMAR 2
-https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
-#EXTINF:-1 group-title="Local News",ABC 10 San Diego
-https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
-#EXTINF:-1 group-title="Local News",ABC Denver 7
-https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
-#EXTINF:-1 group-title="Local News",WRTV
-https://content.uplynk.com/channel/63cfc472081e49b184a02cb7da5895e6.m3u8
-#EXTINF:-1 group-title="Local News",Idaho News 6
-https://content.uplynk.com/channel/f094c565340b4b03a5ac462e3cfb5475.m3u8
-#EXTINF:-1 group-title="Local News",KMTV 3
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="Local News",KTNV Channel 13
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="Local News",NewsChannel 5
-https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8
-#EXTINF:-1 group-title="Local News",TMJ4
-https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
-#EXTINF:-1 group-title="Local News",Fox 13 News
-https://content.uplynk.com/channel/c80f6f27bc1b48099bbbd202fde01656.m3u8
-#EXTINF:-1 group-title="Local News",Florida 24 Network
-https://content.uplynk.com/channel/acefae48197a4bbb893cac4e117890ad.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KOAT 7 New Mexico
+#EXTINF:-1 group-title="Locals" tvg-id="15218",23ABC Bakersfield
+https://deva9uviyfoel.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WMAR 2 Baltimore
+https://d1opgc5mvjzj65.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News 5 Cleveland
+https://dz1e5kvvvjck2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",7 News Detroit
+https://d3qcn1hvgki1v7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KSHB 41 Kansas City
+https://d1yy4zegtf0nhb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Channel 13 Las Vegas
+https://d2t9jaz84yuhj9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",LEX 18 Lexington
+https://d1seyochsqtrhl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NewsChannel 5 Nashville
+https://d1seyochsqtrhl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WTKR News 3 Norfolk
+https://d1opgc5mvjzj65.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS 6 Richmond
+https://d2wjg2cxgtn38r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 10 San Diego
+https://d3mpmfxv4dncri.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WTXL ABC 27 Tallahassee
+https://d28rsb1dsxb8hz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Tampa Bay 28+
+https://d26vn6pklxx6j3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WPTV West Palm Beach
+https://d2yhkbecw3m3i4.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KOAT 7 New Mexico
 https://linear-97.frequency.stream/dist/hearst/97/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WBAL 11 Baltimore
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WBAL 11 Baltimore
 https://linear-105.frequency.stream/dist/hearst/105/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WTVM 13 Alabama
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WTVM 13 Alabama
 https://linear-116.frequency.stream/dist/hearst/116/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WCVB 5 Boston
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WCVB 5 Boston
 https://linear-102.frequency.stream/dist/hearst/102/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WMUR 9 New Hampshire
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WMUR 9 New Hampshire
 https://linear-33.frequency.stream/dist/hearst/33/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WPTZ 5 Burlington
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WPTZ 5 Burlington
 https://linear-115.frequency.stream/dist/hearst/115/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WLTW 5 Cincinnati
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WLTW 5 Cincinnati
 https://linear-107.frequency.stream/dist/hearst/107/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KCCI 8 Iowa
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KCCI 8 Iowa
 https://linear-93.frequency.stream/dist/hearst/93/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KHBS 40 / KHOG 29 Arkansas
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KHBS 40 / KHOG 29 Arkansas
 https://linear-95.frequency.stream/dist/hearst/95/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WXII 12 Carolina
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WXII 12 Carolina
 https://linear-117.frequency.stream/dist/hearst/117/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WYFF 4 Carolina
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WYFF 4 Carolina
 https://linear-110.frequency.stream/dist/hearst/110/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WGAL 8 Pennsylvania
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WGAL 8 Pennsylvania
 https://linear-111.frequency.stream/dist/hearst/111/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WAPT 16 Jackson
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WAPT 16 Jackson
 https://linear-100.frequency.stream/dist/hearst/100/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KMBC 9 Kansas City
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KMBC 9 Kansas City
 https://linear-96.frequency.stream/dist/hearst/96/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WLKY Louisville
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WLKY Louisville
 https://linear-109.frequency.stream/dist/hearst/109/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WISN 12 Milwaukee
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WISN 12 Milwaukee
 https://linear-106.frequency.stream/dist/hearst/106/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KSBW 8 Central Coast
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KSBW 8 Central Coast
 https://linear-99.frequency.stream/dist/hearst/99/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WDSU 6 New Orleans
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WDSU 6 New Orleans
 https://linear-108.frequency.stream/dist/hearst/108/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KOCO 5 Oklahoma City
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KOCO 5 Oklahoma City
 https://linear-98.frequency.stream/dist/hearst/98/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KETV 7 Omaha
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KETV 7 Omaha
 https://linear-94.frequency.stream/dist/hearst/94/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WESH 2 Orlando
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WESH 2 Orlando
 https://linear-103.frequency.stream/dist/hearst/103/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WTAE 4 Pittsburgh
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WTAE 4 Pittsburgh
 https://linear-36.frequency.stream/dist/hearst/36/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WMTW 8 Maine
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WMTW 8 Maine
 https://linear-113.frequency.stream/dist/hearst/113/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - KRCA 3 Sacramento
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - KRCA 3 Sacramento
 https://linear-92.frequency.stream/dist/hearst/92/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WJCL 22 Savannah
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WJCL 22 Savannah
 https://linear-112.frequency.stream/dist/hearst/112/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Very Local - WPBF 25 South Florida
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Very Local - WPBF 25 South Florida
 https://linear-114.frequency.stream/dist/hearst/114/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WJLA News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WJLA News
 https://linear-681.frequency.stream/dist/newson/681/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",FOX 45 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",FOX 45 News
 https://linear-688.frequency.stream/dist/newson/688/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Local 12 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Local 12 News
 https://linear-691.frequency.stream/dist/newson/691/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",FOX 25 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",FOX 25 News
 https://linear-705.frequency.stream/dist/newson/705/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",News 3 Las Vegas
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News 3 Las Vegas
 https://linear-708.frequency.stream/dist/newson/708/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",ABC 6 On Your Side
+#EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 6 On Your Side
 https://linear-689.frequency.stream/dist/newson/689/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",News 4 San Antonio
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News 4 San Antonio
 https://linear-703.frequency.stream/dist/newson/703/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",Dayton 24/7 Now
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Dayton 24/7 Now
 https://linear-690.frequency.stream/dist/newson/690/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",CBS 12 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS 12 News
 https://linear-692.frequency.stream/dist/newson/692/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",CBS Austin
+#EXTINF:-1 group-title="Locals" tvg-id="15218",CBS Austin
 https://linear-704.frequency.stream/dist/newson/704/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",KUTV Channel 2 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KUTV Channel 2 News
 https://linear-707.frequency.stream/dist/newson/707/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",FOX 26 KMPH News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",FOX 26 KMPH News
 https://linear-711.frequency.stream/dist/newson/711/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",KATU 2 On Your Side
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KATU 2 On Your Side
 https://linear-710.frequency.stream/dist/newson/710/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WJAC 6 News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WJAC 6 News
 https://linear-698.frequency.stream/dist/newson/698/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",KOMO News
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KOMO News
 https://linear-709.frequency.stream/dist/newson/709/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",NBC 10 WJAR
+#EXTINF:-1 group-title="Locals" tvg-id="15218",NBC 10 WJAR
 https://linear-694.frequency.stream/dist/newson/694/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",FOX 11 News Green Bay
+#EXTINF:-1 group-title="Locals" tvg-id="15218",FOX 11 News Green Bay
 https://linear-702.frequency.stream/dist/newson/702/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",WSBT 22
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WSBT 22
 https://linear-693.frequency.stream/dist/newson/693/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Local News",News4JAX Plus
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News4JAX Plus
 https://web.wjxt-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",Local 4+
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Local 4+
 https://web.wdiv-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",KPRC 2+
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KPRC 2+
 https://web.kprc-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",News 6 Plus
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News 6 Plus
 https://web.wkmg-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",KSAT+
+#EXTINF:-1 group-title="Locals" tvg-id="15218",KSAT+
 https://web.ksat-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",Local 10+
+#EXTINF:-1 group-title="Locals" tvg-id="15218",Local 10+
 https://web.wplg-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",WSLS
+#EXTINF:-1 group-title="Locals" tvg-id="15218",WSLS
 https://web.wsls-live.gmg.io/east-livestream/ott/inhouse/index.m3u8
-#EXTINF:-1 group-title="Local News",WRAL News+
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/75ef46f2-259b-4982-a5ec-e1fc85c07784.m3u8
-#EXTINF:-1 group-title="Local News",News 12 New York
+#EXTINF:-1 group-title="Locals" tvg-id="15218" ,FOX13 Memphis
+https://d2xtlmtx0a3hnr.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218" ,FOX23 News Tulsa
+https://ddx31awmv9i97.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Locals" tvg-id="15218",News 12 New York
 https://livestream.news12static.com/news12ny/index.m3u8
