@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://xmltv-c2fa5.wasmer.app/xmltv.php"
 #EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918
 #EXTINF:-1 group-title="Locals" tvg-id="15218",ABC 7 Los Angeles
