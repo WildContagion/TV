@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+#EXTINF:-1 tvg-id="99991247" tvg-name="" tvg-logo="" group-title="",NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99991245" tvg-name="" tvg-logo="" group-title="",TODAY All Day
+https://d36mmvz9np65vy.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="99951223" tvg-name="" tvg-logo="" group-title="",Sky News
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99991621" tvg-name="" tvg-logo="" group-title="",Universal Movies
+https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951264" tvg-name="" tvg-logo="" group-title="",Universal Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951253" tvg-name="" tvg-logo="" group-title="",NBC Sports NOW
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99991626" tvg-name="" tvg-logo="" group-title="",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="99951245" tvg-name="" tvg-logo="" group-title="",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951254" tvg-name="" tvg-logo="" group-title="",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951244" tvg-name="" tvg-logo="" group-title="",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951255" tvg-name="" tvg-logo="" group-title="",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99991651" tvg-name="" tvg-logo="" group-title="",NBC LX Home
+https://xumo-drct-ch486-uqd91.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951242" tvg-name="" tvg-logo="" group-title="",Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99951321" tvg-name="" tvg-logo="" group-title="",Noticias Telemundo Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
