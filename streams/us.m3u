@@ -29,6 +29,8 @@ https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/amg09501/AMG095
 https://amg01077-gustoworldwidem-gustous-ono-m2hqj.amagi.tv/playlist/amg01077-gustoworldwidem-gustous-ono/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="128535" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s128535_dark_360w_270h.png",HBCUGO SPORTS
 https://d28obgv5cdwxub.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="121350" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121350_dark_360w_270h.png",LiveXLive TV
+https://livestream.liveone.com/lc1/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="114313" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114313_dark_360w_270h.png",Outside
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="132317" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132317_dark_360w_270h.png",Sensical Jr.
