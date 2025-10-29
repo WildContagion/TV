@@ -45,7 +45,7 @@ https://amg00327-coxmediagroup-wfxtbreaking-ono-n5e03.amagi.tv/playlist.m3u8
 https://amg00327-coxmediagroup-wsocbreaking-ono-8j7a8.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="127884" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127884_dark_360w_270h.png",WHIO Dayton
 https://amg00327-coxmediagroup-whiobreaking-ono-01a0t.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="127883" tvg-logo="t",Action News Jax
+#EXTINF:-1 group-title="" tvg-id="127883" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127883_dark_360w_270h.png",Action News Jax
 https://amg00327-coxmediagroup-wjaxbreaking-ono-tv8pt.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="127880" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127880_dark_360w_270h.png",WFTV Orlando
 https://amg00327-coxmediagroup-wftvbreaking-ono-nf6r8.amagi.tv/playlist.m3u8
