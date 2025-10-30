@@ -7,7 +7,7 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 https://d1unlr8eqdemzw.cloudfront.net/live/origin-contribution-m1-btv-plus.m3u8
 #EXTINF:-1 group-title="" tvg-id="123870" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png",Bloomberg Originals
 https://d10d0llfaw1ovl.cloudfront.net/live/origin-contribution-m1-bloomberg-quicktake.m3u8
-#EXTINF:-1 group-title="Streaming" tvg-id="113452" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png",BUZZR
+#EXTINF:-1 group-title="" tvg-id="113452" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png",BUZZR
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="101103" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101103_dark_360w_270h.png",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
