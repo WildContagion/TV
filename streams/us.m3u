@@ -39,6 +39,8 @@ https://d28obgv5cdwxub.cloudfront.net/playlist.m3u8
 https://livestream.liveone.com/lc1/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="114313" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114313_dark_360w_270h.png",Outside
 https://outsidetv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="140284" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140284_dark_360w_270h.png",Salem News Channel
+https://snc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="132317" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132317_dark_360w_270h.png",Sensical Jr.
 https://sensical2up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="132320" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132320_dark_360w_270h.png",Sensical Makers
