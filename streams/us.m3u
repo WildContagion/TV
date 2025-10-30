@@ -1,10 +1,14 @@
 #EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/USA-GNSTR-DEFAULT.xml"
 #EXTINF:-1 group-title="" tvg-id="120551" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120551_dark_360w_270h.png",AccuWeather NOW
 https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="120375" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113143_dark_360w_270h.png",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="146874" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14755_dark_360w_270h.png",Bloomberg TV+
 https://d1unlr8eqdemzw.cloudfront.net/live/origin-contribution-m1-btv-plus.m3u8
 #EXTINF:-1 group-title="" tvg-id="123870" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123870_dark_360w_270h.png",Bloomberg Originals
 https://d10d0llfaw1ovl.cloudfront.net/live/origin-contribution-m1-bloomberg-quicktake.m3u8
+#EXTINF:-1 group-title="Streaming" tvg-id="113452" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png",BUZZR
+https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="101103" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101103_dark_360w_270h.png",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="112484" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112484_dark_360w_270h.png",The Film Detective
@@ -23,6 +27,8 @@ https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/
 https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="157273" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132456_dark_360w_270h.png",Estrella Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="106100" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106100_dark_360w_270h.png",Fubo Sports Network
+https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="124225" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124225_dark_360w_270h.png",GoTraveler
 https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/amg09501/AMG09501C1/segmented_playlist/0/35-89-3094.m3u8
 #EXTINF:-1 group-title="" tvg-id="111140" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111140_dark_360w_270h.png",Gusto TV
@@ -39,6 +45,8 @@ https://sensical2up-oando.amagi.tv/playlist.m3u8
 https://sensical5up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="132319" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132319_dark_360w_270h.png",Sensical Gaming
 https://sensical8up-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="112732" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112732_dark_360w_270h.png",SportsGrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="112480" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98858_dark_360w_270h.png",Tastemade
 https://amg00047-tastemade-tastemadefreetv1624i-ono-0u5cl.amagi.tv/playlist/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="125187" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125187_dark_360w_270h.png",Tastemade Home
