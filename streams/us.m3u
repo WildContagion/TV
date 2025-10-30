@@ -27,6 +27,8 @@ https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/
 https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="157273" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132456_dark_360w_270h.png",Estrella Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="113576" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113576_dark_360w_270h.png",For the Fans
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="" tvg-id="106100" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FER82.png_dark_360w_270h.png",Fubo Sports Network
 https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="124225" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124225_dark_360w_270h.png",GoTraveler
@@ -47,6 +49,11 @@ https://sensical2up-oando.amagi.tv/playlist.m3u8
 https://sensical5up-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="132319" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132319_dark_360w_270h.png",Sensical Gaming
 https://sensical8up-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="132889" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0028WQW9.png_dark_360w_270h.png",SPEED SPORT 1
+https://linear-599.frequency.stream/dist/monitoring/599/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="132889" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132889_dark_360w_270h.png",Speedvision
+https://eb9a3a62.wurl.com/
+T05PX1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="112732" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112732_dark_360w_270h.png",SportsGrid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="112480" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98858_dark_360w_270h.png",Tastemade
@@ -57,6 +64,8 @@ https://amg00047-tastemade-tastemadehome24i-ono-946u5.amagi.tv/playlist.m3u8
 https://amg00047-tastemade-tastemadetravelenglish24i-new.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="121424" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121424_dark_360w_270h.png",Waypoint TV
 https://amg00381-waypointcommuni-waypointtv-ono-wu0u8.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-ono/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="99988" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99988_dark_360w_270h.png",Local Now
+https://djocnjwtkehj4.cloudfront.net/37c4ba92985d8d79/746ac1558408920b/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="127879" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127879_dark_360w_270h.png",WSB Atlanta
 https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="127887" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127887_dark_360w_270h.png",Boston 25
