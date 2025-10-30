@@ -27,7 +27,7 @@ https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/
 https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="157273" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132456_dark_360w_270h.png",Estrella Games
 https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="106100" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106100_dark_360w_270h.png",Fubo Sports Network
+#EXTINF:-1 group-title="" tvg-id="106100" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FER82.png_dark_360w_270h.png",Fubo Sports Network
 https://playout.fubo.tv/fsn/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="124225" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124225_dark_360w_270h.png",GoTraveler
 https://amg09501-amg09501c1-ottera-us-2535.playouts.now.amagi.tv/amg09501/AMG09501C1/segmented_playlist/0/35-89-3094.m3u8
