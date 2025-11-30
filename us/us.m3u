@@ -17,6 +17,8 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/4fa93e24786
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32258_dark_360w_270h.png",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15218_dark_360w_270h.png",Pursuit Channel (no audio)
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121162_dark_360w_270h.png",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114934_dark_360w_270h.png",The First
@@ -53,16 +55,13 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="62271" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png",PBS HD Pacific
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="101364" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png",PBS KIDS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/est-dash|User-Agent=okhttp%2F4.9.0|R{SSM}|R
-#KODIPROP:mimetype=application/dash+xml
-https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="48990" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48990_dark_360w_270h.png",Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="56725" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56725_dark_360w_270h.png",World
 https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="82462" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82462_dark_360w_270h.png",FNX
+https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="16220" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16220_dark_360w_270h.png",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="16325" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16325_dark_360w_270h.png",Classic Arts Showcase
@@ -175,17 +174,3 @@ http://war.streamguys1.com:7185/Latino
 http://radio74.dyndns.org:8000/radio74stlint.mp3
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35118_dark_360w_270h.png" radio="true",BOTT Radio Network
 http://streaming.live365.com/a71179
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29659_dark_360w_270h.png" radio="true",CRN1
-http://listen.warpradio.com:8020/CRN1
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29660_dark_360w_270h.png" radio="true",CRN2
-http://listen.warpradio.com:8020/CRN2
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29670_dark_360w_270h.png" radio="true",CRN3
-http://listen.warpradio.com:8020/CRN3
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29671_dark_360w_270h.png" radio="true",CRN4
-http://listen.warpradio.com:8020/CRN4
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29675_dark_360w_270h.png" radio="true",CRN5
-http://listen.warpradio.com:8020/CRN5
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29676_dark_360w_270h.png" radio="true",CRN6
-http://listen.warpradio.com:8020/CRN6
-#EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73583_dark_360w_270h.png" radio="true",CRN7
-http://listen.warpradio.com:8020/CRN7
