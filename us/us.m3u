@@ -170,7 +170,7 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="49208" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",ONTV4U
 https://stirr.b-cdn.net/stirr/tracks-v3a1/mono.ts.m3u8
-MTA 8 America
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",MTA 8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47481_dark_360w_270h.png",NTD
 https://live.ntdtv.com/live900/playlist.m3u8
