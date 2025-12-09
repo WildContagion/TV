@@ -19,10 +19,10 @@ https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="119355" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119355_dark_360w_270h.png",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cineverse" tvg-id="111668" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111668_dark_360w_270h.png",Comedy Dynamics
-https://linear-903.frequency.stream/dist/cineverse/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="110480" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110480_dark_360w_270h.png",Dove
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cineverse" tvg-id="111668" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111668_dark_360w_270h.png",Comedy Dynamics
+https://linear-903.frequency.stream/dist/cineverse/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s128064_dark_360w_270h.png",EntrepreneurTV
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Estrella TV" tvg-id="117477" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png",Estrella TV
