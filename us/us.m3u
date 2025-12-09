@@ -25,7 +25,7 @@ https://thefirst-oando.amagi.tv/playlist.m3u8
 https://s-cdn.herringnetwork.com/live1/oane/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93141_dark_360w_270h.png",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="155158" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s155158_dark_360w_270h.png",Merit Street
+#EXTINF:-1 group-title="TV" tvg-id="155158" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s155158_dark_360w_270h.png",Merit TV
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="111043" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111043_dark_360w_270h.png",Court TV
 https://d21niorw6ywvgl.cloudfront.net/out/v1/58680ea755d94e089fd8a13e0ce2c174/index.m3u8
