@@ -11,14 +11,20 @@ https://d10d0llfaw1ovl.cloudfront.net/live/origin-contribution-m1-bloomberg-quic
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cheddar" tvg-id="101103" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101103_dark_360w_270h.png",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1 group-title="CineLife" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122969_dark_360w_270h.png",CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="112484" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112484_dark_360w_270h.png",The Film Detective
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="130620" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s130620_dark_360w_270h.png",AsianCrush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="119355" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119355_dark_360w_270h.png",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cineverse" tvg-id="111668" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111668_dark_360w_270h.png",Comedy Dynamics
+https://linear-903.frequency.stream/dist/cineverse/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Cineverse" tvg-id="110480" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110480_dark_360w_270h.png",Dove
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cineverse" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s128064_dark_360w_270h.png",EntrepreneurTV
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Estrella TV" tvg-id="117477" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png",Estrella TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="Estrella TV" tvg-id="121309" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117478_dark_360w_270h.png",Estrella News
@@ -51,6 +57,8 @@ https://d28obgv5cdwxub.cloudfront.net/playlist.m3u8
 https://livestream.liveone.com/lc1/master.m3u8
 #EXTINF:-1 group-title="Outside TV" tvg-id="114313" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114313_dark_360w_270h.png",Outside
 https://outsidetv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Revry" tvg-id="113603" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0021H2FE.png_dark_360w_270h.png",Revry
+https://linear-43.frequency.stream/mt/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Salem News Channel" tvg-id="140284" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140284_dark_360w_270h.png",Salem News Channel
 https://snc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sensical" tvg-id="132317" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132317_dark_360w_270h.png",Sensical Jr.
@@ -71,6 +79,8 @@ https://amg00047-tastemade-tastemadefreetv1624i-ono-0u5cl.amagi.tv/playlist/amg0
 https://amg00047-tastemade-tastemadehome24i-ono-946u5.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Tastemade" tvg-id="120351" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120351_dark_360w_270h.png",Tastemade Travel
 https://amg00047-tastemade-tastemadetravelenglish24i-new.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Grio" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116018_dark_360w_270h.png",The Grio
+https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Waypoint TV" tvg-id="121424" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121424_dark_360w_270h.png",Waypoint TV
 https://amg00381-waypointcommuni-waypointtv-ono-wu0u8.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Now" tvg-id="99988" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99988_dark_360w_270h.png",Local Now
