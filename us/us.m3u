@@ -5,6 +5,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://vs-hls-pushb-ntham-gcomm-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82542_dark_360w_270h.png",OAN
 https://s-cdn.herringnetwork.com/live1/oan/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11187_dark_360w_270h.png",The Weather Channel
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44895_dark_360w_270h.png",AWE
 https://s-cdn.herringnetwork.com/live1/awe/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63717_dark_360w_270h.png",RFD-TV
@@ -169,7 +171,7 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="26643" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0025V1KH.png_dark_360w_270h.png",Gems
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="49208" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49208_dark_360w_270h.png",ONTV4U
-https://stirr.b-cdn.net/stirr/tracks-v3a1/mono.ts.m3u8
+https://vizio.b-cdn.net/vizio-abr/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",MTA 8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47481_dark_360w_270h.png",NTD
