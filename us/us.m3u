@@ -110,7 +110,7 @@ https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18999_dark_360w_270h.png",GEB
 https://5abbf4687b6ea.streamlock.net/live/gebtest/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="14767" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png" catchup="default" catchup-source="https://livecdn.use1-0004.jwplive.com/live/sites/2hbjTQ4s/media/oe7UD7Ag/live.isml/.mpd?dvr_window_length=${offset}",TBN
+#EXTINF:-1 group-title="TV" tvg-id="14767" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14767_dark_360w_270h.png" catchup="default" catchup-source="https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.mpd?dvr_window_length=${offset}",TBN
 https://cdn.jwplayer.com/live/broadcast/fCGf6ROk.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="122276" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122276_dark_360w_270h.png",TBN Inspire
 https://cdn.jwplayer.com/live/broadcast/yfFI83Xz.m3u8
