@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://arkina1234.github.io/xmltv/guide/USA-GNSTR-DEFAULT.xml"
+#EXTM3U url-tvg="https://wildcontagion.github.io/xmltv/guide/USA-GNSTR-DEFAULT.xml"
 #EXTINF:-1 group-title="AccuWeather" tvg-id="120551" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120551_dark_360w_270h.png",AccuWeather NOW
 https://amg00684-accuweatherinc-accuweather-ono-8kh8p.amagi.tv/playlist/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
 #EXTINF:-1 group-title="beIN SPORTS XTRA" tvg-id="120375" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113143_dark_360w_270h.png",beIN SPORTS XTRA
