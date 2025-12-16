@@ -25,6 +25,8 @@ https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 https://xumo-drct-ch486-uqd91.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="99951242" tvg-name="" tvg-logo="" group-title="",Bravo Vault
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="99991747" tvg-name="" tvg-logo="" group-title="",Telemundo Al Día
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1 tvg-id="99951321" tvg-name="" tvg-logo="" group-title="",Noticias Telemundo Ahora
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="99951168" tvg-name="" tvg-logo="" group-title="",NBC 10 Boston News
