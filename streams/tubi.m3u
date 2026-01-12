@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="https://github.com/BuddyChewChew/tubi-scraper/raw/refs/heads/main/tubi_epg.xml"
+#EXTINF:-1 tvg-id="555127",LiveNOW from FOX
+https://aegis-cloudfront-1.tubi.video/d9791887-fac6-4930-83b3-c2e8196424ef/index.m3u8
+#EXTINF:-1 tvg-id="555382",FOX SOUL
+https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
+#EXTINF:-1,FOX LOCAL Atlanta
+https://livetv-fa.tubi.video/waga/index.m3u8
+#EXTINF:-1,FOX LOCAL Austin
+https://livetv-fa.tubi.video/ktbc/index.m3u8
+#EXTINF:-1,FOX LOCAL Chicago
+https://livetv-fa.tubi.video/wfld/index.m3u8
+#EXTINF:-1,FOX LOCAL Dallas-Fort Worth
+https://livetv-fa.tubi.video/kdfw/index.m3u8
+#EXTINF:-1,FOX LOCAL Detroit
+https://livetv-fa.tubi.video/wjbk/index.m3u8
+#EXTINF:-1,FOX LOCAL Houston
+https://livetv-fa.tubi.video/kriv/index.m3u8
+#EXTINF:-1,FOX LOCAL Los Angeles
+https://livetv-fa.tubi.video/kttv/index.m3u8
+#EXTINF:-1,FOX LOCAL Milwaukee
+https://livetv-fa.tubi.video/witi/index.m3u8
+#EXTINF:-1,FOX LOCAL Minneapolis
+https://livetv-fa.tubi.video/kmsp/index.m3u8
+#EXTINF:-1,FOX LOCAL New York
+https://livetv-fa.tubi.video/wnyw/index.m3u8
+#EXTINF:-1,FOX LOCAL Orlando
+https://livetv-fa.tubi.video/wofl/index.m3u8
+#EXTINF:-1,FOX LOCAL Philadelphia
+https://livetv-fa.tubi.video/wtxf/index.m3u8
+#EXTINF:-1,FOX LOCAL Phoenix
+https://livetv-fa.tubi.video/ksaz/index.m3u8
+#EXTINF:-1,FOX LOCAL San Francisco
+https://livetv-fa.tubi.video/ktvu/index.m3u8
+#EXTINF:-1,FOX LOCAL Seattle
+https://livetv-fa.tubi.video/kcpq/index.m3u8
+#EXTINF:-1,FOX LOCAL Tampa Bay
+https://livetv-fa.tubi.video/wtvt/index.m3u8
+#EXTINF:-1,FOX LOCAL Washington DC
+https://livetv-fa.tubi.video/wttg/index.m3u8
